@@ -1,7 +1,1 @@
-#EXTM3U
-#EXTINF:-1 group-title="gill", Tun:Attessia-TV
-http://tv2iptv.com:8080/gill/Gill2020/34662
-#EXTINF:-1 group-title="gill", AR:ATTESSIA-TV
-http://tv2iptv.com:8080/gill/Gill2020/1153
-#EXTINF:-1,Wreck-It Ralph
-http://dragon2020.com:8080/movie/admin_500465/8rSdnAxW/151549.mkv
+#EXTINF:-1 group-title="gill", Tun:Attessia-TVhttp://tv2iptv.com:8080/gill/Gill2020/34662#EXTINF:-1 group-title="gill", AR:ATTESSIA-TVhttp://tv2iptv.com:8080/gill/Gill2020/1153
