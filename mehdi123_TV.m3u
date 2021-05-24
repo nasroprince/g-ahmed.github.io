@@ -1,4 +1,4 @@
-#EXTM3U#EXTINF:-1 group-title='',##### BEIN ENTERTAINMENT #####
+#EXTM3U#EXTINF:-1 group-title='##### BEIN ENTERTAINMENT #####',##### BEIN ENTERTAINMENT #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/78838
 #EXTINF:-1 group-title='##### BEIN ENTERTAINMENT #####',|AR| BEIN SERIES 1 HD
 http://rv.therevenge.co:80/mehdi123/mehdi321/78837
@@ -42,7 +42,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/78818
 http://rv.therevenge.co:80/mehdi123/mehdi321/78817
 #EXTINF:-1 group-title='##### BEIN ENTERTAINMENT #####',|AR| BEIN MOVIES 4 HD
 http://rv.therevenge.co:80/mehdi123/mehdi321/78816
-#EXTINF:-1 group-title='##### BEIN ENTERTAINMENT #####',##### |BEIN| MOVIES 4K #####
+#EXTINF:-1 group-title='##### |BEIN| MOVIES 4K #####',##### |BEIN| MOVIES 4K #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/164206
 #EXTINF:-1 group-title='##### |BEIN| MOVIES 4K #####',|AR| BEIN MOVIES 1 4K
 http://rv.therevenge.co:80/mehdi123/mehdi321/164205
@@ -52,7 +52,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/164204
 http://rv.therevenge.co:80/mehdi123/mehdi321/164203
 #EXTINF:-1 group-title='##### |BEIN| MOVIES 4K #####',|AR| BEIN MOVIES 4 4K
 http://rv.therevenge.co:80/mehdi123/mehdi321/164202
-#EXTINF:-1 group-title='##### |BEIN| MOVIES 4K #####',##### |BEIN| ENTERTAINMENT 4K #####
+#EXTINF:-1 group-title='##### |BEIN| ENTERTAINMENT 4K #####',##### |BEIN| ENTERTAINMENT 4K #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/164201
 #EXTINF:-1 group-title='##### |BEIN| ENTERTAINMENT 4K #####',|AR| BEIN SERIES 1 4K
 http://rv.therevenge.co:80/mehdi123/mehdi321/164200
@@ -80,7 +80,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/164190
 http://rv.therevenge.co:80/mehdi123/mehdi321/164189
 #EXTINF:-1 group-title='##### |BEIN| ENTERTAINMENT 4K #####',|AR| BEIN NAT GEO WILD 4K
 http://rv.therevenge.co:80/mehdi123/mehdi321/164188
-#EXTINF:-1 group-title='##### |BEIN| ENTERTAINMENT 4K #####',##### |OSN| HD #####
+#EXTINF:-1 group-title='##### |OSN| HD #####',##### |OSN| HD #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/78958
 #EXTINF:-1 group-title='##### |OSN| HD #####',AR: ART CINEMA
 http://rv.therevenge.co:80/mehdi123/mehdi321/144618
@@ -160,7 +160,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/78917
 http://rv.therevenge.co:80/mehdi123/mehdi321/78916
 #EXTINF:-1 group-title='##### |OSN| HD #####',|OSN| CNBC EUROPE
 http://rv.therevenge.co:80/mehdi123/mehdi321/78914
-#EXTINF:-1 group-title='##### |OSN| HD #####',##### |OSN| HEVC #####
+#EXTINF:-1 group-title='##### |OSN| HEVC #####',##### |OSN| HEVC #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/78912
 #EXTINF:-1 group-title='##### |OSN| HEVC #####',|OSN|HEVC| E! HD
 http://rv.therevenge.co:80/mehdi123/mehdi321/78911
@@ -228,7 +228,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/78868
 http://rv.therevenge.co:80/mehdi123/mehdi321/78867
 #EXTINF:-1 group-title='##### |OSN| HEVC #####',|OSN|SD| YAHALA
 http://rv.therevenge.co:80/mehdi123/mehdi321/78844
-#EXTINF:-1 group-title='##### |OSN| HEVC #####',##### |AR| YEMEN #####
+#EXTINF:-1 group-title='##### |AR| YEMEN #####',##### |AR| YEMEN #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/163882
 #EXTINF:-1 group-title='##### |AR| YEMEN #####',|AR| YEMEN TV
 http://rv.therevenge.co:80/mehdi123/mehdi321/163881
@@ -516,7 +516,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/160734
 http://rv.therevenge.co:80/mehdi123/mehdi321/160733
 #EXTINF:-1 group-title='##### |AR| YEMEN #####',Omar Al-Kazabri - عمر القزابري
 http://rv.therevenge.co:80/mehdi123/mehdi321/160593
-#EXTINF:-1 group-title='##### |AR| YEMEN #####',##### |AR| KIDS *#####
+#EXTINF:-1 group-title='##### |AR| KIDS *#####',##### |AR| KIDS *#####
 http://rv.therevenge.co:80/mehdi123/mehdi321/109781
 #EXTINF:-1 group-title='##### |AR| KIDS *#####',|AR|  كونغ فو باندا
 http://rv.therevenge.co:80/mehdi123/mehdi321/109791
@@ -536,17 +536,17 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/109777
 http://rv.therevenge.co:80/mehdi123/mehdi321/109775
 #EXTINF:-1 group-title='##### |AR| KIDS *#####',|AR| AL MAJD KIDS HD**
 http://rv.therevenge.co:80/mehdi123/mehdi321/109773
-#EXTINF:-1 group-title='##### |AR| KIDS *#####',|AR| SPACETOON***
+#EXTINF:-1 group-title='|AR| SPACETOON***',|AR| SPACETOON***
 http://rv.therevenge.co:80/mehdi123/mehdi321/109772
 #EXTINF:-1 group-title='|AR| SPACETOON***',BARAEEM
 http://rv.therevenge.co:80/mehdi123/mehdi321/109793
 #EXTINF:-1 group-title='|AR| SPACETOON***',|AR| CARTOON NETWORK**
 http://rv.therevenge.co:80/mehdi123/mehdi321/109771
-#EXTINF:-1 group-title='|AR| SPACETOON***',|AR| TOYOR ALJANAH***
+#EXTINF:-1 group-title='|AR| TOYOR ALJANAH***',|AR| TOYOR ALJANAH***
 http://rv.therevenge.co:80/mehdi123/mehdi321/109770
-#EXTINF:-1 group-title='|AR| TOYOR ALJANAH***',##### |AR| MOROCCO #####
+#EXTINF:-1 group-title='##### |AR| MOROCCO #####',##### |AR| MOROCCO #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/79405
-#EXTINF:-1 group-title='##### |AR| MOROCCO #####',##### |AR| MOROCCO TNT (بلد) #####
+#EXTINF:-1 group-title='##### |AR| MOROCCO TNT (بلد) #####',##### |AR| MOROCCO TNT (بلد) #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/79404
 #EXTINF:-1 group-title='##### |AR| MOROCCO TNT (بلد) #####',AL AOULA INT HEVC
 http://rv.therevenge.co:80/mehdi123/mehdi321/148491
@@ -626,7 +626,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/79373
 http://rv.therevenge.co:80/mehdi123/mehdi321/79372
 #EXTINF:-1 group-title='##### |AR| MOROCCO TNT (بلد) #####',|AR| M24 MAROC
 http://rv.therevenge.co:80/mehdi123/mehdi321/79371
-#EXTINF:-1 group-title='##### |AR| MOROCCO TNT (بلد) #####',##### |AR| MBC GROUP #####
+#EXTINF:-1 group-title='##### |AR| MBC GROUP #####',##### |AR| MBC GROUP #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/79479
 #EXTINF:-1 group-title='##### |AR| MBC GROUP #####',|AR| MBC 1
 http://rv.therevenge.co:80/mehdi123/mehdi321/79478
@@ -660,7 +660,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/79465
 http://rv.therevenge.co:80/mehdi123/mehdi321/79464
 #EXTINF:-1 group-title='##### |AR| MBC GROUP #####',|AR| MBC MASR
 http://rv.therevenge.co:80/mehdi123/mehdi321/79463
-#EXTINF:-1 group-title='##### |AR| MBC GROUP #####',##### |AR| MBC UHD #####
+#EXTINF:-1 group-title='##### |AR| MBC UHD #####',##### |AR| MBC UHD #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/79462
 #EXTINF:-1 group-title='##### |AR| MBC UHD #####',|AR| MBC 1 UHD
 http://rv.therevenge.co:80/mehdi123/mehdi321/79461
@@ -688,7 +688,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/79451
 http://rv.therevenge.co:80/mehdi123/mehdi321/79450
 #EXTINF:-1 group-title='##### |AR| MBC UHD #####',|AR| MBC DRAMA PLUS UHD
 http://rv.therevenge.co:80/mehdi123/mehdi321/79449
-#EXTINF:-1 group-title='##### |AR| MBC UHD #####',##### |AR| TUNISIA #####
+#EXTINF:-1 group-title='##### |AR| TUNISIA #####',##### |AR| TUNISIA #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/79448
 #EXTINF:-1 group-title='##### |AR| TUNISIA #####',|AR| M TUNISIA
 http://rv.therevenge.co:80/mehdi123/mehdi321/79447
@@ -720,7 +720,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/79435
 http://rv.therevenge.co:80/mehdi123/mehdi321/79434
 #EXTINF:-1 group-title='##### |AR| TUNISIA #####',|AR| CARTHAGE+
 http://rv.therevenge.co:80/mehdi123/mehdi321/79433
-#EXTINF:-1 group-title='##### |AR| TUNISIA #####',##### |AR| ALGERIA #####
+#EXTINF:-1 group-title='##### |AR| ALGERIA #####',##### |AR| ALGERIA #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/79432
 #EXTINF:-1 group-title='##### |AR| ALGERIA #####',|AR| ENTV ALGERIE
 http://rv.therevenge.co:80/mehdi123/mehdi321/79431
@@ -774,7 +774,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/79408
 http://rv.therevenge.co:80/mehdi123/mehdi321/79407
 #EXTINF:-1 group-title='##### |AR| ALGERIA #####',|AR| AL HAYAT TV
 http://rv.therevenge.co:80/mehdi123/mehdi321/79406
-#EXTINF:-1 group-title='##### |AR| ALGERIA #####',##### |AR| NEWS & FACTUAL #####
+#EXTINF:-1 group-title='##### |AR| NEWS & FACTUAL #####',##### |AR| NEWS & FACTUAL #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/79694
 #EXTINF:-1 group-title='##### |AR| NEWS & FACTUAL #####',|AR| CORONA VIRUS INFO
 http://rv.therevenge.co:80/mehdi123/mehdi321/79693
@@ -840,7 +840,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/79665
 http://rv.therevenge.co:80/mehdi123/mehdi321/79664
 #EXTINF:-1 group-title='##### |AR| NEWS & FACTUAL #####',|AR| Al EKHBARIA HD
 http://rv.therevenge.co:80/mehdi123/mehdi321/79663
-#EXTINF:-1 group-title='##### |AR| NEWS & FACTUAL #####',##### |AR| MAURITANIA #####
+#EXTINF:-1 group-title='##### |AR| MAURITANIA #####',##### |AR| MAURITANIA #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/86598
 #EXTINF:-1 group-title='##### |AR| MAURITANIA #####',|AR| ELMOURITANIA
 http://rv.therevenge.co:80/mehdi123/mehdi321/86597
@@ -862,7 +862,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/86590
 http://rv.therevenge.co:80/mehdi123/mehdi321/86589
 #EXTINF:-1 group-title='##### |AR| MAURITANIA #####',|AR| SAHEL TV
 http://rv.therevenge.co:80/mehdi123/mehdi321/86588
-#EXTINF:-1 group-title='##### |AR| MAURITANIA #####',##### |AR| JORDAN #####
+#EXTINF:-1 group-title='##### |AR| JORDAN #####',##### |AR| JORDAN #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/86587
 #EXTINF:-1 group-title='##### |AR| JORDAN #####',|AR| AL MAMLAKA
 http://rv.therevenge.co:80/mehdi123/mehdi321/86586
@@ -890,7 +890,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/86576
 http://rv.therevenge.co:80/mehdi123/mehdi321/86575
 #EXTINF:-1 group-title='##### |AR| JORDAN #####',|AR| AL GHAD AL ARABY HD
 http://rv.therevenge.co:80/mehdi123/mehdi321/86574
-#EXTINF:-1 group-title='##### |AR| JORDAN #####',##### |AR| SYRIA #####
+#EXTINF:-1 group-title='##### |AR| SYRIA #####',##### |AR| SYRIA #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/86573
 #EXTINF:-1 group-title='##### |AR| SYRIA #####',|AR| SYRIA SATELLITE TV
 http://rv.therevenge.co:80/mehdi123/mehdi321/86572
@@ -938,7 +938,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/86552
 http://rv.therevenge.co:80/mehdi123/mehdi321/86551
 #EXTINF:-1 group-title='##### |AR| SYRIA #####',|AR| SYRIA NEWS TV
 http://rv.therevenge.co:80/mehdi123/mehdi321/86550
-#EXTINF:-1 group-title='##### |AR| SYRIA #####',##### |AR| LEBANON #####
+#EXTINF:-1 group-title='##### |AR| LEBANON #####',##### |AR| LEBANON #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/86549
 #EXTINF:-1 group-title='##### |AR| LEBANON #####',|AR| LBC HD
 http://rv.therevenge.co:80/mehdi123/mehdi321/86548
@@ -990,7 +990,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/86526
 http://rv.therevenge.co:80/mehdi123/mehdi321/86525
 #EXTINF:-1 group-title='##### |AR| LEBANON #####',|AR| LBC 2 HD
 http://rv.therevenge.co:80/mehdi123/mehdi321/86524
-#EXTINF:-1 group-title='##### |AR| LEBANON #####',##### |AR| PALESTINE #####
+#EXTINF:-1 group-title='##### |AR| PALESTINE #####',##### |AR| PALESTINE #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/86523
 #EXTINF:-1 group-title='##### |AR| PALESTINE #####',|AR| MAAN TV
 http://rv.therevenge.co:80/mehdi123/mehdi321/86522
@@ -1012,7 +1012,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/86515
 http://rv.therevenge.co:80/mehdi123/mehdi321/86514
 #EXTINF:-1 group-title='##### |AR| PALESTINE #####',|AR| EL FADJER 2
 http://rv.therevenge.co:80/mehdi123/mehdi321/86513
-#EXTINF:-1 group-title='##### |AR| PALESTINE #####',##### |AR| UAE #####
+#EXTINF:-1 group-title='##### |AR| UAE #####',##### |AR| UAE #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/86512
 #EXTINF:-1 group-title='##### |AR| UAE #####',|AR| DUBAI TV HD
 http://rv.therevenge.co:80/mehdi123/mehdi321/86511
@@ -1060,7 +1060,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/86491
 http://rv.therevenge.co:80/mehdi123/mehdi321/86490
 #EXTINF:-1 group-title='##### |AR| UAE #####',|AR| DUBAI TV
 http://rv.therevenge.co:80/mehdi123/mehdi321/86489
-#EXTINF:-1 group-title='##### |AR| UAE #####',##### |AR| IRAQ #####
+#EXTINF:-1 group-title='##### |AR| IRAQ #####',##### |AR| IRAQ #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/86488
 #EXTINF:-1 group-title='##### |AR| IRAQ #####',|AR| IRAQIA NEWS
 http://rv.therevenge.co:80/mehdi123/mehdi321/86487
@@ -1188,7 +1188,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/86427
 http://rv.therevenge.co:80/mehdi123/mehdi321/86426
 #EXTINF:-1 group-title='##### |AR| IRAQ #####',|AR| AL-EBAA TV
 http://rv.therevenge.co:80/mehdi123/mehdi321/86425
-#EXTINF:-1 group-title='##### |AR| IRAQ #####',##### |AR| EGYPT #####
+#EXTINF:-1 group-title='##### |AR| EGYPT #####',##### |AR| EGYPT #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/86424
 #EXTINF:-1 group-title='##### |AR| EGYPT #####',|AR| HUDA TV
 http://rv.therevenge.co:80/mehdi123/mehdi321/86423
@@ -1410,7 +1410,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/108553
 http://rv.therevenge.co:80/mehdi123/mehdi321/108552
 #EXTINF:-1 group-title='##### |AR| EGYPT #####',|AR| IRAQIA TV HD
 http://rv.therevenge.co:80/mehdi123/mehdi321/108551
-#EXTINF:-1 group-title='##### |AR| EGYPT #####',##### |AR| ROTANA HD #####
+#EXTINF:-1 group-title='##### |AR| ROTANA HD #####',##### |AR| ROTANA HD #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/79897
 #EXTINF:-1 group-title='##### |AR| ROTANA HD #####',|AR| ROTANA COMEDY HD
 http://rv.therevenge.co:80/mehdi123/mehdi321/79895
@@ -1424,7 +1424,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/79890
 http://rv.therevenge.co:80/mehdi123/mehdi321/79888
 #EXTINF:-1 group-title='##### |AR| ROTANA HD #####',|AR| ROTANA MUSIC HD
 http://rv.therevenge.co:80/mehdi123/mehdi321/79886
-#EXTINF:-1 group-title='##### |AR| ROTANA HD #####',##### |AR| ROTANA #####
+#EXTINF:-1 group-title='##### |AR| ROTANA #####',##### |AR| ROTANA #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/79884
 #EXTINF:-1 group-title='##### |AR| ROTANA #####',|AR| ROTANA
 http://rv.therevenge.co:80/mehdi123/mehdi321/79882
@@ -1444,7 +1444,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/79871
 http://rv.therevenge.co:80/mehdi123/mehdi321/79870
 #EXTINF:-1 group-title='##### |AR| ROTANA #####',|AR| MAZZIKA
 http://rv.therevenge.co:80/mehdi123/mehdi321/79868
-#EXTINF:-1 group-title='##### |AR| ROTANA #####',##### |AR| SAUDI ARABIA #####
+#EXTINF:-1 group-title='##### |AR| SAUDI ARABIA #####',##### |AR| SAUDI ARABIA #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/79830
 #EXTINF:-1 group-title='##### |AR| SAUDI ARABIA #####',|AR| SBC
 http://rv.therevenge.co:80/mehdi123/mehdi321/79829
@@ -1476,7 +1476,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/79817
 http://rv.therevenge.co:80/mehdi123/mehdi321/79816
 #EXTINF:-1 group-title='##### |AR| SAUDI ARABIA #####',|AR| AL SAHRAA
 http://rv.therevenge.co:80/mehdi123/mehdi321/79815
-#EXTINF:-1 group-title='##### |AR| SAUDI ARABIA #####',##### |AR| ISLAMIC #####
+#EXTINF:-1 group-title='##### |AR| ISLAMIC #####',##### |AR| ISLAMIC #####
 http://rv.therevenge.co:80/mehdi123/mehdi321/81172
 #EXTINF:-1 group-title='##### |AR| ISLAMIC #####',|AR| SAUDI QURAN
 http://rv.therevenge.co:80/mehdi123/mehdi321/81135
@@ -1560,11 +1560,11 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/81065
 http://rv.therevenge.co:80/mehdi123/mehdi321/81063
 #EXTINF:-1 group-title='##### |AR| ISLAMIC #####',Saad El-Ghamidi - سعد الغامدي
 http://rv.therevenge.co:80/mehdi123/mehdi321/159940
-#EXTINF:-1 group-title='##### |AR| ISLAMIC #####',|AR| FLIX  -------ISLAMIC------
+#EXTINF:-1 group-title='|AR| FLIX  -------ISLAMIC------',|AR| FLIX  -------ISLAMIC------
 http://rv.therevenge.co:80/mehdi123/mehdi321/110752
 #EXTINF:-1 group-title='|AR| FLIX  -------ISLAMIC------',|AR| FLIX RIF ISLAM
 http://rv.therevenge.co:80/mehdi123/mehdi321/109794
-#EXTINF:-1 group-title='|AR| FLIX  -------ISLAMIC------',|AR| FLIX  -------COMEDY-------
+#EXTINF:-1 group-title='|AR| FLIX  -------COMEDY-------',|AR| FLIX  -------COMEDY-------
 http://rv.therevenge.co:80/mehdi123/mehdi321/110753
 #EXTINF:-1 group-title='|AR| FLIX  -------COMEDY-------',|AR| FLIX  COUPLE
 http://rv.therevenge.co:80/mehdi123/mehdi321/86834
@@ -1576,7 +1576,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/159942
 http://rv.therevenge.co:80/mehdi123/mehdi321/159941
 #EXTINF:-1 group-title='|AR| FLIX  -------COMEDY-------',|AR| FLIX ALWA | FARTOUTE
 http://rv.therevenge.co:80/mehdi123/mehdi321/159943
-#EXTINF:-1 group-title='|AR| FLIX  -------COMEDY-------',|AR| FLIX  -----CINEMA-------
+#EXTINF:-1 group-title='|AR| FLIX  -----CINEMA-------',|AR| FLIX  -----CINEMA-------
 http://rv.therevenge.co:80/mehdi123/mehdi321/110755
 #EXTINF:-1 group-title='|AR| FLIX  -----CINEMA-------',|AR| FLIX ADEL IMAM
 http://rv.therevenge.co:80/mehdi123/mehdi321/159922
@@ -1604,7 +1604,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/127214
 http://rv.therevenge.co:80/mehdi123/mehdi321/130703
 #EXTINF:-1 group-title='|AR| FLIX  -----CINEMA-------',|AR| NETFLIX DRAME
 http://rv.therevenge.co:80/mehdi123/mehdi321/110750
-#EXTINF:-1 group-title='|AR| FLIX  -----CINEMA-------',|AR| FLIX  --------KIDS--------
+#EXTINF:-1 group-title='|AR| FLIX  --------KIDS--------',|AR| FLIX  --------KIDS--------
 http://rv.therevenge.co:80/mehdi123/mehdi321/110754
 #EXTINF:-1 group-title='|AR| FLIX  --------KIDS--------',|AR| FLIX MAWGLI
 http://rv.therevenge.co:80/mehdi123/mehdi321/159836
@@ -1632,13 +1632,13 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/159919
 http://rv.therevenge.co:80/mehdi123/mehdi321/159920
 #EXTINF:-1 group-title='|AR| FLIX  --------KIDS--------',|AR| FLIX SALI
 http://rv.therevenge.co:80/mehdi123/mehdi321/159921
-#EXTINF:-1 group-title='|AR| FLIX  --------KIDS--------',|AR| FLIX  --------MUSIC--------
+#EXTINF:-1 group-title='|AR| FLIX  --------MUSIC--------',|AR| FLIX  --------MUSIC--------
 http://rv.therevenge.co:80/mehdi123/mehdi321/110756
 #EXTINF:-1 group-title='|AR| FLIX  --------MUSIC--------',|AR| FLIX HIT 
 http://rv.therevenge.co:80/mehdi123/mehdi321/127213
 #EXTINF:-1 group-title='|AR| FLIX  --------MUSIC--------',|AR| FLIX IDIR MUSIC
 http://rv.therevenge.co:80/mehdi123/mehdi321/159916
-#EXTINF:-1 group-title='|AR| FLIX  --------MUSIC--------',**********LOCAL1***********
+#EXTINF:-1 group-title='**********LOCAL1***********',**********LOCAL1***********
 http://rv.therevenge.co:80/mehdi123/mehdi321/164062
 #EXTINF:-1 group-title='**********LOCAL1***********',Bein Sport HD
 http://rv.therevenge.co:80/mehdi123/mehdi321/163931
@@ -1736,7 +1736,7 @@ http://rv.therevenge.co:80/mehdi123/mehdi321/163885
 http://rv.therevenge.co:80/mehdi123/mehdi321/163884
 #EXTINF:-1 group-title='**********LOCAL1***********',Bein Sport HD7 720
 http://rv.therevenge.co:80/mehdi123/mehdi321/163883
-#EXTINF:-1 group-title='**********LOCAL1***********',**********LOCAL2*********** 
+#EXTINF:-1 group-title='**********LOCAL2*********** ',**********LOCAL2*********** 
 http://rv.therevenge.co:80/mehdi123/mehdi321/164063
 #EXTINF:-1 group-title='**********LOCAL2*********** ',LO BEINS PORTS 1 4K
 http://rv.therevenge.co:80/mehdi123/mehdi321/164061
