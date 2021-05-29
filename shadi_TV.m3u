@@ -526,8 +526,6 @@ http://xiptv.dyndns.tv:8000/shadi/987654321/38059
 http://xiptv.dyndns.tv:8000/shadi/987654321/38060
 #EXTINF:-1 group-title="Other",BOX OFFICE ENGLISH 8
 http://xiptv.dyndns.tv:8000/shadi/987654321/38061
-#EXTINF:-1 group-title="Other",BOX OFFICE ENGLISH 9
-http://xiptv.dyndns.tv:8000/shadi/987654321/38062
 #EXTINF:-1 group-title="Other",BOX OFFICE ENGLISH 10
 http://xiptv.dyndns.tv:8000/shadi/987654321/38063
 #EXTINF:-1 group-title="Other",BOX OFFICE ENGLISH 11
@@ -1832,7 +1830,7 @@ http://xiptv.dyndns.tv:8000/shadi/987654321/31
 http://xiptv.dyndns.tv:8000/shadi/987654321/1953
 #EXTINF:-1 group-title="Other",AR-ONE TV
 http://xiptv.dyndns.tv:8000/shadi/987654321/24047
-#EXTINF:-1 group-title="Other",AR-Hawacom
+#EXTINF:-1 group-title="Other",AR-Nogoum FM TV
 http://xiptv.dyndns.tv:8000/shadi/987654321/260
 #EXTINF:-1 group-title="Other",AR-Aghani
 http://xiptv.dyndns.tv:8000/shadi/987654321/1096
