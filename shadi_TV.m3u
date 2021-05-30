@@ -1840,6 +1840,382 @@ http://xiptv.dyndns.tv:8000/shadi/987654321/2398
 http://xiptv.dyndns.tv:8000/shadi/987654321/5733
 #EXTINF:-1 group-title="Other",AR-Wanasah HD
 http://xiptv.dyndns.tv:8000/shadi/987654321/468
+#EXTINF:-1 group-title="MBC",AR-MBC-1-HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/888
+#EXTINF:-1 group-title="MBC",AR-MBC-2-HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/889
+#EXTINF:-1 group-title="MBC",AR-MBC-4-HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/891
+#EXTINF:-1 group-title="MBC",AR-MBC-5-HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/2847
+#EXTINF:-1 group-title="MBC",AR-MBC-Drama-HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/893
+#EXTINF:-1 group-title="MBC",AR-MBC+Drama-HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/13
+#EXTINF:-1 group-title="MBC",AR-MBC-Action-HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/892
+#EXTINF:-1 group-title="MBC",AR-MBC-Max-HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/894
+#EXTINF:-1 group-title="MBC",AR-MBC+Variety HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/49
+#EXTINF:-1 group-title="MBC",AR-MBC-BOLLYWOOD-HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/267
+#EXTINF:-1 group-title="MBC",AR-MBC-MASR 1
+http://xiptv.dyndns.tv:8000/shadi/987654321/288
+#EXTINF:-1 group-title="MBC",AR-MBC-MASR-2
+http://xiptv.dyndns.tv:8000/shadi/987654321/287
+#EXTINF:-1 group-title="MBC",AR-MBC Iraq HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/521
+#EXTINF:-1 group-title="MBC",AR-MBC Persia
+http://xiptv.dyndns.tv:8000/shadi/987654321/26601
+#EXTINF:-1 group-title="Other",AR-Palestine HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/32361
+#EXTINF:-1 group-title="Other",AR-Musawa
+http://xiptv.dyndns.tv:8000/shadi/987654321/1941
+#EXTINF:-1 group-title="Other",AR-Salam-TV
+http://htvint.mada.ps:8889/salamtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Other",AR-Betlahem Tv HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/197
+#EXTINF:-1 group-title="Other",AR-Al-Fajer TV 1
+http://xiptv.dyndns.tv:8000/shadi/987654321/39
+#EXTINF:-1 group-title="Other",AR-Al-Fajer TV 2
+http://xiptv.dyndns.tv:8000/shadi/987654321/198
+#EXTINF:-1 group-title="Other",AR-Al-Fajer TV 3
+http://xiptv.dyndns.tv:8000/shadi/987654321/42
+#EXTINF:-1 group-title="Other",AR-Al-Fajer TV 4
+http://xiptv.dyndns.tv:8000/shadi/987654321/44
+#EXTINF:-1 group-title="Other",AR-Al-Fajer TV 5
+http://xiptv.dyndns.tv:8000/shadi/987654321/45
+#EXTINF:-1 group-title="Other",AR-Horya1-TV
+http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
+#EXTINF:-1 group-title="Other",AR-Horya2-TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/3758
+#EXTINF:-1 group-title="Other",AR-Kol Al Nas
+http://xiptv.dyndns.tv:8000/shadi/987654321/25067
+#EXTINF:-1 group-title="Other",AR-RAYA1-TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/1968
+#EXTINF:-1 group-title="Other",AR-WATAN PS
+http://xiptv.dyndns.tv:8000/shadi/987654321/36181
+#EXTINF:-1 group-title="Other",AR-PNN TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/25145
+#EXTINF:-1 group-title="Other",AR-AL KAWTHAR Palestine
+http://xiptv.dyndns.tv:8000/shadi/987654321/3715
+#EXTINF:-1 group-title="Other",AR-Ajyal-TV-HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/394
+#EXTINF:-1 group-title="Other",AR-An-Najah NBC
+http://xiptv.dyndns.tv:8000/shadi/987654321/463
+#EXTINF:-1 group-title="Other",AR-Palestiniantv
+http://xiptv.dyndns.tv:8000/shadi/987654321/3718
+#EXTINF:-1 group-title="Other",AR-Awdeh
+http://xiptv.dyndns.tv:8000/shadi/987654321/3704
+#EXTINF:-1 group-title="Other",AR-QOU EDU
+http://xiptv.dyndns.tv:8000/shadi/987654321/262
+#EXTINF:-1 group-title="Other",AR-Palestine EDU HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/3714
+#EXTINF:-1 group-title="Other",AR-Salfeet-TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/26524
+#EXTINF:-1 group-title="Other",AR-Future-TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/268
+#EXTINF:-1 group-title="Other",AR-LBC-SAT
+http://xiptv.dyndns.tv:8000/shadi/987654321/299
+#EXTINF:-1 group-title="Other",AR-LBC-International
+http://xiptv.dyndns.tv:8000/shadi/987654321/294
+#EXTINF:-1 group-title="Other",AR-LBC 2
+http://xiptv.dyndns.tv:8000/shadi/987654321/5739
+#EXTINF:-1 group-title="Other",AR-MTV-Lebanon
+http://xiptv.dyndns.tv:8000/shadi/987654321/289
+#EXTINF:-1 group-title="Other",AR-ALJADEED
+http://xiptv.dyndns.tv:8000/shadi/987654321/295
+#EXTINF:-1 group-title="Other",AR-NBN-Lebanon
+http://xiptv.dyndns.tv:8000/shadi/987654321/275
+#EXTINF:-1 group-title="Other",AR-OTV-Lebanon
+http://xiptv.dyndns.tv:8000/shadi/987654321/273
+#EXTINF:-1 group-title="Other",AR-Teleliban TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/5725
+#EXTINF:-1 group-title="Other",AR-Seventeen
+http://xiptv.dyndns.tv:8000/shadi/987654321/25066
+#EXTINF:-1 group-title="Other",AR-Ittihad
+http://xiptv.dyndns.tv:8000/shadi/987654321/3708
+#EXTINF:-1 group-title="Other",AR-Syria-HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/23908
+#EXTINF:-1 group-title="Other",AR-Syria
+http://xiptv.dyndns.tv:8000/shadi/987654321/1942
+#EXTINF:-1 group-title="Other",AR-LANA-TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/285
+#EXTINF:-1 group-title="Other",AR-Lana Plus
+http://xiptv.dyndns.tv:8000/shadi/987654321/215
+#EXTINF:-1 group-title="Other",AR-Syria-Drama
+http://xiptv.dyndns.tv:8000/shadi/987654321/1970
+#EXTINF:-1 group-title="Other",AR-Nour El Sham
+http://xiptv.dyndns.tv:8000/shadi/987654321/3691
+#EXTINF:-1 group-title="Other",AR-Amman TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/308
+#EXTINF:-1 group-title="Other",AR-Al Mamlka HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/47
+#EXTINF:-1 group-title="Other",AR-Jordan TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/1966
+#EXTINF:-1 group-title="Other",AR-RO2YA HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/1964
+#EXTINF:-1 group-title="Other",AR-Rotana Cinema KSA
+http://xiptv.dyndns.tv:8000/shadi/987654321/34
+#EXTINF:-1 group-title="Other",AR-Rotana Cinema Egypt
+http://xiptv.dyndns.tv:8000/shadi/987654321/33
+#EXTINF:-1 group-title="Other",AR-Rotana-Classic
+http://xiptv.dyndns.tv:8000/shadi/987654321/35
+#EXTINF:-1 group-title="Other",AR-Rotana-Drama
+http://xiptv.dyndns.tv:8000/shadi/987654321/28
+#EXTINF:-1 group-title="Other",AR-Rotana-Comedy
+http://xiptv.dyndns.tv:8000/shadi/987654321/1973
+#EXTINF:-1 group-title="Other",AR-Rotana-Khalijiah
+http://xiptv.dyndns.tv:8000/shadi/987654321/32
+#EXTINF:-1 group-title="Other",AR-Rotana + HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/37923
+#EXTINF:-1 group-title="Other",AR-Abu-Dhabi-TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/264
+#EXTINF:-1 group-title="Other",AR-Dubai-Tv
+http://xiptv.dyndns.tv:8000/shadi/987654321/298
+#EXTINF:-1 group-title="Other",AR-Dubai-One
+http://xiptv.dyndns.tv:8000/shadi/987654321/331
+#EXTINF:-1 group-title="Other",AR-Abu-Dhabi-Drama-HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/284
+#EXTINF:-1 group-title="Other",AR-Sama-Dubai-HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/1943
+#EXTINF:-1 group-title="Other",AR-Dubai Zaman
+http://xiptv.dyndns.tv:8000/shadi/987654321/470
+#EXTINF:-1 group-title="Other",AR-Noor Dubai
+http://xiptv.dyndns.tv:8000/shadi/987654321/471
+#EXTINF:-1 group-title="Other",AR-ZeeAlwan
+http://xiptv.dyndns.tv:8000/shadi/987654321/322
+#EXTINF:-1 group-title="Other",AR-ZEE-AFLAM
+http://xiptv.dyndns.tv:8000/shadi/987654321/328
+#EXTINF:-1 group-title="Other",AR-Nile Family
+http://xiptv.dyndns.tv:8000/shadi/987654321/274
+#EXTINF:-1 group-title="Other",AR-Nile-Cinema
+http://xiptv.dyndns.tv:8000/shadi/987654321/323
+#EXTINF:-1 group-title="Other",AR-Nile-Drama
+http://xiptv.dyndns.tv:8000/shadi/987654321/327
+#EXTINF:-1 group-title="Other",AR-Nile Life
+http://xiptv.dyndns.tv:8000/shadi/987654321/3712
+#EXTINF:-1 group-title="Other",AR-Nile Comedy
+http://xiptv.dyndns.tv:8000/shadi/987654321/293
+#EXTINF:-1 group-title="Other",AR-Nile Culture
+http://xiptv.dyndns.tv:8000/shadi/987654321/5736
+#EXTINF:-1 group-title="Other",AR-CBC TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/3699
+#EXTINF:-1 group-title="Other",AR-CBC-Drama
+http://xiptv.dyndns.tv:8000/shadi/987654321/2390
+#EXTINF:-1 group-title="Other",AR-CBC-Sofra
+http://xiptv.dyndns.tv:8000/shadi/987654321/2391
+#EXTINF:-1 group-title="Other",AR-Panorama Drama1
+http://xiptv.dyndns.tv:8000/shadi/987654321/3687
+#EXTINF:-1 group-title="Other",AR-Panorama Drama 2
+http://xiptv.dyndns.tv:8000/shadi/987654321/3685
+#EXTINF:-1 group-title="Other",AR-Panorama Film
+http://xiptv.dyndns.tv:8000/shadi/987654321/5732
+#EXTINF:-1 group-title="Other",AR-Panorama Today
+http://xiptv.dyndns.tv:8000/shadi/987654321/3688
+#EXTINF:-1 group-title="Other",AR-Panorama Food
+http://xiptv.dyndns.tv:8000/shadi/987654321/324
+#EXTINF:-1 group-title="Other",AR-Arab-Cinema 1
+http://xiptv.dyndns.tv:8000/shadi/987654321/5735
+#EXTINF:-1 group-title="Other",AR-Arab-Cinema 2
+http://xiptv.dyndns.tv:8000/shadi/987654321/3700
+#EXTINF:-1 group-title="Other",AR-B4U Afalm
+http://xiptv.dyndns.tv:8000/shadi/987654321/320
+#EXTINF:-1 group-title="Other",AR-B4u Plus
+http://xiptv.dyndns.tv:8000/shadi/987654321/25063
+#EXTINF:-1 group-title="Other",AR-DMC-HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/1946
+#EXTINF:-1 group-title="Other",AR-DMC Drama
+http://xiptv.dyndns.tv:8000/shadi/987654321/4208
+#EXTINF:-1 group-title="Other",AR-Egypt 1
+http://xiptv.dyndns.tv:8000/shadi/987654321/3693
+#EXTINF:-1 group-title="Other",AR-Egypt 2
+http://xiptv.dyndns.tv:8000/shadi/987654321/5729
+#EXTINF:-1 group-title="Other",AR-ON E
+http://xiptv.dyndns.tv:8000/shadi/987654321/5731
+#EXTINF:-1 group-title="Other",AR-ON Drama
+http://xiptv.dyndns.tv:8000/shadi/987654321/3694
+#EXTINF:-1 group-title="Other",AR-Cairo Drama
+http://xiptv.dyndns.tv:8000/shadi/987654321/3756
+#EXTINF:-1 group-title="Other",AR-Cairo Cinema
+http://xiptv.dyndns.tv:8000/shadi/987654321/3761
+#EXTINF:-1 group-title="Other",AR-AL HAYAT
+http://xiptv.dyndns.tv:8000/shadi/987654321/5734
+#EXTINF:-1 group-title="Other",AR-AL HAYAT Drama
+http://xiptv.dyndns.tv:8000/shadi/987654321/23866
+#EXTINF:-1 group-title="Other",AR-Star Cinema 1
+http://xiptv.dyndns.tv:8000/shadi/987654321/25064
+#EXTINF:-1 group-title="Other",AR-Star Cinema 2
+http://xiptv.dyndns.tv:8000/shadi/987654321/25065
+#EXTINF:-1 group-title="Other",AR-TOKTOK-AFLAM
+http://xiptv.dyndns.tv:8000/shadi/987654321/3701
+#EXTINF:-1 group-title="Other",AR-TOKTOK Cinema
+http://xiptv.dyndns.tv:8000/shadi/987654321/25068
+#EXTINF:-1 group-title="Other",AR-AL KAHERA W AL NAS
+http://xiptv.dyndns.tv:8000/shadi/987654321/4207
+#EXTINF:-1 group-title="Other",AR-AL KAHERA W AL NAS 2
+http://xiptv.dyndns.tv:8000/shadi/987654321/5728
+#EXTINF:-1 group-title="Other",AR-Watan-Egypt
+http://xiptv.dyndns.tv:8000/shadi/987654321/2389
+#EXTINF:-1 group-title="Other",AR-ALNahar
+http://xiptv.dyndns.tv:8000/shadi/987654321/48
+#EXTINF:-1 group-title="Other",AR-Al-Nahar Drama HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/315
+#EXTINF:-1 group-title="Tunisia",AR-TUNIS 1
+http://xiptv.dyndns.tv:8000/shadi/987654321/261
+#EXTINF:-1 group-title="Tunisia",AR-TUNIS 2
+http://xiptv.dyndns.tv:8000/shadi/987654321/1961
+#EXTINF:-1 group-title="Other",AR-Rayan1
+http://xiptv.dyndns.tv:8000/shadi/987654321/1972
+#EXTINF:-1 group-title="Other",AR-Rayan2
+http://xiptv.dyndns.tv:8000/shadi/987654321/1947
+#EXTINF:-1 group-title="Other",AR-Medi 1 TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/1952
+#EXTINF:-1 group-title="Other",AR-Moroco-News
+http://xiptv.dyndns.tv:8000/shadi/987654321/276
+#EXTINF:-1 group-title="Other",AR-Moroco 1
+http://xiptv.dyndns.tv:8000/shadi/987654321/3705
+#EXTINF:-1 group-title="Other",AR-Moroco2M
+http://xiptv.dyndns.tv:8000/shadi/987654321/439
+#EXTINF:-1 group-title="Other",AR-Moroco 4
+http://xiptv.dyndns.tv:8000/shadi/987654321/309
+#EXTINF:-1 group-title="Other",AR-Moroco 8
+http://xiptv.dyndns.tv:8000/shadi/987654321/1944
+#EXTINF:-1 group-title="Other",AR-Elsharq TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/2392
+#EXTINF:-1 group-title="Other",AR-Rasheed
+http://xiptv.dyndns.tv:8000/shadi/987654321/459
+#EXTINF:-1 group-title="Other",AR-Citruss
+http://xiptv.dyndns.tv:8000/shadi/987654321/271
+#EXTINF:-1 group-title="Other",AR-Al Rai
+http://xiptv.dyndns.tv:8000/shadi/987654321/1965
+#EXTINF:-1 group-title="Other",AR-Emarat TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/3684
+#EXTINF:-1 group-title="Other",AR-KUWAIT 1
+http://xiptv.dyndns.tv:8000/shadi/987654321/3696
+#EXTINF:-1 group-title="Other",AR-KUWAIT 2
+http://xiptv.dyndns.tv:8000/shadi/987654321/3697
+#EXTINF:-1 group-title="Other",AR-KUWAIT 3
+http://xiptv.dyndns.tv:8000/shadi/987654321/23826
+#EXTINF:-1 group-title="Other",AR-KUWAIT Alarbi
+http://xiptv.dyndns.tv:8000/shadi/987654321/4214
+#EXTINF:-1 group-title="Other",AR-KUWAIT Plus
+http://xiptv.dyndns.tv:8000/shadi/987654321/4215
+#EXTINF:-1 group-title="Other",AR-KUWAIT Ethraa
+http://xiptv.dyndns.tv:8000/shadi/987654321/4212
+#EXTINF:-1 group-title="Other",AR-KUWAIT Majls
+http://xiptv.dyndns.tv:8000/shadi/987654321/3717
+#EXTINF:-1 group-title="Tunisia",AR-Tunis
+http://xiptv.dyndns.tv:8000/shadi/987654321/1963
+#EXTINF:-1 group-title="Other",AR-OMAN TV Culture
+http://xiptv.dyndns.tv:8000/shadi/987654321/1954
+#EXTINF:-1 group-title="Other",AR-Oman TV Live
+http://xiptv.dyndns.tv:8000/shadi/987654321/1956
+#EXTINF:-1 group-title="Other",AR-Mekameleen
+http://xiptv.dyndns.tv:8000/shadi/987654321/3686
+#EXTINF:-1 group-title="Other",AR-Qatar TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/3702
+#EXTINF:-1 group-title="Other",AR-Ennahar
+http://xiptv.dyndns.tv:8000/shadi/987654321/3690
+#EXTINF:-1 group-title="Other",AR-Sama TV Syria
+http://xiptv.dyndns.tv:8000/shadi/987654321/3703
+#EXTINF:-1 group-title="Other",AR-Alforat tv
+http://xiptv.dyndns.tv:8000/shadi/987654321/3706
+#EXTINF:-1 group-title="Other",AR-ALRAFIDEEN
+http://xiptv.dyndns.tv:8000/shadi/987654321/3707
+#EXTINF:-1 group-title="Other",AR-ALTANASUHTV
+http://xiptv.dyndns.tv:8000/shadi/987654321/3709
+#EXTINF:-1 group-title="Other",AR-Dijlah
+http://xiptv.dyndns.tv:8000/shadi/987654321/3710
+#EXTINF:-1 group-title="Other",AR-Bahrain TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/3716
+#EXTINF:-1 group-title="Other",AR-SharjahTV
+http://xiptv.dyndns.tv:8000/shadi/987654321/3719
+#EXTINF:-1 group-title="Other",AR-Watar hd
+http://xiptv.dyndns.tv:8000/shadi/987654321/3721
+#EXTINF:-1 group-title="Other",AR-Suheel-TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/3757
+#EXTINF:-1 group-title="Other",AR-Almasira TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/4205
+#EXTINF:-1 group-title="Other",AR-Alkafeel TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/4206
+#EXTINF:-1 group-title="Other",AR-Zahra TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/4209
+#EXTINF:-1 group-title="Other",AR-ALGHD ALMOSHREQ
+http://xiptv.dyndns.tv:8000/shadi/987654321/4216
+#EXTINF:-1 group-title="Other",AR-Halab Today
+http://xiptv.dyndns.tv:8000/shadi/987654321/5740
+#EXTINF:-1 group-title="Other",AR-Al Taghier HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/5737
+#EXTINF:-1 group-title="Other",AR-Betty TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/5727
+#EXTINF:-1 group-title="Other",AR-SHATHA
+http://xiptv.dyndns.tv:8000/shadi/987654321/278
+#EXTINF:-1 group-title="Other",AR-DW
+http://xiptv.dyndns.tv:8000/shadi/987654321/3711
+#EXTINF:-1 group-title="Other",AR-Orient TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/3759
+#EXTINF:-1 group-title="Other",AR-Moroco 6
+http://xiptv.dyndns.tv:8000/shadi/987654321/32564
+#EXTINF:-1 group-title="Other",AR-Tele Moroco
+http://xiptv.dyndns.tv:8000/shadi/987654321/32565
+#EXTINF:-1 group-title="Other",AR-Moroco 7
+http://xiptv.dyndns.tv:8000/shadi/987654321/32566
+#EXTINF:-1 group-title="Other",AR-CANAL ATLAS
+http://xiptv.dyndns.tv:8000/shadi/987654321/32567
+#EXTINF:-1 group-title="Other",AR-NESSMA
+http://xiptv.dyndns.tv:8000/shadi/987654321/32568
+#EXTINF:-1 group-title="Tunisia",AR-ELHIWAR TOUNSSI
+http://xiptv.dyndns.tv:8000/shadi/987654321/32569
+#EXTINF:-1 group-title="Other",AR-ZAYTOONA
+http://xiptv.dyndns.tv:8000/shadi/987654321/32570
+#EXTINF:-1 group-title="Other",AR-ALJANOUBIA
+http://xiptv.dyndns.tv:8000/shadi/987654321/32571
+#EXTINF:-1 group-title="Tunisia",AR-ATTESSIA TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/32572
+#EXTINF:-1 group-title="Tunisia",AR-TUNISNA
+http://xiptv.dyndns.tv:8000/shadi/987654321/32573
+#EXTINF:-1 group-title="Other",AR-INSAN TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/32574
+#EXTINF:-1 group-title="Tunisia",AR-CARTHAGE
+http://xiptv.dyndns.tv:8000/shadi/987654321/32575
+#EXTINF:-1 group-title="Tunisia",AR-HANNIBAL
+http://xiptv.dyndns.tv:8000/shadi/987654321/32576
+#EXTINF:-1 group-title="Other",AR-IMMOBILIER TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/32577
+#EXTINF:-1 group-title="Tunisia",AR-TELVZA TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/32578
+#EXTINF:-1 group-title="Other",AR-AL YOOM ZAMAN
+http://xiptv.dyndns.tv:8000/shadi/987654321/51864
+#EXTINF:-1 group-title="Other",AR-FAMILY DRAMA
+http://xiptv.dyndns.tv:8000/shadi/987654321/43970
+#EXTINF:-1 group-title="Other",AR-Al Masryia
+http://xiptv.dyndns.tv:8000/shadi/987654321/56239
+#EXTINF:-1 group-title="Other",AR-ZILZAL CLASSIC
+http://xiptv.dyndns.tv:8000/shadi/987654321/36182
+#EXTINF:-1 group-title="Other",AR-AL SA3AA MOSALSALATE
+http://xiptv.dyndns.tv:8000/shadi/987654321/36183
+#EXTINF:-1 group-title="Other",AR-Alhayat Muslsalat
+http://xiptv.dyndns.tv:8000/shadi/987654321/56508
+#EXTINF:-1 group-title="Other",AR-Mix
+http://xiptv.dyndns.tv:8000/shadi/987654321/56509
+#EXTINF:-1 group-title="Other",AR-Althanya
+http://xiptv.dyndns.tv:8000/shadi/987654321/56510
+#EXTINF:-1 group-title="Other",AR-SCARE
+http://xiptv.dyndns.tv:8000/shadi/987654321/56642
+#EXTINF:-1 group-title="Other",AR-DOLLY MOSALSALAT
+http://xiptv.dyndns.tv:8000/shadi/987654321/56643
+#EXTINF:-1 group-title="Other",AR-AL SA3A MASRA7
+http://xiptv.dyndns.tv:8000/shadi/987654321/56644
+#EXTINF:-1 group-title="Other",AR-SHARO5AN HINDI
+http://xiptv.dyndns.tv:8000/shadi/987654321/56645
+#EXTINF:-1 group-title="Other",AR-AL Shams
+http://xiptv.dyndns.tv:8000/shadi/987654321/56646
+#EXTINF:-1 group-title="Other",AR-Oscar TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/56647
+#EXTINF:-1 group-title="Other",AR-AL NAS
+http://xiptv.dyndns.tv:8000/shadi/987654321/56648
 #EXTINF:-1 group-title="Other",AR-Al Jazeera Channel HD
 http://xiptv.dyndns.tv:8000/shadi/987654321/243
 #EXTINF:-1 group-title="Other",Al Ghad TV HD
@@ -9960,382 +10336,6 @@ http://xiptv.dyndns.tv:8000/shadi/987654321/2227
 http://xiptv.dyndns.tv:8000/shadi/987654321/2226
 #EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",RO:Viasat_Nature
 http://xiptv.dyndns.tv:8000/shadi/987654321/2225
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-MBC-1-HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/888
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-MBC-2-HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/889
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-MBC-4-HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/891
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-MBC-5-HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/2847
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-MBC-Drama-HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/893
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-MBC+Drama-HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/13
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-MBC-Action-HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/892
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-MBC-Max-HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/894
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-MBC+Variety HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/49
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-MBC-BOLLYWOOD-HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/267
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-MBC-MASR 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/288
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-MBC-MASR-2
-http://xiptv.dyndns.tv:8000/shadi/987654321/287
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-MBC Iraq HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/521
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-MBC Persia
-http://xiptv.dyndns.tv:8000/shadi/987654321/26601
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Palestine HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/32361
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Musawa
-http://xiptv.dyndns.tv:8000/shadi/987654321/1941
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Salam-TV
-http://htvint.mada.ps:8889/salamtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Betlahem Tv HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/197
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Al-Fajer TV 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/39
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Al-Fajer TV 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/198
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Al-Fajer TV 3
-http://xiptv.dyndns.tv:8000/shadi/987654321/42
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Al-Fajer TV 4
-http://xiptv.dyndns.tv:8000/shadi/987654321/44
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Al-Fajer TV 5
-http://xiptv.dyndns.tv:8000/shadi/987654321/45
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Horya1-TV
-http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Horya2-TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/3758
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Kol Al Nas
-http://xiptv.dyndns.tv:8000/shadi/987654321/25067
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-RAYA1-TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/1968
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-WATAN PS
-http://xiptv.dyndns.tv:8000/shadi/987654321/36181
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-PNN TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/25145
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-AL KAWTHAR Palestine
-http://xiptv.dyndns.tv:8000/shadi/987654321/3715
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Ajyal-TV-HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/394
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-An-Najah NBC
-http://xiptv.dyndns.tv:8000/shadi/987654321/463
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Palestiniantv
-http://xiptv.dyndns.tv:8000/shadi/987654321/3718
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Awdeh
-http://xiptv.dyndns.tv:8000/shadi/987654321/3704
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-QOU EDU
-http://xiptv.dyndns.tv:8000/shadi/987654321/262
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Palestine EDU HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/3714
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Salfeet-TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/26524
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Future-TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/268
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-LBC-SAT
-http://xiptv.dyndns.tv:8000/shadi/987654321/299
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-LBC-International
-http://xiptv.dyndns.tv:8000/shadi/987654321/294
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-LBC 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/5739
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-MTV-Lebanon
-http://xiptv.dyndns.tv:8000/shadi/987654321/289
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-ALJADEED
-http://xiptv.dyndns.tv:8000/shadi/987654321/295
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-NBN-Lebanon
-http://xiptv.dyndns.tv:8000/shadi/987654321/275
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-OTV-Lebanon
-http://xiptv.dyndns.tv:8000/shadi/987654321/273
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Teleliban TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/5725
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Seventeen
-http://xiptv.dyndns.tv:8000/shadi/987654321/25066
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Ittihad
-http://xiptv.dyndns.tv:8000/shadi/987654321/3708
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Syria-HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/23908
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Syria
-http://xiptv.dyndns.tv:8000/shadi/987654321/1942
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-LANA-TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/285
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Lana Plus
-http://xiptv.dyndns.tv:8000/shadi/987654321/215
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Syria-Drama
-http://xiptv.dyndns.tv:8000/shadi/987654321/1970
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Nour El Sham
-http://xiptv.dyndns.tv:8000/shadi/987654321/3691
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Amman TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/308
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Al Mamlka HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/47
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Jordan TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/1966
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-RO2YA HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/1964
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Rotana Cinema KSA
-http://xiptv.dyndns.tv:8000/shadi/987654321/34
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Rotana Cinema Egypt
-http://xiptv.dyndns.tv:8000/shadi/987654321/33
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Rotana-Classic
-http://xiptv.dyndns.tv:8000/shadi/987654321/35
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Rotana-Drama
-http://xiptv.dyndns.tv:8000/shadi/987654321/28
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Rotana-Comedy
-http://xiptv.dyndns.tv:8000/shadi/987654321/1973
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Rotana-Khalijiah
-http://xiptv.dyndns.tv:8000/shadi/987654321/32
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Rotana + HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/37923
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Abu-Dhabi-TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/264
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Dubai-Tv
-http://xiptv.dyndns.tv:8000/shadi/987654321/298
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Dubai-One
-http://xiptv.dyndns.tv:8000/shadi/987654321/331
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Abu-Dhabi-Drama-HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/284
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Sama-Dubai-HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/1943
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Dubai Zaman
-http://xiptv.dyndns.tv:8000/shadi/987654321/470
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Noor Dubai
-http://xiptv.dyndns.tv:8000/shadi/987654321/471
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-ZeeAlwan
-http://xiptv.dyndns.tv:8000/shadi/987654321/322
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-ZEE-AFLAM
-http://xiptv.dyndns.tv:8000/shadi/987654321/328
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Nile Family
-http://xiptv.dyndns.tv:8000/shadi/987654321/274
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Nile-Cinema
-http://xiptv.dyndns.tv:8000/shadi/987654321/323
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Nile-Drama
-http://xiptv.dyndns.tv:8000/shadi/987654321/327
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Nile Life
-http://xiptv.dyndns.tv:8000/shadi/987654321/3712
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Nile Comedy
-http://xiptv.dyndns.tv:8000/shadi/987654321/293
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Nile Culture
-http://xiptv.dyndns.tv:8000/shadi/987654321/5736
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-CBC TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/3699
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-CBC-Drama
-http://xiptv.dyndns.tv:8000/shadi/987654321/2390
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-CBC-Sofra
-http://xiptv.dyndns.tv:8000/shadi/987654321/2391
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Panorama Drama1
-http://xiptv.dyndns.tv:8000/shadi/987654321/3687
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Panorama Drama 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/3685
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Panorama Film
-http://xiptv.dyndns.tv:8000/shadi/987654321/5732
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Panorama Today
-http://xiptv.dyndns.tv:8000/shadi/987654321/3688
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Panorama Food
-http://xiptv.dyndns.tv:8000/shadi/987654321/324
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Arab-Cinema 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/5735
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Arab-Cinema 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/3700
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-B4U Afalm
-http://xiptv.dyndns.tv:8000/shadi/987654321/320
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-B4u Plus
-http://xiptv.dyndns.tv:8000/shadi/987654321/25063
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-DMC-HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/1946
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-DMC Drama
-http://xiptv.dyndns.tv:8000/shadi/987654321/4208
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Egypt 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/3693
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Egypt 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/5729
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-ON E
-http://xiptv.dyndns.tv:8000/shadi/987654321/5731
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-ON Drama
-http://xiptv.dyndns.tv:8000/shadi/987654321/3694
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Cairo Drama
-http://xiptv.dyndns.tv:8000/shadi/987654321/3756
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Cairo Cinema
-http://xiptv.dyndns.tv:8000/shadi/987654321/3761
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-AL HAYAT
-http://xiptv.dyndns.tv:8000/shadi/987654321/5734
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-AL HAYAT Drama
-http://xiptv.dyndns.tv:8000/shadi/987654321/23866
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Star Cinema 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/25064
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Star Cinema 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/25065
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-TOKTOK-AFLAM
-http://xiptv.dyndns.tv:8000/shadi/987654321/3701
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-TOKTOK Cinema
-http://xiptv.dyndns.tv:8000/shadi/987654321/25068
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-AL KAHERA W AL NAS
-http://xiptv.dyndns.tv:8000/shadi/987654321/4207
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-AL KAHERA W AL NAS 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/5728
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Watan-Egypt
-http://xiptv.dyndns.tv:8000/shadi/987654321/2389
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-ALNahar
-http://xiptv.dyndns.tv:8000/shadi/987654321/48
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Al-Nahar Drama HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/315
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-TUNIS 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/261
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-TUNIS 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/1961
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Rayan1
-http://xiptv.dyndns.tv:8000/shadi/987654321/1972
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Rayan2
-http://xiptv.dyndns.tv:8000/shadi/987654321/1947
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Medi 1 TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/1952
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Moroco-News
-http://xiptv.dyndns.tv:8000/shadi/987654321/276
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Moroco 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/3705
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Moroco2M
-http://xiptv.dyndns.tv:8000/shadi/987654321/439
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Moroco 4
-http://xiptv.dyndns.tv:8000/shadi/987654321/309
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Moroco 8
-http://xiptv.dyndns.tv:8000/shadi/987654321/1944
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Elsharq TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/2392
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Rasheed
-http://xiptv.dyndns.tv:8000/shadi/987654321/459
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Citruss
-http://xiptv.dyndns.tv:8000/shadi/987654321/271
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Al Rai
-http://xiptv.dyndns.tv:8000/shadi/987654321/1965
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Emarat TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/3684
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-KUWAIT 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/3696
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-KUWAIT 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/3697
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-KUWAIT 3
-http://xiptv.dyndns.tv:8000/shadi/987654321/23826
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-KUWAIT Alarbi
-http://xiptv.dyndns.tv:8000/shadi/987654321/4214
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-KUWAIT Plus
-http://xiptv.dyndns.tv:8000/shadi/987654321/4215
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-KUWAIT Ethraa
-http://xiptv.dyndns.tv:8000/shadi/987654321/4212
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-KUWAIT Majls
-http://xiptv.dyndns.tv:8000/shadi/987654321/3717
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Tunis
-http://xiptv.dyndns.tv:8000/shadi/987654321/1963
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-OMAN TV Culture
-http://xiptv.dyndns.tv:8000/shadi/987654321/1954
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Oman TV Live
-http://xiptv.dyndns.tv:8000/shadi/987654321/1956
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Mekameleen
-http://xiptv.dyndns.tv:8000/shadi/987654321/3686
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Qatar TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/3702
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Ennahar
-http://xiptv.dyndns.tv:8000/shadi/987654321/3690
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Sama TV Syria
-http://xiptv.dyndns.tv:8000/shadi/987654321/3703
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Alforat tv
-http://xiptv.dyndns.tv:8000/shadi/987654321/3706
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-ALRAFIDEEN
-http://xiptv.dyndns.tv:8000/shadi/987654321/3707
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-ALTANASUHTV
-http://xiptv.dyndns.tv:8000/shadi/987654321/3709
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Dijlah
-http://xiptv.dyndns.tv:8000/shadi/987654321/3710
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Bahrain TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/3716
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-SharjahTV
-http://xiptv.dyndns.tv:8000/shadi/987654321/3719
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Watar hd
-http://xiptv.dyndns.tv:8000/shadi/987654321/3721
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Suheel-TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/3757
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Almasira TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/4205
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Alkafeel TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/4206
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Zahra TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/4209
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-ALGHD ALMOSHREQ
-http://xiptv.dyndns.tv:8000/shadi/987654321/4216
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Halab Today
-http://xiptv.dyndns.tv:8000/shadi/987654321/5740
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Al Taghier HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/5737
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Betty TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/5727
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-SHATHA
-http://xiptv.dyndns.tv:8000/shadi/987654321/278
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-DW
-http://xiptv.dyndns.tv:8000/shadi/987654321/3711
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Orient TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/3759
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Moroco 6
-http://xiptv.dyndns.tv:8000/shadi/987654321/32564
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Tele Moroco
-http://xiptv.dyndns.tv:8000/shadi/987654321/32565
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Moroco 7
-http://xiptv.dyndns.tv:8000/shadi/987654321/32566
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-CANAL ATLAS
-http://xiptv.dyndns.tv:8000/shadi/987654321/32567
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-NESSMA
-http://xiptv.dyndns.tv:8000/shadi/987654321/32568
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-ELHIWAR TOUNSSI
-http://xiptv.dyndns.tv:8000/shadi/987654321/32569
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-ZAYTOONA
-http://xiptv.dyndns.tv:8000/shadi/987654321/32570
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-ALJANOUBIA
-http://xiptv.dyndns.tv:8000/shadi/987654321/32571
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-ATTESSIA TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/32572
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-TUNISNA
-http://xiptv.dyndns.tv:8000/shadi/987654321/32573
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-INSAN TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/32574
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-CARTHAGE
-http://xiptv.dyndns.tv:8000/shadi/987654321/32575
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-HANNIBAL
-http://xiptv.dyndns.tv:8000/shadi/987654321/32576
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-IMMOBILIER TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/32577
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-TELVZA TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/32578
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-AL YOOM ZAMAN
-http://xiptv.dyndns.tv:8000/shadi/987654321/51864
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-FAMILY DRAMA
-http://xiptv.dyndns.tv:8000/shadi/987654321/43970
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Al Masryia
-http://xiptv.dyndns.tv:8000/shadi/987654321/56239
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-ZILZAL CLASSIC
-http://xiptv.dyndns.tv:8000/shadi/987654321/36182
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-AL SA3AA MOSALSALATE
-http://xiptv.dyndns.tv:8000/shadi/987654321/36183
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Alhayat Muslsalat
-http://xiptv.dyndns.tv:8000/shadi/987654321/56508
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Mix
-http://xiptv.dyndns.tv:8000/shadi/987654321/56509
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Althanya
-http://xiptv.dyndns.tv:8000/shadi/987654321/56510
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-SCARE
-http://xiptv.dyndns.tv:8000/shadi/987654321/56642
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-DOLLY MOSALSALAT
-http://xiptv.dyndns.tv:8000/shadi/987654321/56643
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-AL SA3A MASRA7
-http://xiptv.dyndns.tv:8000/shadi/987654321/56644
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-SHARO5AN HINDI
-http://xiptv.dyndns.tv:8000/shadi/987654321/56645
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-AL Shams
-http://xiptv.dyndns.tv:8000/shadi/987654321/56646
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-Oscar TV
-http://xiptv.dyndns.tv:8000/shadi/987654321/56647
-#EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",AR-AL NAS
-http://xiptv.dyndns.tv:8000/shadi/987654321/56648
 #EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",المملكة المتوحشة: عودة المنفيين
 http://51.89.42.71:8000/yt.php?id=6347356B4E48425552544A355A56424C523268614F553979546E6461535646794E537457515549315A47647155336C58656B746C64567033617A303D
 #EXTINF:-1 group-title="|IN-VIP| -----INDIA-----",أشرس كائنات أفريقيا: منافسة شرسة
