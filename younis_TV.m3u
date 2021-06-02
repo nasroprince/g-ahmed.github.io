@@ -244,8 +244,6 @@ http://ztvuk.com:8080/younis/younis123/41180
 http://ztvuk.com:8080/younis/younis123/92998
 #EXTINF:-1 group-title="UK",BBC Three / Cbbc FHD
 http://ztvuk.com:8080/younis/younis123/29698
-#EXTINF:-1 group-title="UK",BBC Four/Cbeebies FHD
-http://ztvuk.com:8080/younis/younis123/25270
 #EXTINF:-1 group-title="UK",BBC Four HD
 http://ztvuk.com:8080/younis/younis123/89044
 #EXTINF:-1 group-title="Other",Channel 4 FHD
@@ -1590,7 +1588,7 @@ http://ztvuk.com:8080/younis/younis123/20584
 http://ztvuk.com:8080/younis/younis123/12511
 #EXTINF:-1 group-title="Other",Channel S
 http://ztvuk.com:8080/younis/younis123/20587
-#EXTINF:-1 group-title="Other",Channel S.
+#EXTINF:-1 group-title="Other",Channel S  (Uk)
 http://ztvuk.com:8080/younis/younis123/12512
 #EXTINF:-1 group-title="Other",Colors Bangla Tv
 http://ztvuk.com:8080/younis/younis123/20588
