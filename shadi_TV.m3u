@@ -1912,6 +1912,14 @@ http://xiptv.dyndns.tv:8000/shadi/987654321/3704
 http://xiptv.dyndns.tv:8000/shadi/987654321/262
 #EXTINF:-1 group-title="Other",AR-Palestine EDU HD
 http://xiptv.dyndns.tv:8000/shadi/987654321/3714
+#EXTINF:-1 group-title="Other",Hebron Tv
+http://xiptv.dyndns.tv:8000/shadi/987654321/56842
+#EXTINF:-1 group-title="Other",AR-HEKAYA MIX NABLUS
+http://xiptv.dyndns.tv:8000/shadi/987654321/56843
+#EXTINF:-1 group-title="Other",AR-NABLUS LIVE TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/56844
+#EXTINF:-1 group-title="Other",AR NABLUS TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/56845
 #EXTINF:-1 group-title="Other",AR-Salfeet-TV
 http://xiptv.dyndns.tv:8000/shadi/987654321/26524
 #EXTINF:-1 group-title="Other",AR-Future-TV
@@ -1956,6 +1964,8 @@ http://xiptv.dyndns.tv:8000/shadi/987654321/47
 http://xiptv.dyndns.tv:8000/shadi/987654321/1966
 #EXTINF:-1 group-title="Other",AR-RO2YA HD
 http://xiptv.dyndns.tv:8000/shadi/987654321/1964
+#EXTINF:-1 group-title="Other",AR-A ONE JORDAN TV
+http://xiptv.dyndns.tv:8000/shadi/987654321/56841
 #EXTINF:-1 group-title="Other",AR-Rotana Cinema KSA
 http://xiptv.dyndns.tv:8000/shadi/987654321/34
 #EXTINF:-1 group-title="Other",AR-Rotana Cinema Egypt
@@ -2214,8 +2224,6 @@ http://xiptv.dyndns.tv:8000/shadi/987654321/56645
 http://xiptv.dyndns.tv:8000/shadi/987654321/56646
 #EXTINF:-1 group-title="Other",AR-Oscar TV
 http://xiptv.dyndns.tv:8000/shadi/987654321/56647
-#EXTINF:-1 group-title="Other",AR-AL NAS
-http://xiptv.dyndns.tv:8000/shadi/987654321/56648
 #EXTINF:-1 group-title="Other",AR-Al Jazeera Channel HD
 http://xiptv.dyndns.tv:8000/shadi/987654321/243
 #EXTINF:-1 group-title="Other",Al Ghad TV HD
