@@ -1,8 +1,8 @@
 #EXTM3U#EXTINF:-1 group-title="Other",VOD-Music
 http://iptv.icsnleb.com:25461/bilal/bilal/36
-#EXTINF:-1 group-title="Other",VOD-MOVIES
+#EXTINF:-1 group-title="Other",VOD-Movies
 http://iptv.icsnleb.com:25461/bilal/bilal/55
-#EXTINF:-1 group-title="Other",VOD-series
+#EXTINF:-1 group-title="Other",VOD-Series
 http://iptv.icsnleb.com:25461/bilal/bilal/49
 #EXTINF:-1 group-title="Other",VOD-Leb
 http://iptv.icsnleb.com:25461/bilal/bilal/37
@@ -102,7 +102,11 @@ http://iptv.icsnleb.com:25461/bilal/bilal/92
 http://iptv.icsnleb.com:25461/bilal/bilal/93
 #EXTINF:-1 group-title="Other",SAWT-KELL-LEBNAN
 http://iptv.icsnleb.com:25461/bilal/bilal/94
-#EXTINF:-1 group-title="Other",VOD-PROMO
-http://iptv.icsnleb.com:25461/bilal/bilal/51
 #EXTINF:-1 group-title="Other",AL AAN HD
 http://iptv.icsnleb.com:25461/bilal/bilal/31
+#EXTINF:-1 group-title="Other",ZOUZOUS
+http://iptv.icsnleb.com:25461/bilal/bilal/602
+#EXTINF:-1 group-title="Other",FOX SPORTS NEWS
+http://iptv.icsnleb.com:25461/bilal/bilal/601
+#EXTINF:-1 group-title="Other",VOD-PROMO
+http://iptv.icsnleb.com:25461/bilal/bilal/51
