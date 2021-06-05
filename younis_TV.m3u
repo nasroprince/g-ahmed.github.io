@@ -1132,9 +1132,9 @@ http://ztvuk.com:8080/younis/younis123/92478
 http://ztvuk.com:8080/younis/younis123/92121
 #EXTINF:-1 group-title="Other",NDTV 24x7
 http://ztvuk.com:8080/younis/younis123/32116
-#EXTINF:-1 group-title="Other",Aaj Tak
-http://ztvuk.com:8080/younis/younis123/12281
 #EXTINF:-1 group-title="Other",Aaj Tak HD
+http://ztvuk.com:8080/younis/younis123/12281
+#EXTINF:-1 group-title="Other",Aaj Tak SD
 http://ztvuk.com:8080/younis/younis123/30175
 #EXTINF:-1 group-title="Other",Aaj Tak  (Uk)
 http://ztvuk.com:8080/younis/younis123/14987
@@ -1674,7 +1674,7 @@ http://ztvuk.com:8080/younis/younis123/31966
 http://ztvuk.com:8080/younis/younis123/31967
 #EXTINF:-1 group-title="Other",IN:  Dheeran TV
 http://ztvuk.com:8080/younis/younis123/31968
-#EXTINF:-1 group-title="Other",IN:  HMTV
+#EXTINF:-1 group-title="Other",IN:  HM TV
 http://ztvuk.com:8080/younis/younis123/31969
 #EXTINF:-1 group-title="Other",IN:  Imayam TV
 http://ztvuk.com:8080/younis/younis123/31972
