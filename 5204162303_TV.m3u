@@ -1,4 +1,28 @@
-#EXTM3U#EXTINF:-1 group-title="**********LOCAL1***********",**********LOCAL1***********
+#EXTM3U#EXTINF:-1 group-title="Bein",BeIN Sport Max 1
+http://pn.tvott.info:80/5204162303/1455589223/171069
+#EXTINF:-1 group-title="Bein",BeIN Sport Max 2
+http://pn.tvott.info:80/5204162303/1455589223/171068
+#EXTINF:-1 group-title="Bein",BeIN Sport Max 3
+http://pn.tvott.info:80/5204162303/1455589223/171067
+#EXTINF:-1 group-title="Bein",BeIN Sport Max 4
+http://pn.tvott.info:80/5204162303/1455589223/171066
+#EXTINF:-1 group-title="Bein",BeIN Sport Max FHD 1
+http://pn.tvott.info:80/5204162303/1455589223/171073
+#EXTINF:-1 group-title="Bein",BeIN Sport Max FHD 2
+http://pn.tvott.info:80/5204162303/1455589223/171072
+#EXTINF:-1 group-title="Bein",BeIN Sport Max FHD 3
+http://pn.tvott.info:80/5204162303/1455589223/171071
+#EXTINF:-1 group-title="Bein",BeIN Sport Max FHD 4
+http://pn.tvott.info:80/5204162303/1455589223/171070
+#EXTINF:-1 group-title="Bein",BeIN Sport Max 4K 1
+http://pn.tvott.info:80/5204162303/1455589223/171077
+#EXTINF:-1 group-title="Bein",BeIN Sport Max 4K 2
+http://pn.tvott.info:80/5204162303/1455589223/171076
+#EXTINF:-1 group-title="Bein",BeIN Sport Max 4K 3
+http://pn.tvott.info:80/5204162303/1455589223/171075
+#EXTINF:-1 group-title="Bein",BeIN Sport Max 4K 4
+http://pn.tvott.info:80/5204162303/1455589223/171074
+#EXTINF:-1 group-title="**********LOCAL1***********",**********LOCAL1***********
 http://pn.tvott.info:80/5204162303/1455589223/164062
 #EXTINF:-1 group-title="**********LOCAL1***********",Bein Sport HD
 http://pn.tvott.info:80/5204162303/1455589223/163931
@@ -172,8 +196,6 @@ http://pn.tvott.info:80/5204162303/1455589223/164027
 http://pn.tvott.info:80/5204162303/1455589223/164026
 #EXTINF:-1 group-title="**********LOCAL2*********** ",LO BEINS PORTS 02 HD EN
 http://pn.tvott.info:80/5204162303/1455589223/164025
-#EXTINF:-1 group-title="**********LOCAL2*********** ",|FR| FRANCE TVSPORT
-http://pn.tvott.info:80/5204162303/1455589223/170899
 #EXTINF:-1 group-title="------------- FRANCE HD --------------",------------- FRANCE HD --------------
 http://pn.tvott.info:80/5204162303/1455589223/78494
 #EXTINF:-1 group-title="------------- FRANCE HD --------------",|FR| CORONA VIRUS INFOVIRUS INFO
@@ -696,6 +718,40 @@ http://pn.tvott.info:80/5204162303/1455589223/78354
 http://pn.tvott.info:80/5204162303/1455589223/79011
 #EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",|FR|SD| GAME ONE  +1
 http://pn.tvott.info:80/5204162303/1455589223/79010
+#EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",MCANAL-EUROSPORT 360 1
+http://pn.tvott.info:80/5204162303/1455589223/171112
+#EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",MCANAL-EUROSPORT 360 2
+http://pn.tvott.info:80/5204162303/1455589223/171111
+#EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",MCANAL-EUROSPORT 360 3
+http://pn.tvott.info:80/5204162303/1455589223/171110
+#EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",MCANAL-EUROSPORT 360 4
+http://pn.tvott.info:80/5204162303/1455589223/171109
+#EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",MCANAL-EUROSPORT 360 5
+http://pn.tvott.info:80/5204162303/1455589223/171108
+#EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",MCANAL-EUROSPORT 360 6
+http://pn.tvott.info:80/5204162303/1455589223/171107
+#EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",MCANAL-EUROSPORT 360 7
+http://pn.tvott.info:80/5204162303/1455589223/171106
+#EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",MCANAL-EUROSPORT 360 8
+http://pn.tvott.info:80/5204162303/1455589223/171105
+#EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",-SAT- MULTISPORTS 1
+http://pn.tvott.info:80/5204162303/1455589223/171104
+#EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",-SAT- MULTISPORTS 2
+http://pn.tvott.info:80/5204162303/1455589223/171103
+#EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",-SAT- MULTISPORTS 3
+http://pn.tvott.info:80/5204162303/1455589223/171102
+#EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",-SAT- MULTISPORTS 4
+http://pn.tvott.info:80/5204162303/1455589223/171101
+#EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",-SAT- MULTISPORTS 5
+http://pn.tvott.info:80/5204162303/1455589223/171100
+#EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",-SAT- MULTISPORTS 6
+http://pn.tvott.info:80/5204162303/1455589223/171099
+#EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",CSATHD-RMC SPORT 1.
+http://pn.tvott.info:80/5204162303/1455589223/171086
+#EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",CSATHD-RMC SPORT 2.
+http://pn.tvott.info:80/5204162303/1455589223/171085
+#EXTINF:-1 group-title="-------------- |FR| SPORT HD --------------",CSATHD-GOLF+.
+http://pn.tvott.info:80/5204162303/1455589223/171080
 #EXTINF:-1 group-title="--------------- |FR| DECOUVERTE HD ---------------",--------------- |FR| DECOUVERTE HD ---------------
 http://pn.tvott.info:80/5204162303/1455589223/78352
 #EXTINF:-1 group-title="--------------- |FR| DECOUVERTE HD ---------------",|FR| TOUTE L HISTOIR
@@ -2661,32 +2717,46 @@ http://pn.tvott.info:80/5204162303/1455589223/79313
 http://pn.tvott.info:80/5204162303/1455589223/79312
 #EXTINF:-1 group-title="------------- |SP| ENTRETENIMIENTO  HD ---------------",|SP| CLASSICA
 http://pn.tvott.info:80/5204162303/1455589223/79311
+#EXTINF:-1 group-title="------------- |SP| ENTRETENIMIENTO  HD ---------------",|SP| M.LCAMPEONES
+http://pn.tvott.info:80/5204162303/1455589223/79309
+#EXTINF:-1 group-title="------------- |SP| ENTRETENIMIENTO  HD ---------------",|SP| LALIGA TV BAR
+http://pn.tvott.info:80/5204162303/1455589223/79308
+#EXTINF:-1 group-title="------------- |SP| ENTRETENIMIENTO  HD ---------------",|SP| LALIGA TV BAR 1
+http://pn.tvott.info:80/5204162303/1455589223/79307
+#EXTINF:-1 group-title="------------- |SP| ENTRETENIMIENTO  HD ---------------",|SP| BEIN LALIGA HD
+http://pn.tvott.info:80/5204162303/1455589223/79306
+#EXTINF:-1 group-title="------------- |SP| ENTRETENIMIENTO  HD ---------------",|SP| BEIN LALIGA1 HD
+http://pn.tvott.info:80/5204162303/1455589223/79305
+#EXTINF:-1 group-title="------------- |SP| ENTRETENIMIENTO  HD ---------------",|SP| EUROSPORT1 HD
+http://pn.tvott.info:80/5204162303/1455589223/79304
+#EXTINF:-1 group-title="------------- |SP| ENTRETENIMIENTO  HD ---------------",|SP| EUROSPORT 1
+http://pn.tvott.info:80/5204162303/1455589223/79303
+#EXTINF:-1 group-title="------------- |SP| ENTRETENIMIENTO  HD ---------------",|SP| EUROSPORT 2
+http://pn.tvott.info:80/5204162303/1455589223/79302
+#EXTINF:-1 group-title="------------- |SP| ENTRETENIMIENTO  HD ---------------",|SP| GOL
+http://pn.tvott.info:80/5204162303/1455589223/79301
+#EXTINF:-1 group-title="------------- |SP| ENTRETENIMIENTO  HD ---------------",|SP| BAR TV
+http://pn.tvott.info:80/5204162303/1455589223/79300
+#EXTINF:-1 group-title="------------- |SP| ENTRETENIMIENTO  HD ---------------",|SP| R. MADRID TV
+http://pn.tvott.info:80/5204162303/1455589223/79299
+#EXTINF:-1 group-title="------------- |SP| ENTRETENIMIENTO  HD ---------------",|SP| TOROS HD
+http://pn.tvott.info:80/5204162303/1455589223/79298
 #EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",--------------- |SP| SPORTS HD -------------------
 http://pn.tvott.info:80/5204162303/1455589223/79310
-#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| M.LCAMPEONES
-http://pn.tvott.info:80/5204162303/1455589223/79309
-#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| LALIGA TV BAR
-http://pn.tvott.info:80/5204162303/1455589223/79308
-#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| LALIGA TV BAR 1
-http://pn.tvott.info:80/5204162303/1455589223/79307
-#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| BEIN LALIGA HD
-http://pn.tvott.info:80/5204162303/1455589223/79306
-#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| BEIN LALIGA1 HD
-http://pn.tvott.info:80/5204162303/1455589223/79305
-#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| EUROSPORT1 HD
-http://pn.tvott.info:80/5204162303/1455589223/79304
-#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| EUROSPORT 1
-http://pn.tvott.info:80/5204162303/1455589223/79303
-#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| EUROSPORT 2
-http://pn.tvott.info:80/5204162303/1455589223/79302
-#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| GOL
-http://pn.tvott.info:80/5204162303/1455589223/79301
-#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| BAR TV
-http://pn.tvott.info:80/5204162303/1455589223/79300
-#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| R. MADRID TV
-http://pn.tvott.info:80/5204162303/1455589223/79299
-#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| TOROS HD
-http://pn.tvott.info:80/5204162303/1455589223/79298
+#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| DAZN 1 HD
+http://pn.tvott.info:80/5204162303/1455589223/79293
+#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| DAZN 2 HD
+http://pn.tvott.info:80/5204162303/1455589223/79292
+#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| DAZN 3 HD
+http://pn.tvott.info:80/5204162303/1455589223/171078
+#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://pn.tvott.info:80/5204162303/1455589223/79291
+#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://pn.tvott.info:80/5204162303/1455589223/79290
+#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://pn.tvott.info:80/5204162303/1455589223/79289
+#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",ES DAZN Fórmula 1
+http://pn.tvott.info:80/5204162303/1455589223/171079
 #EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| M.FORMULA1 HD
 http://pn.tvott.info:80/5204162303/1455589223/79297
 #EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| M. FORMULA1 HD
@@ -2695,16 +2765,6 @@ http://pn.tvott.info:80/5204162303/1455589223/79296
 http://pn.tvott.info:80/5204162303/1455589223/79295
 #EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)
 http://pn.tvott.info:80/5204162303/1455589223/79294
-#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| DAZN 1 HD
-http://pn.tvott.info:80/5204162303/1455589223/79293
-#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| DAZN 2 HD
-http://pn.tvott.info:80/5204162303/1455589223/79292
-#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
-http://pn.tvott.info:80/5204162303/1455589223/79291
-#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
-http://pn.tvott.info:80/5204162303/1455589223/79290
-#EXTINF:-1 group-title="--------------- |SP| SPORTS HD -------------------",|SP| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
-http://pn.tvott.info:80/5204162303/1455589223/79289
 #EXTINF:-1 group-title="------------ |SP| MOVIESTAR HD --------------",------------ |SP| MOVIESTAR HD --------------
 http://pn.tvott.info:80/5204162303/1455589223/79288
 #EXTINF:-1 group-title="------------ |SP| MOVIESTAR HD --------------",|SP| M.ACCION HD
@@ -8895,26 +8955,6 @@ http://pn.tvott.info:80/5204162303/1455589223/170841
 http://pn.tvott.info:80/5204162303/1455589223/81144
 #EXTINF:-1 group-title="|AR| FLIX  --------MUSIC--------",|AR|  SAUDI QURAN FHD
 http://pn.tvott.info:80/5204162303/1455589223/127562
-#EXTINF:-1 group-title="|AR| FLIX  --------MUSIC--------",BFM
-http://pn.tvott.info:80/5204162303/1455589223/169925
-#EXTINF:-1 group-title="|AR| FLIX  --------MUSIC--------",9
-http://pn.tvott.info:80/5204162303/1455589223/169935
-#EXTINF:-1 group-title="|AR| FLIX  --------MUSIC--------",8
-http://pn.tvott.info:80/5204162303/1455589223/169934
-#EXTINF:-1 group-title="|AR| FLIX  --------MUSIC--------",7
-http://pn.tvott.info:80/5204162303/1455589223/169933
-#EXTINF:-1 group-title="|AR| FLIX  --------MUSIC--------",6
-http://pn.tvott.info:80/5204162303/1455589223/169932
-#EXTINF:-1 group-title="|AR| FLIX  --------MUSIC--------",5
-http://pn.tvott.info:80/5204162303/1455589223/169931
-#EXTINF:-1 group-title="|AR| FLIX  --------MUSIC--------",4
-http://pn.tvott.info:80/5204162303/1455589223/169930
-#EXTINF:-1 group-title="|AR| FLIX  --------MUSIC--------",3
-http://pn.tvott.info:80/5204162303/1455589223/169929
-#EXTINF:-1 group-title="|AR| FLIX  --------MUSIC--------",2
-http://pn.tvott.info:80/5204162303/1455589223/169928
-#EXTINF:-1 group-title="|AR| FLIX  --------MUSIC--------",1
-http://pn.tvott.info:80/5204162303/1455589223/169927
 #EXTINF:-1 group-title="|AR| FLIX  --------MUSIC--------",RADIO MED VI.
 http://pn.tvott.info:80/5204162303/1455589223/169916
 #EXTINF:-1 group-title="|AR| FLIX  --------MUSIC--------",RADIO  MEDI1.
@@ -12780,49 +12820,3 @@ http://pn.tvott.info:80/5204162303/1455589223/82181
 http://pn.tvott.info:80/5204162303/1455589223/82180
 #EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| VIZION PLUS 4K
 http://pn.tvott.info:80/5204162303/1455589223/82179
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| KLAN KOSOVA HD
-http://pn.tvott.info:80/5204162303/1455589223/82178
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| KLAN MACEDONIA
-http://pn.tvott.info:80/5204162303/1455589223/82177
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| ALSAT M HD
-http://pn.tvott.info:80/5204162303/1455589223/82176
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| ALSAT M
-http://pn.tvott.info:80/5204162303/1455589223/82175
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| IN TV
-http://pn.tvott.info:80/5204162303/1455589223/82174
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTSH 1
-http://pn.tvott.info:80/5204162303/1455589223/82173
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTSH 1 HD
-http://pn.tvott.info:80/5204162303/1455589223/82172
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTSH 2 HD
-http://pn.tvott.info:80/5204162303/1455589223/82171
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTSH 3
-http://pn.tvott.info:80/5204162303/1455589223/82170
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTSH MUZIKE
-http://pn.tvott.info:80/5204162303/1455589223/82169
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTSH SHQIP
-http://pn.tvott.info:80/5204162303/1455589223/82168
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTSH GJIROKASTRA
-http://pn.tvott.info:80/5204162303/1455589223/82167
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTSH 24 HD
-http://pn.tvott.info:80/5204162303/1455589223/82166
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTSH PLUS
-http://pn.tvott.info:80/5204162303/1455589223/82165
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTSH KUVEND
-http://pn.tvott.info:80/5204162303/1455589223/82164
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTSH SPORT HD
-http://pn.tvott.info:80/5204162303/1455589223/82163
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTK 1
-http://pn.tvott.info:80/5204162303/1455589223/82162
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTK 1 HD
-http://pn.tvott.info:80/5204162303/1455589223/82161
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTK 2
-http://pn.tvott.info:80/5204162303/1455589223/82160
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTK 3
-http://pn.tvott.info:80/5204162303/1455589223/82159
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTK 4
-http://pn.tvott.info:80/5204162303/1455589223/82158
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTV21
-http://pn.tvott.info:80/5204162303/1455589223/82157
-#EXTINF:-1 group-title="##### |ALB| GENERAL #####",|ALB| RTV21 HD
-http://pn.tvott.info:80/5204162303/1455589223/82156
