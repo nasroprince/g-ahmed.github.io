@@ -258,7 +258,7 @@ http://ztvuk.com:8080/younis/younis123/11980
 http://ztvuk.com:8080/younis/younis123/29702
 #EXTINF:-1 group-title="Other",ITV 1 FHD
 http://ztvuk.com:8080/younis/younis123/11968
-#EXTINF:-1 group-title="Other",ITV HD
+#EXTINF:-1 group-title="Other",ITV 1 HD
 http://ztvuk.com:8080/younis/younis123/13311
 #EXTINF:-1 group-title="Other",ITV 1 + 1
 http://ztvuk.com:8080/younis/younis123/11970
@@ -512,6 +512,8 @@ http://ztvuk.com:8080/younis/younis123/93039
 http://ztvuk.com:8080/younis/younis123/89010
 #EXTINF:-1 group-title="OSN",Cartoonito HD
 http://ztvuk.com:8080/younis/younis123/30067
+#EXTINF:-1 group-title="Other",CBeebies HD
+http://ztvuk.com:8080/younis/younis123/99335
 #EXTINF:-1 group-title="Other",Dave & Ava
 http://ztvuk.com:8080/younis/younis123/14768
 #EXTINF:-1 group-title="Other",Diana and Roma
@@ -1302,8 +1304,6 @@ http://ztvuk.com:8080/younis/younis123/93038
 http://ztvuk.com:8080/younis/younis123/93037
 #EXTINF:-1 group-title="Other",92 News HD  (Uk)
 http://ztvuk.com:8080/younis/younis123/12348
-#EXTINF:-1 group-title="Other",92 News HD  (Uk).
-http://ztvuk.com:8080/younis/younis123/92077
 #EXTINF:-1 group-title="Other",92 News Plus HD
 http://ztvuk.com:8080/younis/younis123/12347
 #EXTINF:-1 group-title="Other",92 News Plus HD.
@@ -2948,10 +2948,6 @@ http://ztvuk.com:8080/younis/younis123/97757
 http://ztvuk.com:8080/younis/younis123/97758
 #EXTINF:-1 group-title="Other",ES: SYFY FHD
 http://ztvuk.com:8080/younis/younis123/97759
-#EXTINF:-1 group-title="Other",ES: Dark HD
-http://ztvuk.com:8080/younis/younis123/97760
-#EXTINF:-1 group-title="Other",ES: Bom Cine HD
-http://ztvuk.com:8080/younis/younis123/97761
 #EXTINF:-1 group-title="Other",ES: Movistar accion HD
 http://ztvuk.com:8080/younis/younis123/97762
 #EXTINF:-1 group-title="Other",ES: Movistar D Cine HD
