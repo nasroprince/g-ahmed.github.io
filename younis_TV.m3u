@@ -994,6 +994,8 @@ http://ztvuk.com:8080/younis/younis123/12230
 http://ztvuk.com:8080/younis/younis123/89294
 #EXTINF:-1 group-title="Other",Zee Tv  (Uk)
 http://ztvuk.com:8080/younis/younis123/19976
+#EXTINF:-1 group-title="Other",Zee Tv  (Uk).
+http://ztvuk.com:8080/younis/younis123/99245
 #EXTINF:-1 group-title="Other",Zee Tv FHD
 http://ztvuk.com:8080/younis/younis123/17766
 #EXTINF:-1 group-title="Other",Zee Tv HD
@@ -2884,65 +2886,47 @@ http://ztvuk.com:8080/younis/younis123/97725
 http://ztvuk.com:8080/younis/younis123/97726
 #EXTINF:-1 group-title="Other",ES: Discovery Channel HD
 http://ztvuk.com:8080/younis/younis123/97727
-#EXTINF:-1 group-title="Other",ES: National Geografhy Wild FHD
+#EXTINF:-1 group-title="Other",ES:  National Geografhy Wild FHD
 http://ztvuk.com:8080/younis/younis123/97728
-#EXTINF:-1 group-title="Other",ES: National Geografic FHD
+#EXTINF:-1 group-title="Other",ES:  National Geografic FHD
 http://ztvuk.com:8080/younis/younis123/97729
-#EXTINF:-1 group-title="Other",ES: Natgeo Wild HD
+#EXTINF:-1 group-title="Other",ES:  Natgeo Wild HD
 http://ztvuk.com:8080/younis/younis123/97730
-#EXTINF:-1 group-title="Other",ES: Crime & Investigation HD
+#EXTINF:-1 group-title="Other",ES:  Crime & Investigation HD
 http://ztvuk.com:8080/younis/younis123/97731
-#EXTINF:-1 group-title="Other",ES: Toros HD
+#EXTINF:-1 group-title="Other",ES:  Toros HD
 http://ztvuk.com:8080/younis/younis123/97732
-#EXTINF:-1 group-title="Other",ES: F1 HD
+#EXTINF:-1 group-title="Other",ES:  F1 HD
 http://ztvuk.com:8080/younis/younis123/97733
-#EXTINF:-1 group-title="Other",ES: #0 Sports  FHD
-http://ztvuk.com:8080/younis/younis123/97734
-#EXTINF:-1 group-title="Other",ES: #V HD
-http://ztvuk.com:8080/younis/younis123/97735
-#EXTINF:-1 group-title="Other",ES: Goltv HD
+#EXTINF:-1 group-title="Other",ES:  Gol Tv HD
 http://ztvuk.com:8080/younis/younis123/97736
-#EXTINF:-1 group-title="Other",ES: Vamos Sports HD*
+#EXTINF:-1 group-title="Other",ES:  Vamos Sports HD*
 http://ztvuk.com:8080/younis/younis123/97737
-#EXTINF:-1 group-title="Other",ES: Movistar La Liga HD
-http://ztvuk.com:8080/younis/younis123/97738
-#EXTINF:-1 group-title="Other",ES: La Liga Bar Full HD
+#EXTINF:-1 group-title="Other",ES:  La Liga Bar Full HD
 http://ztvuk.com:8080/younis/younis123/97739
-#EXTINF:-1 group-title="Other",ES: Movistar Liga HD
+#EXTINF:-1 group-title="Other",ES:  Movistar Liga HD
 http://ztvuk.com:8080/younis/younis123/97740
 #EXTINF:-1 group-title="Other",ES: Movistar La Liga HD 1
 http://ztvuk.com:8080/younis/younis123/97741
-#EXTINF:-1 group-title="Other",ES: Movista Liga De Campeones HD
+#EXTINF:-1 group-title="Other",ES:  Movista Liga De Campeones HD
 http://ztvuk.com:8080/younis/younis123/97742
-#EXTINF:-1 group-title="Other",ES: Movistar Golf HD
+#EXTINF:-1 group-title="Other",ES:  Movistar Golf HD
 http://ztvuk.com:8080/younis/younis123/97743
 #EXTINF:-1 group-title="Other",ES: Movistar Liga Campeones 1 FHD
 http://ztvuk.com:8080/younis/younis123/97744
-#EXTINF:-1 group-title="Other",ES: Movistar Liga Campeones 2 HD
+#EXTINF:-1 group-title="Other",ES:  Movistar Liga Campeones 2 HD
 http://ztvuk.com:8080/younis/younis123/97745
-#EXTINF:-1 group-title="Other",ES: Movistar Liga Campeones 3 HD
-http://ztvuk.com:8080/younis/younis123/97746
-#EXTINF:-1 group-title="Other",ES: Movistar Liga Campeones 4 HD
-http://ztvuk.com:8080/younis/younis123/97747
-#EXTINF:-1 group-title="Other",ES: Movistar Liga Campeones 6 HD
-http://ztvuk.com:8080/younis/younis123/97748
-#EXTINF:-1 group-title="Other",ES: Movistar Liga Campeones 7 HD
-http://ztvuk.com:8080/younis/younis123/97749
-#EXTINF:-1 group-title="Other",ES: Movistar Liga Campeones 5 HD
-http://ztvuk.com:8080/younis/younis123/97750
 #EXTINF:-1 group-title="Other",ES: Movistar Deportes 1 HD
 http://ztvuk.com:8080/younis/younis123/97751
 #EXTINF:-1 group-title="Other",ES: Paramount Network HD
 http://ztvuk.com:8080/younis/younis123/97752
-#EXTINF:-1 group-title="Other",ES: AMC HD
+#EXTINF:-1 group-title="Other",ES:  AMC HD
 http://ztvuk.com:8080/younis/younis123/97753
-#EXTINF:-1 group-title="Other",ES: Atres Series HD
-http://ztvuk.com:8080/younis/younis123/97754
-#EXTINF:-1 group-title="Other",ES: AXN White FHD*
+#EXTINF:-1 group-title="Other",ES:  AXN White FHD
 http://ztvuk.com:8080/younis/younis123/97755
 #EXTINF:-1 group-title="Other",ES: AXN FHD
 http://ztvuk.com:8080/younis/younis123/97756
-#EXTINF:-1 group-title="Other",ES: FOX Life HD
+#EXTINF:-1 group-title="Other",ES:  FOX Life HD
 http://ztvuk.com:8080/younis/younis123/97757
 #EXTINF:-1 group-title="Other",ES: Hollywood HD
 http://ztvuk.com:8080/younis/younis123/97758
