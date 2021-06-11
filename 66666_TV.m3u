@@ -402,13 +402,13 @@ http://152.89.62.111:8080/66666/66666/283919
 http://152.89.62.111:8080/66666/66666/283920
 #EXTINF:-1 group-title="Other",SPFL : ROSS COUNTRY TV ( LIVE ON MATCHES )
 http://152.89.62.111:8080/66666/66666/283921
-#EXTINF:-1 group-title="Other",Events 01: 8PM Mayweather v Paul 
+#EXTINF:-1 group-title="Other",EVENTS 01: PFL-SHIELDS V ELKIN 6.30PM ET
 http://152.89.62.111:8080/66666/66666/282069
-#EXTINF:-1 group-title="Other",Events 02: 8PM Mayweather v Paul 
+#EXTINF:-1 group-title="Other",EVENTS 02: 7/10PM PFL Shields v Elkin BU
 http://152.89.62.111:8080/66666/66666/282070
-#EXTINF:-1 group-title="Other",Events 03: 8PM Mayweather v Paul 
+#EXTINF:-1 group-title="Other",EVENTS 03: 7PM Ohio Valley Wrestling
 http://152.89.62.111:8080/66666/66666/282071
-#EXTINF:-1 group-title="Other",Events 04: 8PM Mayweather v Paul 
+#EXTINF:-1 group-title="Other",EVENTS 04: 7PM Devotion Championship Wrestling 
 http://152.89.62.111:8080/66666/66666/282072
 #EXTINF:-1 group-title="Other",Events 06: 8PM Mayweather v Paul 
 http://152.89.62.111:8080/66666/66666/282073
@@ -422,7 +422,7 @@ http://152.89.62.111:8080/66666/66666/282076
 http://152.89.62.111:8080/66666/66666/282077
 #EXTINF:-1 group-title="Other",Events 11: 6PM CJJW Welterweights
 http://152.89.62.111:8080/66666/66666/282078
-#EXTINF:-1 group-title="Other",Events 05: 7AM Eternal 60
+#EXTINF:-1 group-title="Other",EVENTS 05: 10PM RJJ Gallegos v Newman
 http://152.89.62.111:8080/66666/66666/282625
 #EXTINF:-1 group-title="Other",Events 12: 8PM Mayweather v Paul (Showtime Feed)
 http://152.89.62.111:8080/66666/66666/282626
@@ -930,11 +930,11 @@ http://152.89.62.111:8080/66666/66666/276621
 http://152.89.62.111:8080/66666/66666/276622
 #EXTINF:-1 group-title="Other",SuperSport Variety 3
 http://152.89.62.111:8080/66666/66666/276623
-#EXTINF:-1 group-title="Other",RU01. Northampton vs Exeter 3pm
+#EXTINF:-1 group-title="Other",LRU01. Catalans v Hull 7.45pm
 http://152.89.62.111:8080/66666/66666/252262
-#EXTINF:-1 group-title="Other",LRU02. Chiefs vs Rebels 6am 
+#EXTINF:-1 group-title="Other",LRU02. 
 http://152.89.62.111:8080/66666/66666/252269
-#EXTINF:-1 group-title="Other",LRU03. Knights vs Eels 7.05am 
+#EXTINF:-1 group-title="Other",LRU03. 
 http://152.89.62.111:8080/66666/66666/252271
 #EXTINF:-1 group-title="Other",LRU04. 
 http://152.89.62.111:8080/66666/66666/252272
@@ -1002,8 +1002,8 @@ http://152.89.62.111:8080/66666/66666/223757
 http://152.89.62.111:8080/66666/66666/223758
 #EXTINF:-1 group-title="Other",EFL 25: 
 http://152.89.62.111:8080/66666/66666/223759
-#EXTINF:-1 group-title="Other",HR01. Yermouthhttp://152.89.62.111:8080/66666/66666/283103
-#EXTINF:-1 group-title="Other",HR02. HAYDOCKhttp://152.89.62.111:8080/66666/66666/276251
+#EXTINF:-1 group-title="Other",HR01. Yarmouthhttp://152.89.62.111:8080/66666/66666/283103
+#EXTINF:-1 group-title="Other",HR02. Newburyhttp://152.89.62.111:8080/66666/66666/276251
 #EXTINF:-1 group-title="Other",LCR1. Knight riders v Challengers 3.00pm
 http://152.89.62.111:8080/66666/66666/276599
 #EXTINF:-1 group-title="Other",ECB Fixtures 00:
@@ -1076,21 +1076,21 @@ http://152.89.62.111:8080/66666/66666/284325
 http://152.89.62.111:8080/66666/66666/284326
 #EXTINF:-1 group-title="Other",MotoGP : Main Race
 http://152.89.62.111:8080/66666/66666/284327
-#EXTINF:-1 group-title="Other",EC1:
+#EXTINF:-1 group-title="Other",EC1: Turkey v Italy (FRI 20:00)
 http://152.89.62.111:8080/66666/66666/222692
-#EXTINF:-1 group-title="Other",EC2: SD
+#EXTINF:-1 group-title="Other",EC2: SD Turkey v Italy (FRI 20:00)
 http://152.89.62.111:8080/66666/66666/222693
-#EXTINF:-1 group-title="Other",EC3:
+#EXTINF:-1 group-title="Other",EC3: Wales v Switzerland (SAT 14:00)
 http://152.89.62.111:8080/66666/66666/279060
-#EXTINF:-1 group-title="Other",EC4:
+#EXTINF:-1 group-title="Other",EC4: Wales v Switzerland (SAT 14:00)
 http://152.89.62.111:8080/66666/66666/279061
-#EXTINF:-1 group-title="Other",EC5:
+#EXTINF:-1 group-title="Other",EC5: Denmark v Finland (SAT 17:00)
 http://152.89.62.111:8080/66666/66666/279062
-#EXTINF:-1 group-title="Other",EC6:
+#EXTINF:-1 group-title="Other",EC6: Denmark v Finland  (SAT 17:00)
 http://152.89.62.111:8080/66666/66666/279073
-#EXTINF:-1 group-title="Other",EC7:
+#EXTINF:-1 group-title="Other",EC7: Belgium v Russia (SAT 20:00)
 http://152.89.62.111:8080/66666/66666/279074
-#EXTINF:-1 group-title="Other",EC8:
+#EXTINF:-1 group-title="Other",EC8: Belgium v Russia (SAT 20:00)
 http://152.89.62.111:8080/66666/66666/289034
 #EXTINF:-1 group-title="Other",EFL01: 
 http://152.89.62.111:8080/66666/66666/282034
@@ -1457,11 +1457,11 @@ http://152.89.62.111:8080/66666/66666/285555
 http://152.89.62.111:8080/66666/66666/285556
 #EXTINF:-1 group-title="Other",INT01. Portugal v Israel 7.45pm
 http://152.89.62.111:8080/66666/66666/248671
-#EXTINF:-1 group-title="Other",INT02. 
+#EXTINF:-1 group-title="Other",INT02. Estonia v Latvia 5.00pm
 http://152.89.62.111:8080/66666/66666/248739
-#EXTINF:-1 group-title="Other",INT03. 
+#EXTINF:-1 group-title="Other",INT03. Denmark W v Australia W 5.00pm
 http://152.89.62.111:8080/66666/66666/249048
-#EXTINF:-1 group-title="Other",INT04. 
+#EXTINF:-1 group-title="Other",INT04. France W v Germany W 8.00pm
 http://152.89.62.111:8080/66666/66666/249059
 #EXTINF:-1 group-title="Other",INT05. 
 http://152.89.62.111:8080/66666/66666/249070
@@ -1471,7 +1471,7 @@ http://152.89.62.111:8080/66666/66666/249097
 http://152.89.62.111:8080/66666/66666/249122
 #EXTINF:-1 group-title="Other",INT08.
 http://152.89.62.111:8080/66666/66666/249168
-#EXTINF:-1 group-title="Other",INT09. 
+#EXTINF:-1 group-title="Other",INT09. Melbourne v Newcastle  10.05am
 http://152.89.62.111:8080/66666/66666/252294
 #EXTINF:-1 group-title="Other",INT10.
 http://152.89.62.111:8080/66666/66666/252296
@@ -1669,7 +1669,7 @@ http://152.89.62.111:8080/66666/66666/286723
 http://152.89.62.111:8080/66666/66666/280136
 #EXTINF:-1 group-title="Other",TEN2. French Open Tennis 10.00am
 http://152.89.62.111:8080/66666/66666/280137
-#EXTINF:-1 group-title="Other",CYC01. Tour Of Slovenia Stage 1 2.00pm
+#EXTINF:-1 group-title="Other",CYC01. Tour Of Slovenia 2 12.00pm
 http://152.89.62.111:8080/66666/66666/287210
 #EXTINF:-1 group-title="Other",BT Sports 1 HD
 http://152.89.62.111:8080/66666/66666/293596
@@ -1949,118 +1949,82 @@ http://152.89.62.111:8080/66666/66666/282028
 http://152.89.62.111:8080/66666/66666/282029
 #EXTINF:-1 group-title="Other",F1TV : 2021 Azerbaijan GP - F2 Feature Race | Sun 6th 9:45AM
 http://152.89.62.111:8080/66666/66666/282030
-#EXTINF:-1 group-title="Other",USA PPV01: Boxing: Mayweather v Paul @ 08:00 PM
-http://152.89.62.111:8080/66666/66666/297753
-#EXTINF:-1 group-title="Other",USA PPV02: Boxing: Mayweather v Paul (Backup)  @ 08:00 PM
-http://152.89.62.111:8080/66666/66666/297754
-#EXTINF:-1 group-title="Other",USA PPV03: LowBW Mayweather v Paul @ 08:00 PM
-http://152.89.62.111:8080/66666/66666/297755
-#EXTINF:-1 group-title="Other",USA PPV04: AMSOIL Championship Off Road @ 12:00 PM
-http://152.89.62.111:8080/66666/66666/297756
-#EXTINF:-1 group-title="Other",USA PPV05: Loretta Lynn Regionals SW   @ 12:00 PM
-http://152.89.62.111:8080/66666/66666/297757
-#EXTINF:-1 group-title="Other",USA PPV06: PASS Super Late @ 01:30 PM
-http://152.89.62.111:8080/66666/66666/297758
-#EXTINF:-1 group-title="Other",USA PPV07: GCW Zombie Walk @ 03:00 PM
-http://152.89.62.111:8080/66666/66666/297759
-#EXTINF:-1 group-title="Other",USA PPV08: NWA When Our Shadows Fall   @ 04:00 PM
-http://152.89.62.111:8080/66666/66666/297760
-#EXTINF:-1 group-title="Other",USA PPV09: DiscGolf Portland Open @ 05:00 PM
-http://152.89.62.111:8080/66666/66666/297761
-#EXTINF:-1 group-title="Other",USA PPV10: 4B4Ever 40 Late Model @ 05:00 PM
-http://152.89.62.111:8080/66666/66666/297762
-#EXTINF:-1 group-title="Other",USA PPV11: Atomic Speedway Sprints @ 05:00 PM
-http://152.89.62.111:8080/66666/66666/297763
-#EXTINF:-1 group-title="Other",USA PPV12: Boxing: Sanchez v Strode @ 05:30 PM
-http://152.89.62.111:8080/66666/66666/297764
-#EXTINF:-1 group-title="Other",USA PPV13: Glen Ridge Motosports Modifieds 05:30 PM
-http://152.89.62.111:8080/66666/66666/297765
-#EXTINF:-1 group-title="Other",USA PPV14: Porsche Sprint Challenge  @ 05:45 PM
-http://152.89.62.111:8080/66666/66666/297766
-#EXTINF:-1 group-title="Other",USA PPV15: CJJW Welterweights @ 06:00 PM
-http://152.89.62.111:8080/66666/66666/297767
-#EXTINF:-1 group-title="Other",USA PPV16: Mowa Sprints Jacksonville @ 06:15 PM
-http://152.89.62.111:8080/66666/66666/297768
-#EXTINF:-1 group-title="Other",USA PPV17: Racing: 6PM USAC Midgets @ 07:00 PM
-http://152.89.62.111:8080/66666/66666/297769
-#EXTINF:-1 group-title="Other",USA PPV18: Weekly Racing Huset @ 07:30 PM
-http://152.89.62.111:8080/66666/66666/297770
-#EXTINF:-1 group-title="Other",USA PPV19: All Star Circuit of Champions IRA @ 07:30 PM
-http://152.89.62.111:8080/66666/66666/297771
 #EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",POO01. World Championships 12.00/6.00pm**
 http://152.89.62.111:8080/66666/66666/290185
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real NBA 01: Denver Nuggets VS Phoenix Suns ( TNT Feed ) @ 9:30 PM
-http://152.89.62.111:8080/66666/66666/304861
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",CYC02. Tour De Suisse Stage 1 2.25pm
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",CYC02. Tour Of Belgium Stage 2 2.15pm
 http://152.89.62.111:8080/66666/66666/289023
 #EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",LCR02. Worcesetershire v Notts 5.30pm
 http://152.89.62.111:8080/66666/66666/304923
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 01: Giants VS Rangers (Rangers Feed ) @ 14:05
-http://152.89.62.111:8080/66666/66666/304931
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 02: Giants VS Rangers (Giants Feed ) @ 14:05
-http://152.89.62.111:8080/66666/66666/304932
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 03: Giants VS Rangers (MLBN Feed ) @ 14:05
-http://152.89.62.111:8080/66666/66666/304933
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 04: D-backs VS Athletics (D-backs Feed ) @ 15:37
-http://152.89.62.111:8080/66666/66666/304934
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 05: D-backs VS Athletics (Athletics Feed ) @ 15:37
-http://152.89.62.111:8080/66666/66666/304935
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 06: Cubs VS Padres (Padres Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/304936
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 07: Cubs VS Padres (Cubs Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/304937
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 08: Mets VS Orioles (Orioles Feed ) @ 19:05
-http://152.89.62.111:8080/66666/66666/304938
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 09: Mets VS Orioles (Mets Feed ) @ 19:05
-http://152.89.62.111:8080/66666/66666/304939
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 10: Dodgers VS Pirates (Pirates Feed ) @ 19:05
-http://152.89.62.111:8080/66666/66666/304940
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 11: Dodgers VS Pirates (Dodgers Feed ) @ 19:05
-http://152.89.62.111:8080/66666/66666/304941
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 12: Braves VS Phillies (Braves Feed ) @ 19:05
-http://152.89.62.111:8080/66666/66666/304942
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 13: Braves VS Phillies (Phillies Feed ) @ 19:05
-http://152.89.62.111:8080/66666/66666/304943
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 14: Astros VS Red Sox (Red Sox Feed ) @ 19:10
-http://152.89.62.111:8080/66666/66666/304944
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 15: Astros VS Red Sox (Astros Feed ) @ 19:10
-http://152.89.62.111:8080/66666/66666/304945
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 16: Mariners VS Tigers (Mariners Feed ) @ 19:10
-http://152.89.62.111:8080/66666/66666/304946
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 17: Mariners VS Tigers (Tigers Feed ) @ 19:10
-http://152.89.62.111:8080/66666/66666/304947
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 18: Nationals VS Rays (Nationals Feed ) @ 19:10
-http://152.89.62.111:8080/66666/66666/304948
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 19: Nationals VS Rays (Rays Feed ) @ 19:10
-http://152.89.62.111:8080/66666/66666/304949
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 20: Rockies VS Marlins (Rockies Feed ) @ 19:10
-http://152.89.62.111:8080/66666/66666/304950
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 21: Rockies VS Marlins (Marlins Feed ) @ 19:10
-http://152.89.62.111:8080/66666/66666/304951
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 22: Brewers VS Reds (Reds Feed ) @ 19:10
-http://152.89.62.111:8080/66666/66666/304952
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 23: Brewers VS Reds (Brewers Feed ) @ 19:10
-http://152.89.62.111:8080/66666/66666/304953
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 24: Blue Jays VS White Sox (White Sox Feed ) @ 20:10
-http://152.89.62.111:8080/66666/66666/304954
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 25: Blue Jays VS White Sox (Blue Jays Feed ) @ 20:10
-http://152.89.62.111:8080/66666/66666/304955
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 26: Yankees VS Twins (Yankees Feed ) @ 20:10
-http://152.89.62.111:8080/66666/66666/304956
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 28: Indians VS Cardinals (Cardinals Feed ) @ 20:15
-http://152.89.62.111:8080/66666/66666/304957
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 29: Royals VS Angels (Royals Feed ) @ 21:38
-http://152.89.62.111:8080/66666/66666/304958
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 31: Royals VS Angels (ESPN Feed ) @ 21:38
-http://152.89.62.111:8080/66666/66666/304959
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 40: Royals VS Angels (Angels Feed ) @ 21:38
-http://152.89.62.111:8080/66666/66666/304960
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real NHL 01: Boston Bruins VS New York Islanders (NBCSN Feed ) @ 19:30
-http://152.89.62.111:8080/66666/66666/304961
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real NHL 02: Boston Bruins VS New York Islanders (TVAS Feed ) @ 19:30
-http://152.89.62.111:8080/66666/66666/304962
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real NHL 03: Boston Bruins VS New York Islanders (SN Feed ) @ 19:30
-http://152.89.62.111:8080/66666/66666/304963
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",TEN3. WTA Nottingham Open 12.00pm
+http://152.89.62.111:8080/66666/66666/287209
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 01: Brewers VS Reds (Reds Feed ) @ 12:35
+http://152.89.62.111:8080/66666/66666/305408
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 02: Brewers VS Reds (Brewers Feed ) @ 12:35
+http://152.89.62.111:8080/66666/66666/305409
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 03: Braves VS Phillies (Phillies Feed ) @ 13:05
+http://152.89.62.111:8080/66666/66666/305410
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 04: Braves VS Phillies (Braves Feed ) @ 13:05
+http://152.89.62.111:8080/66666/66666/305411
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 05: Braves VS Phillies (MLBN Feed ) @ 13:05
+http://152.89.62.111:8080/66666/66666/305412
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 06: Mariners VS Tigers (Mariners Feed ) @ 13:10
+http://152.89.62.111:8080/66666/66666/305413
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 07: Mariners VS Tigers (Tigers Feed ) @ 13:10
+http://152.89.62.111:8080/66666/66666/305414
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 08: Giants VS Nationals (Nationals Feed ) @ 19:05
+http://152.89.62.111:8080/66666/66666/305415
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 09: Giants VS Nationals (Giants Feed ) @ 19:05
+http://152.89.62.111:8080/66666/66666/305416
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 10: Astros VS Red Sox (Astros Feed ) @ 19:10
+http://152.89.62.111:8080/66666/66666/305417
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 11: Astros VS Red Sox (Red Sox Feed ) @ 19:10
+http://152.89.62.111:8080/66666/66666/305418
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 12: Astros VS Red Sox (MLBN Feed ) @ 19:10
+http://152.89.62.111:8080/66666/66666/305419
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 13: Rockies VS Marlins (Rockies Feed ) @ 19:10
+http://152.89.62.111:8080/66666/66666/305420
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 14: Rockies VS Marlins (Marlins Feed ) @ 19:10
+http://152.89.62.111:8080/66666/66666/305421
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 15: Blue Jays VS White Sox (White Sox Feed ) @ 20:10
+http://152.89.62.111:8080/66666/66666/305422
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 16: Blue Jays VS White Sox (Blue Jays Feed ) @ 20:10
+http://152.89.62.111:8080/66666/66666/305423
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 17: Yankees VS Twins (Yankees Feed ) @ 20:10
+http://152.89.62.111:8080/66666/66666/305424
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 18: Yankees VS Twins (Twins Feed ) @ 20:10
+http://152.89.62.111:8080/66666/66666/305425
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 19: Royals VS Athletics (Royals Feed ) @ 21:40
+http://152.89.62.111:8080/66666/66666/305426
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 20: Royals VS Athletics (Athletics Feed ) @ 21:40
+http://152.89.62.111:8080/66666/66666/305427
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real NBA 01: Brooklyn Nets VS Milwaukee Bucks ( ESPN Feed ) @ 7:30 PM
+http://152.89.62.111:8080/66666/66666/305428
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real NBA 02: LA Clippers VS Utah Jazz ( ESPN Feed ) @ 10:00 PM
+http://152.89.62.111:8080/66666/66666/305429
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real NHL 01: Colorado Avalanche VS Vegas Golden Knights (NBCSN Feed ) @ 21:00
+http://152.89.62.111:8080/66666/66666/305430
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real NHL 02: Colorado Avalanche VS Vegas Golden Knights (TVAS Feed ) @ 21:00
+http://152.89.62.111:8080/66666/66666/305431
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real NHL 03: Colorado Avalanche VS Vegas Golden Knights (SN Feed ) @ 21:00
+http://152.89.62.111:8080/66666/66666/305432
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV01: Dirt Late Model Dream Eldora @ 06:00 PM
+http://152.89.62.111:8080/66666/66666/305472
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV02: USAC Midgets @ 06:00 PM
+http://152.89.62.111:8080/66666/66666/305473
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV03: PFL Shields v Elkin @ 07/10 PM
+http://152.89.62.111:8080/66666/66666/305474
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV04: Ohio Valley Wrestling @ 07:00 PM
+http://152.89.62.111:8080/66666/66666/305475
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV05: Devotion Championship Wrestling Eps 65
+http://152.89.62.111:8080/66666/66666/305476
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV06: Weekly Racing Kossuth   @ 08:00 PM
+http://152.89.62.111:8080/66666/66666/305477
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV07:  All Star Sprint Car Showdown  @ 08:00 PM
+http://152.89.62.111:8080/66666/66666/305478
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV08: ARW Exteme Takeover Thursday Eps 41   @ 08:00 PM
+http://152.89.62.111:8080/66666/66666/305479
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV09: RJJ Boxing Gallegos v Newman @ 10:00 PM
+http://152.89.62.111:8080/66666/66666/305480
 #EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",XXX Adult Barely 18
 http://152.89.62.111:8080/66666/66666/223843
 #EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",XXX Adult Beyond Porn 18+ Girls
@@ -6117,56 +6081,6 @@ http://152.89.62.111:8080/66666/66666/247985
 http://152.89.62.111:8080/66666/66666/247692
 #EXTINF:-1 group-title="*--- ALBANIA ---*",|FR|CANAL+ SERIES HD
 http://152.89.62.111:8080/66666/66666/247756
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: 4E
-http://152.89.62.111:8080/66666/66666/280378
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: Acheloos TV
-http://152.89.62.111:8080/66666/66666/280379
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: ACTION 24 HD
-http://152.89.62.111:8080/66666/66666/280380
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: ALERT
-http://152.89.62.111:8080/66666/66666/280381
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: Alfa
-http://152.89.62.111:8080/66666/66666/280382
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: ALPHA TV HD
-http://152.89.62.111:8080/66666/66666/280383
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: ANT 1 FHD
-http://152.89.62.111:8080/66666/66666/280384
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: ANT1 HD
-http://152.89.62.111:8080/66666/66666/280385
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: ART TV
-http://152.89.62.111:8080/66666/66666/280386
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: BABY TV
-http://152.89.62.111:8080/66666/66666/280387
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: BARAZA TV CLASSIC HITS
-http://152.89.62.111:8080/66666/66666/280388
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: BEST TV
-http://152.89.62.111:8080/66666/66666/280389
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: CHANNEL 9 HD
-http://152.89.62.111:8080/66666/66666/280390
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: COSMOTE SPORT 1 HD
-http://152.89.62.111:8080/66666/66666/280391
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: COSMOTE SPORT 2 HD
-http://152.89.62.111:8080/66666/66666/280392
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: COSMOTE SPORT 4 HD
-http://152.89.62.111:8080/66666/66666/280393
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: COSMOTE SPORT 5 HD
-http://152.89.62.111:8080/66666/66666/280394
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: COSMOTE SPORT 6 HD
-http://152.89.62.111:8080/66666/66666/280395
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: COSMOTE SPORT 7 HD
-http://152.89.62.111:8080/66666/66666/280396
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: CRETE TV
-http://152.89.62.111:8080/66666/66666/280397
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: Discovery Channel FHD
-http://152.89.62.111:8080/66666/66666/280398
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: Disney Junior HD
-http://152.89.62.111:8080/66666/66666/280399
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: EOE TV
-http://152.89.62.111:8080/66666/66666/280400
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: EPT SPORTS HD
-http://152.89.62.111:8080/66666/66666/280401
-#EXTINF:-1 group-title="*--- ALBANIA ---*",GR: ERT 1 HD
-http://152.89.62.111:8080/66666/66666/280402
 #EXTINF:-1 group-title="*--- ALBANIA ---*",&pictures
 http://152.89.62.111:8080/66666/66666/273102
 #EXTINF:-1 group-title="*--- ALBANIA ---*",&pictures HD
@@ -8118,224 +8032,6 @@ http://152.89.62.111:8080/66666/66666/251482
 http://152.89.62.111:8080/66666/66666/251483
 #EXTINF:-1 group-title="*--- ALBANIA ---*",PH UNTV
 http://152.89.62.111:8080/66666/66666/251484
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| 13 Ulica HD
-http://152.89.62.111:8080/66666/66666/246147
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| 4 Fun TV
-http://152.89.62.111:8080/66666/66666/246148
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Adventure HEVC
-http://152.89.62.111:8080/66666/66666/246211
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Animal Planet HD
-http://152.89.62.111:8080/66666/66666/246149
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| AXN Black
-http://152.89.62.111:8080/66666/66666/246150
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| AXN HD
-http://152.89.62.111:8080/66666/66666/246151
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| AXN Spin HD
-http://152.89.62.111:8080/66666/66666/246152
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| AXN White
-http://152.89.62.111:8080/66666/66666/246153
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| BBC Brit HD
-http://152.89.62.111:8080/66666/66666/246205
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| BBC Earth HD
-http://152.89.62.111:8080/66666/66666/246206
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| BBC First
-http://152.89.62.111:8080/66666/66666/246212
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Boomerang HEVC
-http://152.89.62.111:8080/66666/66666/246213
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Canal+ Discovery HD
-http://152.89.62.111:8080/66666/66666/246143
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Canal+ Now HD
-http://152.89.62.111:8080/66666/66666/246214
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Cartoon Network HD
-http://152.89.62.111:8080/66666/66666/246154
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| CBS Europa
-http://152.89.62.111:8080/66666/66666/246155
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| CBS Reality
-http://152.89.62.111:8080/66666/66666/246156
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Cinemax 2 HD
-http://152.89.62.111:8080/66666/66666/246157
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Cinemax HD
-http://152.89.62.111:8080/66666/66666/246158
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Comedy Central
-http://152.89.62.111:8080/66666/66666/246159
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Comedy Central Family
-http://152.89.62.111:8080/66666/66666/246160
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Comedy Central HEVC
-http://152.89.62.111:8080/66666/66666/246215
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| DA VINCI LEARNING
-http://152.89.62.111:8080/66666/66666/246161
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| DISCO POLO
-http://152.89.62.111:8080/66666/66666/246162
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| DISCOVERY HEVC
-http://152.89.62.111:8080/66666/66666/246216
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| DISCOVERY HISTORIA
-http://152.89.62.111:8080/66666/66666/246163
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| DISCOVERY LIFE HD
-http://152.89.62.111:8080/66666/66666/246164
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| DISCOVERY SCIENCE
-http://152.89.62.111:8080/66666/66666/246165
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| DISCOVERY TURBO XTRA
-http://152.89.62.111:8080/66666/66666/246144
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| DISNEY CHANNEL HD
-http://152.89.62.111:8080/66666/66666/246139
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| DISNEY JUNIOR
-http://152.89.62.111:8080/66666/66666/246166
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| DISNEY XD
-http://152.89.62.111:8080/66666/66666/246167
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Domo+ HD
-http://152.89.62.111:8080/66666/66666/246207
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Eleven Sports 4
-http://152.89.62.111:8080/66666/66666/246217
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Eurosport 1 HD
-http://152.89.62.111:8080/66666/66666/246168
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Eurosport 1 HEVC
-http://152.89.62.111:8080/66666/66666/246218
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Eurosport 2 HD
-http://152.89.62.111:8080/66666/66666/246169
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| FILMBOX ACTION
-http://152.89.62.111:8080/66666/66666/246135
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| FILMBOX ARTHOUSE
-http://152.89.62.111:8080/66666/66666/246170
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| FILMBOX FAMILY
-http://152.89.62.111:8080/66666/66666/246133
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| FILMBOX PREMIUM
-http://152.89.62.111:8080/66666/66666/246131
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| FOKUS TV HEVC
-http://152.89.62.111:8080/66666/66666/246219
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Fox Comedy HD
-http://152.89.62.111:8080/66666/66666/246118
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Fox Comedy HEVC
-http://152.89.62.111:8080/66666/66666/246221
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Fox HD
-http://152.89.62.111:8080/66666/66666/246119
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Fox HEVC
-http://152.89.62.111:8080/66666/66666/246220
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| HBO 2 HD
-http://152.89.62.111:8080/66666/66666/246171
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| HBO 3 HD
-http://152.89.62.111:8080/66666/66666/246172
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| HBO HD
-http://152.89.62.111:8080/66666/66666/246173
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| HBO HD HEVC
-http://152.89.62.111:8080/66666/66666/246222
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| HGTV
-http://152.89.62.111:8080/66666/66666/246208
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| HGTV HEVC
-http://152.89.62.111:8080/66666/66666/246223
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| HISTORY HD
-http://152.89.62.111:8080/66666/66666/246174
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| KINO POLSKA
-http://152.89.62.111:8080/66666/66666/246142
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| LIFETIME HD
-http://152.89.62.111:8080/66666/66666/246175
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Mininini
-http://152.89.62.111:8080/66666/66666/246141
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Minimini HEVC
-http://152.89.62.111:8080/66666/66666/246224
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| MOTOWIZJA
-http://152.89.62.111:8080/66666/66666/246176
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| MTV
-http://152.89.62.111:8080/66666/66666/246177
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| NAT GEO HD
-http://152.89.62.111:8080/66666/66666/246129
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| NAT GEO PEOPLE HD
-http://152.89.62.111:8080/66666/66666/246178
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| NAT GEO WILD
-http://152.89.62.111:8080/66666/66666/246179
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| NICK JR.
-http://152.89.62.111:8080/66666/66666/246180
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| NICKELODEON
-http://152.89.62.111:8080/66666/66666/246181
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| NSPORT  HD
-http://152.89.62.111:8080/66666/66666/246182
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| PARAMOUNT CHANNEL HD
-http://152.89.62.111:8080/66666/66666/246183
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| PLANETE HD
-http://152.89.62.111:8080/66666/66666/246184
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| POLO TV
-http://152.89.62.111:8080/66666/66666/246185
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| POLSAT 2 HD
-http://152.89.62.111:8080/66666/66666/246127
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| POLSAT CAFE HD
-http://152.89.62.111:8080/66666/66666/246123
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| POLSAT DOKU HD
-http://152.89.62.111:8080/66666/66666/246186
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| POLSAT FILM HD
-http://152.89.62.111:8080/66666/66666/246122
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| POLSAT HD
-http://152.89.62.111:8080/66666/66666/246125
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| POLSAT JIMJAM
-http://152.89.62.111:8080/66666/66666/246187
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| POLSAT NEWS 2
-http://152.89.62.111:8080/66666/66666/246188
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| POLSAT NEWS HD
-http://152.89.62.111:8080/66666/66666/246121
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Polsat Play HD
-http://152.89.62.111:8080/66666/66666/246120
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Polsat Play HEVC
-http://152.89.62.111:8080/66666/66666/246225
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| POLSAT ROMANS
-http://152.89.62.111:8080/66666/66666/246189
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| POLSAT SPORT EXTRA HD
-http://152.89.62.111:8080/66666/66666/246193
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Polsat Sport FIGHT FHD
-http://152.89.62.111:8080/66666/66666/246191
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| POLSAT SPORT HD
-http://152.89.62.111:8080/66666/66666/246190
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Polsat Sport NEWS FHD
-http://152.89.62.111:8080/66666/66666/246192
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Polsat Sport Premium 1 FHD
-http://152.89.62.111:8080/66666/66666/246194
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Polsat Sport Premium 2 FHD
-http://152.89.62.111:8080/66666/66666/246195
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| SPORT KLUB
-http://152.89.62.111:8080/66666/66666/246196
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Stopklatka TV
-http://152.89.62.111:8080/66666/66666/246209
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| SUNDANCE TV HD
-http://152.89.62.111:8080/66666/66666/246197
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| SUPER POLSAT HD
-http://152.89.62.111:8080/66666/66666/246146
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| TELETOON  HD
-http://152.89.62.111:8080/66666/66666/246140
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| TLC HD
-http://152.89.62.111:8080/66666/66666/246198
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| TNT HD
-http://152.89.62.111:8080/66666/66666/246199
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| Travel Channel HD
-http://152.89.62.111:8080/66666/66666/246210
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| TTV HEVC
-http://152.89.62.111:8080/66666/66666/246226
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| TV 6 HD
-http://152.89.62.111:8080/66666/66666/246200
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| TV PLUS HD
-http://152.89.62.111:8080/66666/66666/246201
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| TV REPUBLIKA
-http://152.89.62.111:8080/66666/66666/246145
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| TV4 HD
-http://152.89.62.111:8080/66666/66666/246111
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| TVN 7 FHD
-http://152.89.62.111:8080/66666/66666/246115
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| TVN Fabuła FHD
-http://152.89.62.111:8080/66666/66666/246116
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| TVN HD
-http://152.89.62.111:8080/66666/66666/246117
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| TVN STYLE
-http://152.89.62.111:8080/66666/66666/246113
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| TVN Turbo
-http://152.89.62.111:8080/66666/66666/246112
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| TVN Turbo HEVC
-http://152.89.62.111:8080/66666/66666/246227
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| TVN24
-http://152.89.62.111:8080/66666/66666/246114
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| TVP POLONIA
-http://152.89.62.111:8080/66666/66666/246202
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| TVP SERIALE
-http://152.89.62.111:8080/66666/66666/246137
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| UNIVERSAL HD
-http://152.89.62.111:8080/66666/66666/246203
-#EXTINF:-1 group-title="*--- ALBANIA ---*",|PL| VH1
-http://152.89.62.111:8080/66666/66666/246204
 #EXTINF:-1 group-title="*--- ALBANIA ---*",|RO| Acasa TV
 http://152.89.62.111:8080/66666/66666/259477
 #EXTINF:-1 group-title="*--- ALBANIA ---*",|RO| Antena 1
@@ -12716,6 +12412,274 @@ http://152.89.62.111:8080/66666/66666/297962
 http://152.89.62.111:8080/66666/66666/297963
 #EXTINF:-1 group-title="***** LATINO *****",|HU| Animal Planet
 http://152.89.62.111:8080/66666/66666/297964
+#EXTINF:-1 group-title="***** LATINO *****",|PL| 13 Ulica HD
+http://152.89.62.111:8080/66666/66666/246147
+#EXTINF:-1 group-title="***** LATINO *****",|PL| 4 Fun TV
+http://152.89.62.111:8080/66666/66666/246097
+#EXTINF:-1 group-title="***** LATINO *****",|PL| 4 Fun TV
+http://152.89.62.111:8080/66666/66666/246148
+#EXTINF:-1 group-title="***** LATINO *****",|PL| 4 Fun Dance
+http://152.89.62.111:8080/66666/66666/246095
+#EXTINF:-1 group-title="***** LATINO *****",|PL| 4 Fun Gold Hits
+http://152.89.62.111:8080/66666/66666/246096
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Adventure HEVC
+http://152.89.62.111:8080/66666/66666/246211
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Animal Planet HD
+http://152.89.62.111:8080/66666/66666/246149
+#EXTINF:-1 group-title="***** LATINO *****",|PL| AXN Black
+http://152.89.62.111:8080/66666/66666/246150
+#EXTINF:-1 group-title="***** LATINO *****",|PL| AXN HD
+http://152.89.62.111:8080/66666/66666/246151
+#EXTINF:-1 group-title="***** LATINO *****",|PL| AXN Spin HD
+http://152.89.62.111:8080/66666/66666/246152
+#EXTINF:-1 group-title="***** LATINO *****",|PL| AXN White
+http://152.89.62.111:8080/66666/66666/246153
+#EXTINF:-1 group-title="***** LATINO *****",|PL| BBC Brit HD
+http://152.89.62.111:8080/66666/66666/246205
+#EXTINF:-1 group-title="***** LATINO *****",|PL| BBC Earth HD
+http://152.89.62.111:8080/66666/66666/246206
+#EXTINF:-1 group-title="***** LATINO *****",|PL| BBC First
+http://152.89.62.111:8080/66666/66666/246212
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Boomerang HEVC
+http://152.89.62.111:8080/66666/66666/246213
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ FHD
+http://152.89.62.111:8080/66666/66666/246086
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+  HD
+http://152.89.62.111:8080/66666/66666/246099
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ Discovery HD
+http://152.89.62.111:8080/66666/66666/246143
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ Family HD
+http://152.89.62.111:8080/66666/66666/246107
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ Film HD
+http://152.89.62.111:8080/66666/66666/246100
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ Now HD
+http://152.89.62.111:8080/66666/66666/246214
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ Seriale HD
+http://152.89.62.111:8080/66666/66666/246101
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ Sport 1 HD
+http://152.89.62.111:8080/66666/66666/246102
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ Sport 2 HD
+http://152.89.62.111:8080/66666/66666/246103
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ Sport 3 HD
+http://152.89.62.111:8080/66666/66666/246088
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ Sport 4 HD
+http://152.89.62.111:8080/66666/66666/246087
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Cartoon Network HD
+http://152.89.62.111:8080/66666/66666/246154
+#EXTINF:-1 group-title="***** LATINO *****",|PL| CBS Europa
+http://152.89.62.111:8080/66666/66666/246155
+#EXTINF:-1 group-title="***** LATINO *****",|PL| CBS Reality
+http://152.89.62.111:8080/66666/66666/246156
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Cinemax 2 HD
+http://152.89.62.111:8080/66666/66666/246157
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Cinemax HD
+http://152.89.62.111:8080/66666/66666/246158
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Comedy Central
+http://152.89.62.111:8080/66666/66666/246159
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Comedy Central Family
+http://152.89.62.111:8080/66666/66666/246160
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Comedy Central HEVC
+http://152.89.62.111:8080/66666/66666/246215
+#EXTINF:-1 group-title="***** LATINO *****",|PL| DA Vinci Learning
+http://152.89.62.111:8080/66666/66666/246161
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Disco Polo Music
+http://152.89.62.111:8080/66666/66666/246162
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Discovery HEVC
+http://152.89.62.111:8080/66666/66666/246216
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Discovery Historia
+http://152.89.62.111:8080/66666/66666/246163
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Discovery Life HD
+http://152.89.62.111:8080/66666/66666/246164
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Discovery Science
+http://152.89.62.111:8080/66666/66666/246165
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Discovery Turbo Xtra
+http://152.89.62.111:8080/66666/66666/246144
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Disney Channel HD
+http://152.89.62.111:8080/66666/66666/246139
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Disney Junior
+http://152.89.62.111:8080/66666/66666/246166
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Disney XD
+http://152.89.62.111:8080/66666/66666/246167
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Domo+ HD
+http://152.89.62.111:8080/66666/66666/246207
+#EXTINF:-1 group-title="***** LATINO *****",|PL| E! Entertainment FHD
+http://152.89.62.111:8080/66666/66666/246093
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Eleven Sports 1 HD
+http://152.89.62.111:8080/66666/66666/246089
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Eleven Sports 2 HD
+http://152.89.62.111:8080/66666/66666/246090
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Eleven Sports 3 HD
+http://152.89.62.111:8080/66666/66666/246091
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Eleven Sports 4 HD
+http://152.89.62.111:8080/66666/66666/246092
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Eleven Sports 4
+http://152.89.62.111:8080/66666/66666/246217
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Eska TV
+http://152.89.62.111:8080/66666/66666/246094
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Eurosport 1 HD
+http://152.89.62.111:8080/66666/66666/246168
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Eurosport 1 HEVC
+http://152.89.62.111:8080/66666/66666/246218
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Eurosport 2 HD
+http://152.89.62.111:8080/66666/66666/246169
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Filmbox Action
+http://152.89.62.111:8080/66666/66666/246135
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Filmbox Arthouse
+http://152.89.62.111:8080/66666/66666/246170
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Filmbox Family
+http://152.89.62.111:8080/66666/66666/246133
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Filmbox Premium
+http://152.89.62.111:8080/66666/66666/246131
+#EXTINF:-1 group-title="***** LATINO *****",|PL| FOKUS TV HEVC
+http://152.89.62.111:8080/66666/66666/246219
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Fox Comedy HD
+http://152.89.62.111:8080/66666/66666/246118
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Fox Comedy HEVC
+http://152.89.62.111:8080/66666/66666/246221
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Fox HD
+http://152.89.62.111:8080/66666/66666/246119
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Fox HEVC
+http://152.89.62.111:8080/66666/66666/246220
+#EXTINF:-1 group-title="***** LATINO *****",|PL| HBO 2 HD
+http://152.89.62.111:8080/66666/66666/246171
+#EXTINF:-1 group-title="***** LATINO *****",|PL| HBO 3 HD
+http://152.89.62.111:8080/66666/66666/246172
+#EXTINF:-1 group-title="***** LATINO *****",|PL| HBO HD
+http://152.89.62.111:8080/66666/66666/246173
+#EXTINF:-1 group-title="***** LATINO *****",|PL| HBO HD HEVC
+http://152.89.62.111:8080/66666/66666/246222
+#EXTINF:-1 group-title="***** LATINO *****",|PL| HGTV
+http://152.89.62.111:8080/66666/66666/246208
+#EXTINF:-1 group-title="***** LATINO *****",|PL| HGTV HEVC
+http://152.89.62.111:8080/66666/66666/246223
+#EXTINF:-1 group-title="***** LATINO *****",|PL| History HD
+http://152.89.62.111:8080/66666/66666/246174
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Kino Polska
+http://152.89.62.111:8080/66666/66666/246142
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Lifetime HD
+http://152.89.62.111:8080/66666/66666/246175
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Mininini
+http://152.89.62.111:8080/66666/66666/246141
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Minimini HEVC
+http://152.89.62.111:8080/66666/66666/246224
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Motowizja
+http://152.89.62.111:8080/66666/66666/246176
+#EXTINF:-1 group-title="***** LATINO *****",|PL| MTV
+http://152.89.62.111:8080/66666/66666/246177
+#EXTINF:-1 group-title="***** LATINO *****",|PL| National Geographic HD
+http://152.89.62.111:8080/66666/66666/246129
+#EXTINF:-1 group-title="***** LATINO *****",|PL| National Geographic People HD
+http://152.89.62.111:8080/66666/66666/246178
+#EXTINF:-1 group-title="***** LATINO *****",|PL| National Geographic Wild
+http://152.89.62.111:8080/66666/66666/246179
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Nick Jr.
+http://152.89.62.111:8080/66666/66666/246180
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Nickelodeon
+http://152.89.62.111:8080/66666/66666/246181
+#EXTINF:-1 group-title="***** LATINO *****",|PL| nSport HD
+http://152.89.62.111:8080/66666/66666/246182
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Paramount Channel HD
+http://152.89.62.111:8080/66666/66666/246183
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Planete+ HD
+http://152.89.62.111:8080/66666/66666/246184
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polo TV
+http://152.89.62.111:8080/66666/66666/246185
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat 2 HD
+http://152.89.62.111:8080/66666/66666/246127
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat Cafe HD
+http://152.89.62.111:8080/66666/66666/246123
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat Doku HD
+http://152.89.62.111:8080/66666/66666/246186
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat Film HD
+http://152.89.62.111:8080/66666/66666/246122
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat HD
+http://152.89.62.111:8080/66666/66666/246125
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat JimJam
+http://152.89.62.111:8080/66666/66666/246187
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat Music HD
+http://152.89.62.111:8080/66666/66666/246098
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat News 2
+http://152.89.62.111:8080/66666/66666/246188
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat News HD
+http://152.89.62.111:8080/66666/66666/246121
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat Play HD
+http://152.89.62.111:8080/66666/66666/246120
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat Play HEVC
+http://152.89.62.111:8080/66666/66666/246225
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat Romans
+http://152.89.62.111:8080/66666/66666/246189
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat Sport Extra HD
+http://152.89.62.111:8080/66666/66666/246193
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat Sport Fight FHD
+http://152.89.62.111:8080/66666/66666/246191
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat Sport HD
+http://152.89.62.111:8080/66666/66666/246190
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat Sport News FHD
+http://152.89.62.111:8080/66666/66666/246192
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat Sport Premium 1 FHD
+http://152.89.62.111:8080/66666/66666/246194
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat Sport Premium 2 FHD
+http://152.89.62.111:8080/66666/66666/246195
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Sport Klub
+http://152.89.62.111:8080/66666/66666/246196
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Stopklatka TV
+http://152.89.62.111:8080/66666/66666/246209
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Sundance TV HD
+http://152.89.62.111:8080/66666/66666/246197
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Super Polsat HD
+http://152.89.62.111:8080/66666/66666/246146
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Teletoon HD
+http://152.89.62.111:8080/66666/66666/246140
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TLC HD
+http://152.89.62.111:8080/66666/66666/246198
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TNT HD
+http://152.89.62.111:8080/66666/66666/246199
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Travel Channel HD
+http://152.89.62.111:8080/66666/66666/246210
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TTV HEVC
+http://152.89.62.111:8080/66666/66666/246226
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TV 4 HD
+http://152.89.62.111:8080/66666/66666/246111
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TV 6 HD
+http://152.89.62.111:8080/66666/66666/246200
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TV Puls HD
+http://152.89.62.111:8080/66666/66666/246201
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TV Republika
+http://152.89.62.111:8080/66666/66666/246145
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TVN 7 FHD
+http://152.89.62.111:8080/66666/66666/246115
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TVN 24
+http://152.89.62.111:8080/66666/66666/246114
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TVN HD
+http://152.89.62.111:8080/66666/66666/246117
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TVN Fabuła FHD
+http://152.89.62.111:8080/66666/66666/246116
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TVN Style
+http://152.89.62.111:8080/66666/66666/246113
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TVN Turbo
+http://152.89.62.111:8080/66666/66666/246112
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TVN Turbo HEVC
+http://152.89.62.111:8080/66666/66666/246227
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TVP 1 HD
+http://152.89.62.111:8080/66666/66666/246109
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TVP 2 HD
+http://152.89.62.111:8080/66666/66666/246110
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TVP Info HD
+http://152.89.62.111:8080/66666/66666/246108
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TVP Historia
+http://152.89.62.111:8080/66666/66666/246106
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TVP Polonia
+http://152.89.62.111:8080/66666/66666/246202
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TVP Rozrywka
+http://152.89.62.111:8080/66666/66666/246105
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TVP Seriale
+http://152.89.62.111:8080/66666/66666/246137
+#EXTINF:-1 group-title="***** LATINO *****",|PL| TVP Sport HD
+http://152.89.62.111:8080/66666/66666/246104
+#EXTINF:-1 group-title="***** LATINO *****",|PL| Universal HD
+http://152.89.62.111:8080/66666/66666/246203
+#EXTINF:-1 group-title="***** LATINO *****",|PL| VH1
+http://152.89.62.111:8080/66666/66666/246204
 #EXTINF:-1 group-title="***** LATINO *****",BBC One UHD
 http://152.89.62.111:8080/66666/66666/222516
 #EXTINF:-1 group-title="***** LATINO *****",BBC One FHD
@@ -12762,6 +12726,8 @@ http://152.89.62.111:8080/66666/66666/222564
 http://152.89.62.111:8080/66666/66666/222525
 #EXTINF:-1 group-title="***** LATINO *****",4 Seven UHD
 http://152.89.62.111:8080/66666/66666/222547
+#EXTINF:-1 group-title="***** LATINO *****",4 Seven HD
+http://152.89.62.111:8080/66666/66666/305319
 #EXTINF:-1 group-title="***** LATINO *****",Channel 5 UHD
 http://152.89.62.111:8080/66666/66666/222520
 #EXTINF:-1 group-title="***** LATINO *****",Channel 5 FHD
@@ -12824,6 +12790,8 @@ http://152.89.62.111:8080/66666/66666/222565
 http://152.89.62.111:8080/66666/66666/222527
 #EXTINF:-1 group-title="***** LATINO *****",Gold FHD
 http://152.89.62.111:8080/66666/66666/222566
+#EXTINF:-1 group-title="***** LATINO *****",HGTV UHD
+http://152.89.62.111:8080/66666/66666/222606
 #EXTINF:-1 group-title="***** LATINO *****",Lifetime UHD
 http://152.89.62.111:8080/66666/66666/222533
 #EXTINF:-1 group-title="***** LATINO *****",Pick TV UHD
@@ -13868,8 +13836,6 @@ http://152.89.62.111:8080/66666/66666/223575
 http://152.89.62.111:8080/66666/66666/223578
 #EXTINF:-1 group-title="***** LATINO *****",MTV  
 http://152.89.62.111:8080/66666/66666/222601
-#EXTINF:-1 group-title="***** LATINO *****",HGTV UHD
-http://152.89.62.111:8080/66666/66666/222606
 #EXTINF:-1 group-title="***** LATINO *****",UK FHD : Animal Planet (Discovery +)
 http://152.89.62.111:8080/66666/66666/292524
 #EXTINF:-1 group-title="***** LATINO *****",UK FHD : Discovery Channel (Discovery +)
@@ -14650,3 +14616,31 @@ http://152.89.62.111:8080/66666/66666/249736
 http://152.89.62.111:8080/66666/66666/249794
 #EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports LHD
 http://152.89.62.111:8080/66666/66666/249792
+#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports SD
+http://152.89.62.111:8080/66666/66666/249795
+#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports Xtra
+http://152.89.62.111:8080/66666/66666/249796
+#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports La Liga
+http://152.89.62.111:8080/66666/66666/249781
+#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports La Liga
+http://152.89.62.111:8080/66666/66666/249789
+#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports La Liga
+http://152.89.62.111:8080/66666/66666/249790
+#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports La Liga
+http://152.89.62.111:8080/66666/66666/249791
+#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports 4
+http://152.89.62.111:8080/66666/66666/249782
+#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports 5
+http://152.89.62.111:8080/66666/66666/249783
+#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports 6
+http://152.89.62.111:8080/66666/66666/249784
+#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports 7
+http://152.89.62.111:8080/66666/66666/249785
+#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports 8
+http://152.89.62.111:8080/66666/66666/249786
+#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports en Espanol UHD
+http://152.89.62.111:8080/66666/66666/249787
+#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports en Espanol LHD
+http://152.89.62.111:8080/66666/66666/249788
+#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports en Espanol SD
+http://152.89.62.111:8080/66666/66666/249793

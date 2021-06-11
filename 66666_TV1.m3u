@@ -1,32 +1,4 @@
-#EXTM3U#EXTM3U#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports SD
-http://152.89.62.111:8080/66666/66666/249795
-#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports Xtra
-http://152.89.62.111:8080/66666/66666/249796
-#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports La Liga
-http://152.89.62.111:8080/66666/66666/249781
-#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports La Liga
-http://152.89.62.111:8080/66666/66666/249789
-#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports La Liga
-http://152.89.62.111:8080/66666/66666/249790
-#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports La Liga
-http://152.89.62.111:8080/66666/66666/249791
-#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports 4
-http://152.89.62.111:8080/66666/66666/249782
-#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports 5
-http://152.89.62.111:8080/66666/66666/249783
-#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports 6
-http://152.89.62.111:8080/66666/66666/249784
-#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports 7
-http://152.89.62.111:8080/66666/66666/249785
-#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports 8
-http://152.89.62.111:8080/66666/66666/249786
-#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports en Espanol UHD
-http://152.89.62.111:8080/66666/66666/249787
-#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports en Espanol LHD
-http://152.89.62.111:8080/66666/66666/249788
-#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports en Espanol SD
-http://152.89.62.111:8080/66666/66666/249793
-#EXTINF:-1 group-title="***** LATINO *****",USA Big Ten Network SD
+#EXTM3U#EXTM3U#EXTINF:-1 group-title="***** LATINO *****",USA Big Ten Network SD
 http://152.89.62.111:8080/66666/66666/249778
 #EXTINF:-1 group-title="***** LATINO *****",USA Big Ten Network 
 http://152.89.62.111:8080/66666/66666/249779
@@ -9258,6 +9230,8 @@ http://152.89.62.111:8080/66666/66666/245831
 http://152.89.62.111:8080/66666/66666/245832
 #EXTINF:-1 group-title="***** LATINO *****",24/7 Zoo
 http://152.89.62.111:8080/66666/66666/245833
+#EXTINF:-1 group-title="***** LATINO *****",24/7 Smallville New
+http://152.89.62.111:8080/66666/66666/305318
 #EXTINF:-1 group-title="***** LATINO *****",TR :  BEIN Series Comedy
 http://152.89.62.111:8080/66666/66666/289229
 #EXTINF:-1 group-title="***** LATINO *****",TR : 363 TV
@@ -10558,56 +10532,6 @@ http://152.89.62.111:8080/66666/66666/285049
 http://152.89.62.111:8080/66666/66666/285050
 #EXTINF:-1 group-title="***** LATINO *****",NL - Ziggo Sport Voetbal
 http://152.89.62.111:8080/66666/66666/285051
-#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ FHD
-http://152.89.62.111:8080/66666/66666/246086
-#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ Sport 4 HD
-http://152.89.62.111:8080/66666/66666/246087
-#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ Sport 3 HD
-http://152.89.62.111:8080/66666/66666/246088
-#EXTINF:-1 group-title="***** LATINO *****",|PL| Eleven Sports 1 HD
-http://152.89.62.111:8080/66666/66666/246089
-#EXTINF:-1 group-title="***** LATINO *****",|PL| Eleven Sports 2 HD
-http://152.89.62.111:8080/66666/66666/246090
-#EXTINF:-1 group-title="***** LATINO *****",|PL| Eleven Sports 3 HD
-http://152.89.62.111:8080/66666/66666/246091
-#EXTINF:-1 group-title="***** LATINO *****",|PL| Eleven Sports 4 HD
-http://152.89.62.111:8080/66666/66666/246092
-#EXTINF:-1 group-title="***** LATINO *****",|PL| E! Entertainment FHD
-http://152.89.62.111:8080/66666/66666/246093
-#EXTINF:-1 group-title="***** LATINO *****",|PL| Eska TV
-http://152.89.62.111:8080/66666/66666/246094
-#EXTINF:-1 group-title="***** LATINO *****",|PL| 4 Fun Dance
-http://152.89.62.111:8080/66666/66666/246095
-#EXTINF:-1 group-title="***** LATINO *****",|PL| 4 Fun Gold Hits
-http://152.89.62.111:8080/66666/66666/246096
-#EXTINF:-1 group-title="***** LATINO *****",|PL| 4 Fun TV
-http://152.89.62.111:8080/66666/66666/246097
-#EXTINF:-1 group-title="***** LATINO *****",|PL| Polsat Music HD
-http://152.89.62.111:8080/66666/66666/246098
-#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+  HD
-http://152.89.62.111:8080/66666/66666/246099
-#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ Film HD
-http://152.89.62.111:8080/66666/66666/246100
-#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ Seriale HD
-http://152.89.62.111:8080/66666/66666/246101
-#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ Sport 1 HD
-http://152.89.62.111:8080/66666/66666/246102
-#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ Sport 2 HD
-http://152.89.62.111:8080/66666/66666/246103
-#EXTINF:-1 group-title="***** LATINO *****",|PL| TVP SPORT HD
-http://152.89.62.111:8080/66666/66666/246104
-#EXTINF:-1 group-title="***** LATINO *****",|PL| TVP ROZRYWKA
-http://152.89.62.111:8080/66666/66666/246105
-#EXTINF:-1 group-title="***** LATINO *****",|PL| TVP HISTORIA
-http://152.89.62.111:8080/66666/66666/246106
-#EXTINF:-1 group-title="***** LATINO *****",|PL| Canal+ Family HD
-http://152.89.62.111:8080/66666/66666/246107
-#EXTINF:-1 group-title="***** LATINO *****",|PL| TVP INFO HD
-http://152.89.62.111:8080/66666/66666/246108
-#EXTINF:-1 group-title="***** LATINO *****",|PL| TVP 1 HD
-http://152.89.62.111:8080/66666/66666/246109
-#EXTINF:-1 group-title="***** LATINO *****",|PL| TVP 2 HD
-http://152.89.62.111:8080/66666/66666/246110
 #EXTINF:-1 group-title="***** LATINO *****",ZA: Zee World
 http://152.89.62.111:8080/66666/66666/291990
 #EXTINF:-1 group-title="***** LATINO *****",ZA: Wild Earth HD
@@ -11067,3 +10991,255 @@ http://152.89.62.111:8080/66666/66666/305215
 http://152.89.62.111:8080/66666/66666/305216
 #EXTINF:-1 group-title="***** LATINO *****",LAT: Zona Futbol
 http://152.89.62.111:8080/66666/66666/305217
+#EXTINF:-1 group-title="***** LATINO *****",GR: 4E
+http://152.89.62.111:8080/66666/66666/280378
+#EXTINF:-1 group-title="***** LATINO *****",GR: Acheloos TV
+http://152.89.62.111:8080/66666/66666/280379
+#EXTINF:-1 group-title="***** LATINO *****",GR: ACTION 24 HD
+http://152.89.62.111:8080/66666/66666/280380
+#EXTINF:-1 group-title="***** LATINO *****",GR: ALERT
+http://152.89.62.111:8080/66666/66666/280381
+#EXTINF:-1 group-title="***** LATINO *****",GR: Alfa
+http://152.89.62.111:8080/66666/66666/280382
+#EXTINF:-1 group-title="***** LATINO *****",GR: ALPHA TV HD
+http://152.89.62.111:8080/66666/66666/280383
+#EXTINF:-1 group-title="***** LATINO *****",GR: ANT 1 FHD
+http://152.89.62.111:8080/66666/66666/280384
+#EXTINF:-1 group-title="***** LATINO *****",GR: ANT1 HD
+http://152.89.62.111:8080/66666/66666/280385
+#EXTINF:-1 group-title="***** LATINO *****",GR: ART TV
+http://152.89.62.111:8080/66666/66666/280386
+#EXTINF:-1 group-title="***** LATINO *****",GR: BABY TV
+http://152.89.62.111:8080/66666/66666/280387
+#EXTINF:-1 group-title="***** LATINO *****",GR: BARAZA TV CLASSIC HITS
+http://152.89.62.111:8080/66666/66666/280388
+#EXTINF:-1 group-title="***** LATINO *****",GR: BEST TV
+http://152.89.62.111:8080/66666/66666/280389
+#EXTINF:-1 group-title="***** LATINO *****",GR: CHANNEL 9 HD
+http://152.89.62.111:8080/66666/66666/280390
+#EXTINF:-1 group-title="***** LATINO *****",GR: COSMOTE SPORT 1 HD
+http://152.89.62.111:8080/66666/66666/280391
+#EXTINF:-1 group-title="***** LATINO *****",GR: COSMOTE SPORT 2 HD
+http://152.89.62.111:8080/66666/66666/280392
+#EXTINF:-1 group-title="***** LATINO *****",GR: COSMOTE SPORT 4 HD
+http://152.89.62.111:8080/66666/66666/280393
+#EXTINF:-1 group-title="***** LATINO *****",GR: COSMOTE SPORT 5 HD
+http://152.89.62.111:8080/66666/66666/280394
+#EXTINF:-1 group-title="***** LATINO *****",GR: COSMOTE SPORT 6 HD
+http://152.89.62.111:8080/66666/66666/280395
+#EXTINF:-1 group-title="***** LATINO *****",GR: COSMOTE SPORT 7 HD
+http://152.89.62.111:8080/66666/66666/280396
+#EXTINF:-1 group-title="***** LATINO *****",GR: CRETE TV
+http://152.89.62.111:8080/66666/66666/280397
+#EXTINF:-1 group-title="***** LATINO *****",GR: Discovery Channel FHD
+http://152.89.62.111:8080/66666/66666/280398
+#EXTINF:-1 group-title="***** LATINO *****",GR: Disney Junior HD
+http://152.89.62.111:8080/66666/66666/280399
+#EXTINF:-1 group-title="***** LATINO *****",GR: EOE TV
+http://152.89.62.111:8080/66666/66666/280400
+#EXTINF:-1 group-title="***** LATINO *****",GR: EPT SPORTS HD
+http://152.89.62.111:8080/66666/66666/280401
+#EXTINF:-1 group-title="***** LATINO *****",GR: ERT 1 HD
+http://152.89.62.111:8080/66666/66666/280402
+#EXTINF:-1 group-title="***** LATINO *****",GR: ERT 3 HD
+http://152.89.62.111:8080/66666/66666/280403
+#EXTINF:-1 group-title="***** LATINO *****",GR: ERT HD
+http://152.89.62.111:8080/66666/66666/280404
+#EXTINF:-1 group-title="***** LATINO *****",GR: ERT WORLD
+http://152.89.62.111:8080/66666/66666/280405
+#EXTINF:-1 group-title="***** LATINO *****",GR: EUROSPORT 1 HD
+http://152.89.62.111:8080/66666/66666/280406
+#EXTINF:-1 group-title="***** LATINO *****",GR: EUROSPORT 2 HD
+http://152.89.62.111:8080/66666/66666/280407
+#EXTINF:-1 group-title="***** LATINO *****",GR: GREEK VOICE
+http://152.89.62.111:8080/66666/66666/280408
+#EXTINF:-1 group-title="***** LATINO *****",GR: HELLENIC TV
+http://152.89.62.111:8080/66666/66666/280409
+#EXTINF:-1 group-title="***** LATINO *****",GR: HIGH TV
+http://152.89.62.111:8080/66666/66666/280410
+#EXTINF:-1 group-title="***** LATINO *****",GR: IONIAN TV
+http://152.89.62.111:8080/66666/66666/280411
+#EXTINF:-1 group-title="***** LATINO *****",GR: KONTRA TV
+http://152.89.62.111:8080/66666/66666/280412
+#EXTINF:-1 group-title="***** LATINO *****",GR: KPHTH TV
+http://152.89.62.111:8080/66666/66666/280413
+#EXTINF:-1 group-title="***** LATINO *****",GR: Kriti TV
+http://152.89.62.111:8080/66666/66666/280414
+#EXTINF:-1 group-title="***** LATINO *****",GR: MAD CY
+http://152.89.62.111:8080/66666/66666/280415
+#EXTINF:-1 group-title="***** LATINO *****",GR: MAKEDONIA TV HD
+http://152.89.62.111:8080/66666/66666/280416
+#EXTINF:-1 group-title="***** LATINO *****",GR: MAKEDONIA TV HD
+http://152.89.62.111:8080/66666/66666/280417
+#EXTINF:-1 group-title="***** LATINO *****",GR: MEGA Channel
+http://152.89.62.111:8080/66666/66666/280418
+#EXTINF:-1 group-title="***** LATINO *****",GR: Mega Channel
+http://152.89.62.111:8080/66666/66666/280419
+#EXTINF:-1 group-title="***** LATINO *****",GR: Messinia Web TV
+http://152.89.62.111:8080/66666/66666/280420
+#EXTINF:-1 group-title="***** LATINO *****",GR: MONTREALEEK TV
+http://152.89.62.111:8080/66666/66666/280421
+#EXTINF:-1 group-title="***** LATINO *****",GR: MTV Live FHD
+http://152.89.62.111:8080/66666/66666/280422
+#EXTINF:-1 group-title="***** LATINO *****",GR: NEA TV
+http://152.89.62.111:8080/66666/66666/280423
+#EXTINF:-1 group-title="***** LATINO *****",GR: NEA TV HD
+http://152.89.62.111:8080/66666/66666/280424
+#EXTINF:-1 group-title="***** LATINO *****",GR: Net TV
+http://152.89.62.111:8080/66666/66666/280425
+#EXTINF:-1 group-title="***** LATINO *****",GR: NG
+http://152.89.62.111:8080/66666/66666/280426
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Cinema 1
+http://152.89.62.111:8080/66666/66666/280427
+#EXTINF:-1 group-title="***** LATINO *****",GR: NOVA CINEMA 2
+http://152.89.62.111:8080/66666/66666/280428
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Cinema 2 HD
+http://152.89.62.111:8080/66666/66666/280429
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Cinema 3 HD
+http://152.89.62.111:8080/66666/66666/280430
+#EXTINF:-1 group-title="***** LATINO *****",GR: NOVA CINEMA 4
+http://152.89.62.111:8080/66666/66666/280431
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere 1 FHD
+http://152.89.62.111:8080/66666/66666/280432
+#EXTINF:-1 group-title="***** LATINO *****",GR: NOVA PREMIERE 1 FHD
+http://152.89.62.111:8080/66666/66666/280433
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere 10 FHD
+http://152.89.62.111:8080/66666/66666/280434
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere 11 FHD
+http://152.89.62.111:8080/66666/66666/280435
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere 12 FHD
+http://152.89.62.111:8080/66666/66666/280436
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere 13 FHD
+http://152.89.62.111:8080/66666/66666/280437
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere 14 FHD
+http://152.89.62.111:8080/66666/66666/280438
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere 15 FHD
+http://152.89.62.111:8080/66666/66666/280439
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere 16 FHD
+http://152.89.62.111:8080/66666/66666/280440
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere 17 FHD
+http://152.89.62.111:8080/66666/66666/280441
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere 18 FHD
+http://152.89.62.111:8080/66666/66666/280442
+#EXTINF:-1 group-title="***** LATINO *****",GR: NOVA Premiere 2 FHD
+http://152.89.62.111:8080/66666/66666/280443
+#EXTINF:-1 group-title="***** LATINO *****",GR: NOVA PREMIERE 2 FHD
+http://152.89.62.111:8080/66666/66666/280444
+#EXTINF:-1 group-title="***** LATINO *****",GR: NOVA Premiere 3 FHD
+http://152.89.62.111:8080/66666/66666/280445
+#EXTINF:-1 group-title="***** LATINO *****",GR: NOVA PREMIERE 3 FHD
+http://152.89.62.111:8080/66666/66666/280446
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere 3D
+http://152.89.62.111:8080/66666/66666/280447
+#EXTINF:-1 group-title="***** LATINO *****",GR: NOVA Premiere 4 FHD
+http://152.89.62.111:8080/66666/66666/280448
+#EXTINF:-1 group-title="***** LATINO *****",GR: NOVA PREMIERE 4 FHD
+http://152.89.62.111:8080/66666/66666/280449
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere 5 FHD
+http://152.89.62.111:8080/66666/66666/280450
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere 6 FHD
+http://152.89.62.111:8080/66666/66666/280451
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere 7 FHD
+http://152.89.62.111:8080/66666/66666/280452
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere 8 FHD
+http://152.89.62.111:8080/66666/66666/280453
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere 9 FHD
+http://152.89.62.111:8080/66666/66666/280454
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere Action FHD
+http://152.89.62.111:8080/66666/66666/280455
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere Action FHD
+http://152.89.62.111:8080/66666/66666/280456
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere Adventure FHD
+http://152.89.62.111:8080/66666/66666/280457
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere Animation FHD
+http://152.89.62.111:8080/66666/66666/280458
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere Comedy FHD
+http://152.89.62.111:8080/66666/66666/280459
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere Drama FHD
+http://152.89.62.111:8080/66666/66666/280460
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere Fantasy FHD
+http://152.89.62.111:8080/66666/66666/280461
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere HELLENIC
+http://152.89.62.111:8080/66666/66666/280462
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere History FHD
+http://152.89.62.111:8080/66666/66666/280463
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere Horror FHD
+http://152.89.62.111:8080/66666/66666/280464
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere Passion FHD
+http://152.89.62.111:8080/66666/66666/280465
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere STARZ FHD
+http://152.89.62.111:8080/66666/66666/280466
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Premiere Thriller FHD
+http://152.89.62.111:8080/66666/66666/280467
+#EXTINF:-1 group-title="***** LATINO *****",GR: NOVA Series HD
+http://152.89.62.111:8080/66666/66666/280468
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Sports 1
+http://152.89.62.111:8080/66666/66666/280469
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Sports 2
+http://152.89.62.111:8080/66666/66666/280470
+#EXTINF:-1 group-title="***** LATINO *****",GR: Nova Sports 3
+http://152.89.62.111:8080/66666/66666/280471
+#EXTINF:-1 group-title="***** LATINO *****",GR: NRG 91
+http://152.89.62.111:8080/66666/66666/280472
+#EXTINF:-1 group-title="***** LATINO *****",GR: NRG TV
+http://152.89.62.111:8080/66666/66666/280473
+#EXTINF:-1 group-title="***** LATINO *****",GR: OPEN BEYOND
+http://152.89.62.111:8080/66666/66666/280474
+#EXTINF:-1 group-title="***** LATINO *****",GR: OTE CINEMA 1 HD
+http://152.89.62.111:8080/66666/66666/280475
+#EXTINF:-1 group-title="***** LATINO *****",GR: OTE CINEMA 2 FHD
+http://152.89.62.111:8080/66666/66666/280476
+#EXTINF:-1 group-title="***** LATINO *****",GR: OTE CINEMA 3 HD
+http://152.89.62.111:8080/66666/66666/280477
+#EXTINF:-1 group-title="***** LATINO *****",GR: OTE CINEMA 4 HD
+http://152.89.62.111:8080/66666/66666/280478
+#EXTINF:-1 group-title="***** LATINO *****",GR: OTE SPORT 1 HD
+http://152.89.62.111:8080/66666/66666/280479
+#EXTINF:-1 group-title="***** LATINO *****",GR: OTE SPORT 2 HD
+http://152.89.62.111:8080/66666/66666/280480
+#EXTINF:-1 group-title="***** LATINO *****",GR: OTE SPORT 3 FHD
+http://152.89.62.111:8080/66666/66666/280481
+#EXTINF:-1 group-title="***** LATINO *****",GR: OTE SPORT 4 HD
+http://152.89.62.111:8080/66666/66666/280482
+#EXTINF:-1 group-title="***** LATINO *****",GR: OTE SPORT 5 HD
+http://152.89.62.111:8080/66666/66666/280483
+#EXTINF:-1 group-title="***** LATINO *****",GR: OTE SPORT 6 HD
+http://152.89.62.111:8080/66666/66666/280484
+#EXTINF:-1 group-title="***** LATINO *****",GR: OTE SPORT 7 HD
+http://152.89.62.111:8080/66666/66666/280485
+#EXTINF:-1 group-title="***** LATINO *****",GR: OTE SPORT 8 HD
+http://152.89.62.111:8080/66666/66666/280486
+#EXTINF:-1 group-title="***** LATINO *****",GR: RIK
+http://152.89.62.111:8080/66666/66666/280487
+#EXTINF:-1 group-title="***** LATINO *****",GR: RIK SAT
+http://152.89.62.111:8080/66666/66666/280488
+#EXTINF:-1 group-title="***** LATINO *****",GR: SIGMA LIVE
+http://152.89.62.111:8080/66666/66666/280489
+#EXTINF:-1 group-title="***** LATINO *****",GR: SIGMA TV
+http://152.89.62.111:8080/66666/66666/280490
+#EXTINF:-1 group-title="***** LATINO *****",GR: SKAI TILEORASI HD
+http://152.89.62.111:8080/66666/66666/280491
+#EXTINF:-1 group-title="***** LATINO *****",GR: STAR HD
+http://152.89.62.111:8080/66666/66666/280492
+#EXTINF:-1 group-title="***** LATINO *****",GR: Tile Mousiki
+http://152.89.62.111:8080/66666/66666/280493
+#EXTINF:-1 group-title="***** LATINO *****",GR: TOP CHANNEL
+http://152.89.62.111:8080/66666/66666/280494
+#EXTINF:-1 group-title="***** LATINO *****",GR: Travel Channel HD
+http://152.89.62.111:8080/66666/66666/280495
+#EXTINF:-1 group-title="***** LATINO *****",GR: TV 100
+http://152.89.62.111:8080/66666/66666/280496
+#EXTINF:-1 group-title="***** LATINO *****",GR: TV Creta
+http://152.89.62.111:8080/66666/66666/280497
+#EXTINF:-1 group-title="***** LATINO *****",GR: TV FILOPOLI
+http://152.89.62.111:8080/66666/66666/280498
+#EXTINF:-1 group-title="***** LATINO *****",GR: Viasat Explore HD
+http://152.89.62.111:8080/66666/66666/280499
+#EXTINF:-1 group-title="***** LATINO *****",GR: VIASAT NATURE
+http://152.89.62.111:8080/66666/66666/280500
+#EXTINF:-1 group-title="***** LATINO *****",GR: VILLAGE CINEMA HD
+http://152.89.62.111:8080/66666/66666/280501
+#EXTINF:-1 group-title="***** LATINO *****",GR: Vouli HD
+http://152.89.62.111:8080/66666/66666/280502
+#EXTINF:-1 group-title="***** LATINO *****",GR: XALASTRA
+http://152.89.62.111:8080/66666/66666/280503
