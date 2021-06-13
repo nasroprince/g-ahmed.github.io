@@ -18,6 +18,46 @@ http://xiptv.dyndns.tv:8000/shadi/987654321/9
 http://xiptv.dyndns.tv:8000/shadi/987654321/10
 #EXTINF:-1 group-title="Bein",beIN-Sports-7
 http://xiptv.dyndns.tv:8000/shadi/987654321/12
+#EXTINF:-1 group-title="Bein",beIN Sport max 1 HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57404
+#EXTINF:-1 group-title="Bein",beIN Sport max 1 Sd
+http://xiptv.dyndns.tv:8000/shadi/987654321/57420
+#EXTINF:-1 group-title="Bein",beIN Sport max 2 HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57405
+#EXTINF:-1 group-title="Bein",beIN Sport max 2 Sd
+http://xiptv.dyndns.tv:8000/shadi/987654321/57421
+#EXTINF:-1 group-title="Bein",beIN Sport max 3 HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57406
+#EXTINF:-1 group-title="Bein",beIN Sport max 3 Sd
+http://xiptv.dyndns.tv:8000/shadi/987654321/57422
+#EXTINF:-1 group-title="Bein",beIN Sport max 4 HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57407
+#EXTINF:-1 group-title="Bein",beIN Sport max 4 Sd
+http://xiptv.dyndns.tv:8000/shadi/987654321/57423
+#EXTINF:-1 group-title="Bein",BEIN SPORTS MAX 1 HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57408
+#EXTINF:-1 group-title="Bein",BEIN SPORTS MAX 1 FHD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57409
+#EXTINF:-1 group-title="Bein",BEIN SPORTS MAX 1 SD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57410
+#EXTINF:-1 group-title="Bein",BEIN SPORTS MAX 2 HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57411
+#EXTINF:-1 group-title="Bein",BEIN SPORTS MAX 2 FHD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57412
+#EXTINF:-1 group-title="Bein",BEIN SPORTS MAX 2 SD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57413
+#EXTINF:-1 group-title="Bein",BEIN SPORTS MAX 3 HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57414
+#EXTINF:-1 group-title="Bein",BEIN SPORTS MAX 3 FHD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57415
+#EXTINF:-1 group-title="Bein",BEIN SPORTS MAX 3 SD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57416
+#EXTINF:-1 group-title="Bein",BEIN SPORTS MAX 4 HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57417
+#EXTINF:-1 group-title="Bein",BEIN SPORTS MAX 4 FHD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57418
+#EXTINF:-1 group-title="Bein",BEIN SPORTS MAX 4 SD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57419
 #EXTINF:-1 group-title="Bein",beIN-Sports-1 English HD
 http://xiptv.dyndns.tv:8000/shadi/987654321/29437
 #EXTINF:-1 group-title="Bein",beIN-Sports-2 English HD
@@ -156,40 +196,46 @@ http://xiptv.dyndns.tv:8000/shadi/987654321/467
 http://xiptv.dyndns.tv:8000/shadi/987654321/1975
 #EXTINF:-1 group-title="Other",Libya Sports 2
 http://xiptv.dyndns.tv:8000/shadi/987654321/53160
-#EXTINF:-1 group-title="Other",UFC: UFC 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/39045
-#EXTINF:-1 group-title="Other",UFC: UFC 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/39046
-#EXTINF:-1 group-title="Other",UFC: UFC 3
-http://xiptv.dyndns.tv:8000/shadi/987654321/39047
-#EXTINF:-1 group-title="Other",UFC Fight Night 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/39048
-#EXTINF:-1 group-title="Other",UFC Fight Night 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/39049
-#EXTINF:-1 group-title="Other",UFC Fight Night 3
-http://xiptv.dyndns.tv:8000/shadi/987654321/39050
-#EXTINF:-1 group-title="Other",UFC On Espn 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/39051
-#EXTINF:-1 group-title="Other",UFC On Espn 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/39052
-#EXTINF:-1 group-title="Other",UFC On Fox 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/39053
-#EXTINF:-1 group-title="Other",WWE Friday Night Smackdown 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/39054
-#EXTINF:-1 group-title="Other",WWE Friday Night Smackdown 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/39055
-#EXTINF:-1 group-title="Other",WWE Main Event 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/39056
-#EXTINF:-1 group-title="Other",WWE Monday Night Raw 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/39057
-#EXTINF:-1 group-title="Other",WWE Monday Night Raw 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/39058
-#EXTINF:-1 group-title="Other",WWE NXT UK 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/39059
 #EXTINF:-1 group-title="Bein",beIN SPORTS XTRA 1 HD
 http://xiptv.dyndns.tv:8000/shadi/987654321/48586
 #EXTINF:-1 group-title="Bein",beIN SPORTS XTRA 2 HD
 http://xiptv.dyndns.tv:8000/shadi/987654321/48587
+#EXTINF:-1 group-title="Bein",beIN Max HD 1
+http://xiptv.dyndns.tv:8000/shadi/987654321/57424
+#EXTINF:-1 group-title="Bein",beIN Max HD 2
+http://xiptv.dyndns.tv:8000/shadi/987654321/57425
+#EXTINF:-1 group-title="Bein",BeIN Max HD 3
+http://xiptv.dyndns.tv:8000/shadi/987654321/57426
+#EXTINF:-1 group-title="Bein",BeIN Max HD 4
+http://xiptv.dyndns.tv:8000/shadi/987654321/57427
+#EXTINF:-1 group-title="Bein",BeIN Max HD 5
+http://xiptv.dyndns.tv:8000/shadi/987654321/57428
+#EXTINF:-1 group-title="Bein",BeIN Max HD 6
+http://xiptv.dyndns.tv:8000/shadi/987654321/57429
+#EXTINF:-1 group-title="Bein",beIN-Max HD 1
+http://xiptv.dyndns.tv:8000/shadi/987654321/57430
+#EXTINF:-1 group-title="Bein",beIN-Max HD 2
+http://xiptv.dyndns.tv:8000/shadi/987654321/57431
+#EXTINF:-1 group-title="Bein",BeIN-Max HD 3
+http://xiptv.dyndns.tv:8000/shadi/987654321/57432
+#EXTINF:-1 group-title="Bein",BeIN-Max HD 4
+http://xiptv.dyndns.tv:8000/shadi/987654321/57433
+#EXTINF:-1 group-title="Bein",BEIN-MAX 5 HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57434
+#EXTINF:-1 group-title="Bein",BEIN-MAX 6 HD
+http://xiptv.dyndns.tv:8000/shadi/987654321/57435
+#EXTINF:-1 group-title="Bein",BeIN-Max SD 1
+http://xiptv.dyndns.tv:8000/shadi/987654321/57436
+#EXTINF:-1 group-title="Bein",BeIN-Max SD 2
+http://xiptv.dyndns.tv:8000/shadi/987654321/57437
+#EXTINF:-1 group-title="Bein",BeIN-Max SD 3
+http://xiptv.dyndns.tv:8000/shadi/987654321/57438
+#EXTINF:-1 group-title="Bein",BeIN-Max SD 4
+http://xiptv.dyndns.tv:8000/shadi/987654321/57439
+#EXTINF:-1 group-title="Bein",BeIN-Max SD 5
+http://xiptv.dyndns.tv:8000/shadi/987654321/57440
+#EXTINF:-1 group-title="Bein",BeIN-Max SD 6
+http://xiptv.dyndns.tv:8000/shadi/987654321/57441
 #EXTINF:-1 group-title="Bein",BEIN SPORTS Premium HD1 HEVC
 http://xiptv.dyndns.tv:8000/shadi/987654321/25858
 #EXTINF:-1 group-title="Bein",BEIN SPORTS Premium HD2 HEVC
@@ -732,158 +778,6 @@ http://xiptv.dyndns.tv:8000/shadi/987654321/55219
 http://xiptv.dyndns.tv:8000/shadi/987654321/55220
 #EXTINF:-1 group-title="Other",Majestic Arabic 3
 http://xiptv.dyndns.tv:8000/shadi/987654321/55221
-#EXTINF:-1 group-title="Other",المحارب العربي
-http://xiptv.dyndns.tv:8000/shadi/987654321/33868
-#EXTINF:-1 group-title="Other",بعد الخميس
-http://xiptv.dyndns.tv:8000/shadi/987654321/33811
-#EXTINF:-1 group-title="Other",لما بنتولد
-http://xiptv.dyndns.tv:8000/shadi/987654321/33812
-#EXTINF:-1 group-title="Other",إنت حبيبي وبس
-http://xiptv.dyndns.tv:8000/shadi/987654321/33813
-#EXTINF:-1 group-title="Other",صندوق الدنيا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33277
-#EXTINF:-1 group-title="Other",عادل امام 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/32864
-#EXTINF:-1 group-title="Other",عادل امام 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/32865
-#EXTINF:-1 group-title="Other",عادل امام 3
-http://xiptv.dyndns.tv:8000/shadi/987654321/32866
-#EXTINF:-1 group-title="Other",4 عادل امام
-http://xiptv.dyndns.tv:8000/shadi/987654321/39043
-#EXTINF:-1 group-title="Other",5 عادل امام
-http://xiptv.dyndns.tv:8000/shadi/987654321/39044
-#EXTINF:-1 group-title="Other",احمد السقا 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/32867
-#EXTINF:-1 group-title="Other",احمد السقا 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/32868
-#EXTINF:-1 group-title="Other",احمد مكي
-http://xiptv.dyndns.tv:8000/shadi/987654321/32869
-#EXTINF:-1 group-title="Other",احمد زكي 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/32870
-#EXTINF:-1 group-title="Other",احمد زكي 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/32871
-#EXTINF:-1 group-title="Other",احمد زكي 3
-http://xiptv.dyndns.tv:8000/shadi/987654321/32872
-#EXTINF:-1 group-title="Other",احمد زكي 4
-http://xiptv.dyndns.tv:8000/shadi/987654321/32873
-#EXTINF:-1 group-title="Other",احمد زكي 5
-http://xiptv.dyndns.tv:8000/shadi/987654321/32874
-#EXTINF:-1 group-title="Other",فريد شوقي 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/32875
-#EXTINF:-1 group-title="Other",فريد شوقي 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/32876
-#EXTINF:-1 group-title="Other",فريد شوقي 3
-http://xiptv.dyndns.tv:8000/shadi/987654321/32877
-#EXTINF:-1 group-title="Other",فريد شوقي 4
-http://xiptv.dyndns.tv:8000/shadi/987654321/32878
-#EXTINF:-1 group-title="Other",اسماعيل ياسين 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/32879
-#EXTINF:-1 group-title="Other",اسماعيل ياسين 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/32880
-#EXTINF:-1 group-title="Other",اسماعيل ياسين 3
-http://xiptv.dyndns.tv:8000/shadi/987654321/32881
-#EXTINF:-1 group-title="Other",محمد هنيدي 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/32882
-#EXTINF:-1 group-title="Other",محمد هنيدي 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/32883
-#EXTINF:-1 group-title="Other",محمد رمضان
-http://xiptv.dyndns.tv:8000/shadi/987654321/32884
-#EXTINF:-1 group-title="Other",10 أيام قبل الزفة
-http://xiptv.dyndns.tv:8000/shadi/987654321/32885
-#EXTINF:-1 group-title="Other",-ادم-
-http://xiptv.dyndns.tv:8000/shadi/987654321/32886
-#EXTINF:-1 group-title="Other",الفيل الازرق 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/32887
-#EXTINF:-1 group-title="Other",الحارث
-http://xiptv.dyndns.tv:8000/shadi/987654321/32888
-#EXTINF:-1 group-title="Other",الرجل الاخضر
-http://xiptv.dyndns.tv:8000/shadi/987654321/32889
-#EXTINF:-1 group-title="Other",على وضعك
-http://xiptv.dyndns.tv:8000/shadi/987654321/32890
-#EXTINF:-1 group-title="Other",اسفين يا باشا
-http://xiptv.dyndns.tv:8000/shadi/987654321/32891
-#EXTINF:-1 group-title="Other",ازمة مالية
-http://xiptv.dyndns.tv:8000/shadi/987654321/32892
-#EXTINF:-1 group-title="Other",بعلم الوصول
-http://xiptv.dyndns.tv:8000/shadi/987654321/32893
-#EXTINF:-1 group-title="Other",كازابلانكا
-http://xiptv.dyndns.tv:8000/shadi/987654321/32894
-#EXTINF:-1 group-title="Other",دماغ شيطان
-http://xiptv.dyndns.tv:8000/shadi/987654321/32895
-#EXTINF:-1 group-title="Other",الفلوس
-http://xiptv.dyndns.tv:8000/shadi/987654321/32896
-#EXTINF:-1 group-title="Other",الممر
-http://xiptv.dyndns.tv:8000/shadi/987654321/32897
-#EXTINF:-1 group-title="Other",حملة فرعون
-http://xiptv.dyndns.tv:8000/shadi/987654321/32898
-#EXTINF:-1 group-title="Other",خط الموت
-http://xiptv.dyndns.tv:8000/shadi/987654321/32899
-#EXTINF:-1 group-title="Other",خيال مآته
-http://xiptv.dyndns.tv:8000/shadi/987654321/32900
-#EXTINF:-1 group-title="Other",لص بغداد
-http://xiptv.dyndns.tv:8000/shadi/987654321/32901
-#EXTINF:-1 group-title="Other",محمد حسين
-http://xiptv.dyndns.tv:8000/shadi/987654321/32902
-#EXTINF:-1 group-title="Other",نحس اكس لارج
-http://xiptv.dyndns.tv:8000/shadi/987654321/32903
-#EXTINF:-1 group-title="Other",نص جوازة
-http://xiptv.dyndns.tv:8000/shadi/987654321/32904
-#EXTINF:-1 group-title="Other",قرمط بيتمرمط
-http://xiptv.dyndns.tv:8000/shadi/987654321/32905
-#EXTINF:-1 group-title="Other",رأس السنة
-http://xiptv.dyndns.tv:8000/shadi/987654321/32906
-#EXTINF:-1 group-title="Other",سبع البرمبة
-http://xiptv.dyndns.tv:8000/shadi/987654321/32907
-#EXTINF:-1 group-title="Other",ساعة رضا
-http://xiptv.dyndns.tv:8000/shadi/987654321/32908
-#EXTINF:-1 group-title="Other",صاحب المقام
-http://xiptv.dyndns.tv:8000/shadi/987654321/32909
-#EXTINF:-1 group-title="Other",تعويذة تو
-http://xiptv.dyndns.tv:8000/shadi/987654321/32910
-#EXTINF:-1 group-title="Other",. النهاية
-http://xiptv.dyndns.tv:8000/shadi/987654321/32911
-#EXTINF:-1 group-title="Other",ولاد رزق 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/32912
-#EXTINF:-1 group-title="Other",بلا هيبة
-http://xiptv.dyndns.tv:8000/shadi/987654321/32913
-#EXTINF:-1 group-title="Other",يوم وليلة
-http://xiptv.dyndns.tv:8000/shadi/987654321/32914
-#EXTINF:-1 group-title="Other",Cinema 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/32915
-#EXTINF:-1 group-title="Other",Cinema 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/32916
-#EXTINF:-1 group-title="Other",Cinema 3
-http://xiptv.dyndns.tv:8000/shadi/987654321/32917
-#EXTINF:-1 group-title="Other",مسرحيات  عادل امام
-http://xiptv.dyndns.tv:8000/shadi/987654321/32918
-#EXTINF:-1 group-title="Other",مسرح مصر في رمضان
-http://xiptv.dyndns.tv:8000/shadi/987654321/32919
-#EXTINF:-1 group-title="Other",مسرح مصر 3
-http://xiptv.dyndns.tv:8000/shadi/987654321/32920
-#EXTINF:-1 group-title="Other",مسرح مصر 4
-http://xiptv.dyndns.tv:8000/shadi/987654321/32921
-#EXTINF:-1 group-title="Other",مسرح مصر 5
-http://xiptv.dyndns.tv:8000/shadi/987654321/32922
-#EXTINF:-1 group-title="Other",مسرحيات منوعة 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/32923
-#EXTINF:-1 group-title="Other",مسرحيات منوعة 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/32924
-#EXTINF:-1 group-title="Other",مسرحيات منوعة 3
-http://xiptv.dyndns.tv:8000/shadi/987654321/32925
-#EXTINF:-1 group-title="Other",مسرحيات منوعة 4
-http://xiptv.dyndns.tv:8000/shadi/987654321/32926
-#EXTINF:-1 group-title="Other",مسرحيات منوعة 5
-http://xiptv.dyndns.tv:8000/shadi/987654321/32927
-#EXTINF:-1 group-title="Other",مسرحيات منوعة 6
-http://xiptv.dyndns.tv:8000/shadi/987654321/32928
-#EXTINF:-1 group-title="Other",مسرحيات سمير غانم
-http://xiptv.dyndns.tv:8000/shadi/987654321/32929
-#EXTINF:-1 group-title="Other",تياترو مصر 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/32930
-#EXTINF:-1 group-title="Other",تياترو مصر 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/32931
-#EXTINF:-1 group-title="Other",تياترو مصر 3
-http://xiptv.dyndns.tv:8000/shadi/987654321/32932
 #EXTINF:-1 group-title="Bein",Bein-Baraem-HD
 http://xiptv.dyndns.tv:8000/shadi/987654321/29
 #EXTINF:-1 group-title="Bein",Bein-Jeem-HD
@@ -946,158 +840,6 @@ http://xiptv.dyndns.tv:8000/shadi/987654321/300
 http://xiptv.dyndns.tv:8000/shadi/987654321/31784
 #EXTINF:-1 group-title="Other",SHAHID KIDS 1
 http://xiptv.dyndns.tv:8000/shadi/987654321/32531
-#EXTINF:-1 group-title="Other",سلسلة باربي
-http://xiptv.dyndns.tv:8000/shadi/987654321/32933
-#EXTINF:-1 group-title="Other",سلسلة أخي الدب
-http://xiptv.dyndns.tv:8000/shadi/987654321/32934
-#EXTINF:-1 group-title="Other",سلسلة سيارات
-http://xiptv.dyndns.tv:8000/shadi/987654321/32935
-#EXTINF:-1 group-title="Other",المحقق كونان
-http://xiptv.dyndns.tv:8000/shadi/987654321/32936
-#EXTINF:-1 group-title="Other",دراجون بول
-http://xiptv.dyndns.tv:8000/shadi/987654321/32937
-#EXTINF:-1 group-title="Other",البحث عن دوري نيمو
-http://xiptv.dyndns.tv:8000/shadi/987654321/32938
-#EXTINF:-1 group-title="Other",ملكة الثلج
-http://xiptv.dyndns.tv:8000/shadi/987654321/32939
-#EXTINF:-1 group-title="Other",فندق ترانسلفانيا
-http://xiptv.dyndns.tv:8000/shadi/987654321/32940
-#EXTINF:-1 group-title="Other",هوجو
-http://xiptv.dyndns.tv:8000/shadi/987654321/32941
-#EXTINF:-1 group-title="Other",العصر الجليدي
-http://xiptv.dyndns.tv:8000/shadi/987654321/32942
-#EXTINF:-1 group-title="Other",كونغو فو باندا
-http://xiptv.dyndns.tv:8000/shadi/987654321/32943
-#EXTINF:-1 group-title="Other",مدغشقر
-http://xiptv.dyndns.tv:8000/shadi/987654321/32944
-#EXTINF:-1 group-title="Other",شركة المرعبين
-http://xiptv.dyndns.tv:8000/shadi/987654321/32945
-#EXTINF:-1 group-title="Other",كلاسيك ١
-http://xiptv.dyndns.tv:8000/shadi/987654321/32946
-#EXTINF:-1 group-title="Other",كلاسيك 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/32947
-#EXTINF:-1 group-title="Other",كلاسيك 3
-http://xiptv.dyndns.tv:8000/shadi/987654321/32948
-#EXTINF:-1 group-title="Other",مولان
-http://xiptv.dyndns.tv:8000/shadi/987654321/32949
-#EXTINF:-1 group-title="Other",الموسم المفتوح
-http://xiptv.dyndns.tv:8000/shadi/987654321/32950
-#EXTINF:-1 group-title="Other",بوكاهونتاس
-http://xiptv.dyndns.tv:8000/shadi/987654321/32951
-#EXTINF:-1 group-title="Other",ريو
-http://xiptv.dyndns.tv:8000/shadi/987654321/32952
-#EXTINF:-1 group-title="Other",الطيور الغاضبة
-http://xiptv.dyndns.tv:8000/shadi/987654321/32953
-#EXTINF:-1 group-title="Other",الخارقون
-http://xiptv.dyndns.tv:8000/shadi/987654321/32954
-#EXTINF:-1 group-title="Other",الاسد الملك
-http://xiptv.dyndns.tv:8000/shadi/987654321/32955
-#EXTINF:-1 group-title="Other",ريف
-http://xiptv.dyndns.tv:8000/shadi/987654321/32956
-#EXTINF:-1 group-title="Other",المنقذون
-http://xiptv.dyndns.tv:8000/shadi/987654321/32957
-#EXTINF:-1 group-title="Other",تنكربيل
-http://xiptv.dyndns.tv:8000/shadi/987654321/32958
-#EXTINF:-1 group-title="Other",حكاية لعبة
-http://xiptv.dyndns.tv:8000/shadi/987654321/32959
-#EXTINF:-1 group-title="Other",أبناء الوطن
-http://xiptv.dyndns.tv:8000/shadi/987654321/32960
-#EXTINF:-1 group-title="Other",ابطال الكرة الفرسان
-http://xiptv.dyndns.tv:8000/shadi/987654321/32961
-#EXTINF:-1 group-title="Other",1 ابطال الكرة
-http://xiptv.dyndns.tv:8000/shadi/987654321/32962
-#EXTINF:-1 group-title="Other",2 ابطال الكر
-http://xiptv.dyndns.tv:8000/shadi/987654321/32963
-#EXTINF:-1 group-title="Other",3 ابطال الكرة
-http://xiptv.dyndns.tv:8000/shadi/987654321/32964
-#EXTINF:-1 group-title="Other",1 أبطال المدينة
-http://xiptv.dyndns.tv:8000/shadi/987654321/32965
-#EXTINF:-1 group-title="Other",2 أبطال المدينة
-http://xiptv.dyndns.tv:8000/shadi/987654321/32966
-#EXTINF:-1 group-title="Other",أحلى الأيام
-http://xiptv.dyndns.tv:8000/shadi/987654321/32967
-#EXTINF:-1 group-title="Other",أمير ورحلة الأساطير
-http://xiptv.dyndns.tv:8000/shadi/987654321/32968
-#EXTINF:-1 group-title="Other",1 كابتن ماجد الشبح
-http://xiptv.dyndns.tv:8000/shadi/987654321/32969
-#EXTINF:-1 group-title="Other",1 أبطال الديجيتال
-http://xiptv.dyndns.tv:8000/shadi/987654321/32970
-#EXTINF:-1 group-title="Other",2 أبطال الديجيتال
-http://xiptv.dyndns.tv:8000/shadi/987654321/32971
-#EXTINF:-1 group-title="Other",3 أبطال الديجيتال
-http://xiptv.dyndns.tv:8000/shadi/987654321/32972
-#EXTINF:-1 group-title="Other",جاستن تيم
-http://xiptv.dyndns.tv:8000/shadi/987654321/32973
-#EXTINF:-1 group-title="Other",1 ميكي ماوس
-http://xiptv.dyndns.tv:8000/shadi/987654321/32974
-#EXTINF:-1 group-title="Other",مغامرات سندباد
-http://xiptv.dyndns.tv:8000/shadi/987654321/32975
-#EXTINF:-1 group-title="Other",دوري بوكيمون النيلي
-http://xiptv.dyndns.tv:8000/shadi/987654321/32976
-#EXTINF:-1 group-title="Other",فلة والاقزام السبعة
-http://xiptv.dyndns.tv:8000/shadi/987654321/32977
-#EXTINF:-1 group-title="Other",1 اتوبيس المدرسة العجيب
-http://xiptv.dyndns.tv:8000/shadi/987654321/32978
-#EXTINF:-1 group-title="Other",2 اتوبيس المدرسة العجيب
-http://xiptv.dyndns.tv:8000/shadi/987654321/32979
-#EXTINF:-1 group-title="Other",3 اتوبيس المدرسة العجيب
-http://xiptv.dyndns.tv:8000/shadi/987654321/32980
-#EXTINF:-1 group-title="Other",1-2 بطاريق مدغشقر
-http://xiptv.dyndns.tv:8000/shadi/987654321/32981
-#EXTINF:-1 group-title="Other",أبناء توم وجيري
-http://xiptv.dyndns.tv:8000/shadi/987654321/32982
-#EXTINF:-1 group-title="Other",توم و جيري
-http://xiptv.dyndns.tv:8000/shadi/987654321/32983
-#EXTINF:-1 group-title="Other",غريندايزر
-http://xiptv.dyndns.tv:8000/shadi/987654321/32984
-#EXTINF:-1 group-title="Other",1 ابي هاتشر
-http://xiptv.dyndns.tv:8000/shadi/987654321/33787
-#EXTINF:-1 group-title="Other",2-1 بكار
-http://xiptv.dyndns.tv:8000/shadi/987654321/33788
-#EXTINF:-1 group-title="Other",4-3 بكار
-http://xiptv.dyndns.tv:8000/shadi/987654321/33789
-#EXTINF:-1 group-title="Other",6-5 بكار
-http://xiptv.dyndns.tv:8000/shadi/987654321/33790
-#EXTINF:-1 group-title="Other",8-7 بكار
-http://xiptv.dyndns.tv:8000/shadi/987654321/33791
-#EXTINF:-1 group-title="Other",10-9 بكار
-http://xiptv.dyndns.tv:8000/shadi/987654321/33792
-#EXTINF:-1 group-title="Other",تشيكو وحزام الأدوات
-http://xiptv.dyndns.tv:8000/shadi/987654321/33793
-#EXTINF:-1 group-title="Other",1-2 دينو دانا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33794
-#EXTINF:-1 group-title="Other",إيلينا أميرة أفالور
-http://xiptv.dyndns.tv:8000/shadi/987654321/33795
-#EXTINF:-1 group-title="Other",الأزهر في عهد الدولة العثمانية
-http://xiptv.dyndns.tv:8000/shadi/987654321/33796
-#EXTINF:-1 group-title="Other",1 حمدون
-http://xiptv.dyndns.tv:8000/shadi/987654321/33797
-#EXTINF:-1 group-title="Other",1 قنديل الحكايات
-http://xiptv.dyndns.tv:8000/shadi/987654321/33798
-#EXTINF:-1 group-title="Other",نور و الرحلات الخارقة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33799
-#EXTINF:-1 group-title="Other",عودة الطفل الزعيم
-http://xiptv.dyndns.tv:8000/shadi/987654321/33800
-#EXTINF:-1 group-title="Other",توم و جيرى زمان
-http://xiptv.dyndns.tv:8000/shadi/987654321/33801
-#EXTINF:-1 group-title="Other",ترانسفورمارز
-http://xiptv.dyndns.tv:8000/shadi/987654321/33802
-#EXTINF:-1 group-title="Other",1-2 الورقة المتعثرة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33803
-#EXTINF:-1 group-title="Other",3-4 الورقة المتعثرة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33804
-#EXTINF:-1 group-title="Other",عالم ينكس
-http://xiptv.dyndns.tv:8000/shadi/987654321/33806
-#EXTINF:-1 group-title="Other",1 يوغي يو! آرك-في
-http://xiptv.dyndns.tv:8000/shadi/987654321/33807
-#EXTINF:-1 group-title="Other",2 يوغي يو! آرك-في
-http://xiptv.dyndns.tv:8000/shadi/987654321/33808
-#EXTINF:-1 group-title="Other",سوبر هنيدي
-http://xiptv.dyndns.tv:8000/shadi/987654321/33809
-#EXTINF:-1 group-title="Other",النحلة مايا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33810
-#EXTINF:-1 group-title="Other",وشن بوف
-http://xiptv.dyndns.tv:8000/shadi/987654321/33805
 #EXTINF:-1 group-title="Other",DISNEY+ 1
 http://xiptv.dyndns.tv:8000/shadi/987654321/33972
 #EXTINF:-1 group-title="Other",DISNEY+ 2
@@ -1114,26 +856,6 @@ http://xiptv.dyndns.tv:8000/shadi/987654321/33977
 http://xiptv.dyndns.tv:8000/shadi/987654321/33982
 #EXTINF:-1 group-title="Other",SONY KIDS
 http://xiptv.dyndns.tv:8000/shadi/987654321/38078
-#EXTINF:-1 group-title="Other",KD-S: Carmen Sandiego S1&2&3 (3&2&1 
-http://xiptv.dyndns.tv:8000/shadi/987654321/39021
-#EXTINF:-1 group-title="Other",KD-S: Mighty Express S1 (1 
-http://xiptv.dyndns.tv:8000/shadi/987654321/39022
-#EXTINF:-1 group-title="Other",KD-S: If You Give a Mouse a Cookie S1 (1 
-http://xiptv.dyndns.tv:8000/shadi/987654321/39023
-#EXTINF:-1 group-title="Other",KD-S: If You Give a Mouse a Cookie S2 (2 
-http://xiptv.dyndns.tv:8000/shadi/987654321/39024
-#EXTINF:-1 group-title="Other",KD-S: Costume Quest (
-http://xiptv.dyndns.tv:8000/shadi/987654321/39025
-#EXTINF:-1 group-title="Other",KD-S: Dino Dana S1&2 (1&2 
-http://xiptv.dyndns.tv:8000/shadi/987654321/39026
-#EXTINF:-1 group-title="Other",KD-S: Dino Girl Gauko S1 (1 
-http://xiptv.dyndns.tv:8000/shadi/987654321/39027
-#EXTINF:-1 group-title="Other",KD-S: Dino Girl Gauko S2 (2 
-http://xiptv.dyndns.tv:8000/shadi/987654321/39028
-#EXTINF:-1 group-title="Other",KD-S: Bubble Guppies S1&2 (1&2 
-http://xiptv.dyndns.tv:8000/shadi/987654321/39029
-#EXTINF:-1 group-title="Other",KD-S: Bubble Guppies S3 (3 
-http://xiptv.dyndns.tv:8000/shadi/987654321/39030
 #EXTINF:-1 group-title="Other",Snipers Kids 1
 http://xiptv.dyndns.tv:8000/shadi/987654321/45370
 #EXTINF:-1 group-title="Other",Snipers Kids 2
@@ -1182,570 +904,6 @@ http://xiptv.dyndns.tv:8000/shadi/987654321/4249
 http://xiptv.dyndns.tv:8000/shadi/987654321/33984
 #EXTINF:-1 group-title="OSN",OSN-Series HD
 http://xiptv.dyndns.tv:8000/shadi/987654321/33985
-#EXTINF:-1 group-title="Other",عناية مشددة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33007
-#EXTINF:-1 group-title="Other",خفة يد
-http://xiptv.dyndns.tv:8000/shadi/987654321/33008
-#EXTINF:-1 group-title="Other",الديرفة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33009
-#EXTINF:-1 group-title="Other",ابو ضحكة جنان
-http://xiptv.dyndns.tv:8000/shadi/987654321/33010
-#EXTINF:-1 group-title="Other",ابو جبل
-http://xiptv.dyndns.tv:8000/shadi/987654321/33011
-#EXTINF:-1 group-title="Other",ابو عمر المصرى
-http://xiptv.dyndns.tv:8000/shadi/987654321/33012
-#EXTINF:-1 group-title="Other",ادم
-http://xiptv.dyndns.tv:8000/shadi/987654321/33013
-#EXTINF:-1 group-title="Other",أجندة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33014
-#EXTINF:-1 group-title="Other",اهل كايرو
-http://xiptv.dyndns.tv:8000/shadi/987654321/33015
-#EXTINF:-1 group-title="Other",أحلام السنين
-http://xiptv.dyndns.tv:8000/shadi/987654321/33016
-#EXTINF:-1 group-title="Other",الاميمي
-http://xiptv.dyndns.tv:8000/shadi/987654321/33017
-#EXTINF:-1 group-title="Other",الاختيار
-http://xiptv.dyndns.tv:8000/shadi/987654321/33018
-#EXTINF:-1 group-title="Other",العقاب والعفرا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33019
-#EXTINF:-1 group-title="Other",الفتوة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33020
-#EXTINF:-1 group-title="Other",الحرملك 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/33021
-#EXTINF:-1 group-title="Other",الهربة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33022
-#EXTINF:-1 group-title="Other",الحاوى
-http://xiptv.dyndns.tv:8000/shadi/987654321/33023
-#EXTINF:-1 group-title="Other",الجوارح
-http://xiptv.dyndns.tv:8000/shadi/987654321/33024
-#EXTINF:-1 group-title="Other",الكاتب
-http://xiptv.dyndns.tv:8000/shadi/987654321/33025
-#EXTINF:-1 group-title="Other",الكون في كفة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33026
-#EXTINF:-1 group-title="Other",المايسترو
-http://xiptv.dyndns.tv:8000/shadi/987654321/33027
-#EXTINF:-1 group-title="Other",المال والبنون 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33028
-#EXTINF:-1 group-title="Other",المال والبنون 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/33029
-#EXTINF:-1 group-title="Other",النهاية
-http://xiptv.dyndns.tv:8000/shadi/987654321/33030
-#EXTINF:-1 group-title="Other",البرنس
-http://xiptv.dyndns.tv:8000/shadi/987654321/33031
-#EXTINF:-1 group-title="Other",القمر آخر الدنيا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33032
-#EXTINF:-1 group-title="Other",الشهد المر
-http://xiptv.dyndns.tv:8000/shadi/987654321/33033
-#EXTINF:-1 group-title="Other",الشراقي
-http://xiptv.dyndns.tv:8000/shadi/987654321/33034
-#EXTINF:-1 group-title="Other",السجن
-http://xiptv.dyndns.tv:8000/shadi/987654321/33035
-#EXTINF:-1 group-title="Other",الوصية
-http://xiptv.dyndns.tv:8000/shadi/987654321/33036
-#EXTINF:-1 group-title="Other",النحات
-http://xiptv.dyndns.tv:8000/shadi/987654321/33037
-#EXTINF:-1 group-title="Other",علامة إستفهام
-http://xiptv.dyndns.tv:8000/shadi/987654321/33038
-#EXTINF:-1 group-title="Other",الف سلامة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33039
-#EXTINF:-1 group-title="Other",علي الزيبق
-http://xiptv.dyndns.tv:8000/shadi/987654321/33040
-#EXTINF:-1 group-title="Other",الخوابي
-http://xiptv.dyndns.tv:8000/shadi/987654321/33041
-#EXTINF:-1 group-title="Other",القضية 460
-http://xiptv.dyndns.tv:8000/shadi/987654321/33042
-#EXTINF:-1 group-title="Other",انا عندي نص
-http://xiptv.dyndns.tv:8000/shadi/987654321/33043
-#EXTINF:-1 group-title="Other",أنا شيري دوت كوم
-http://xiptv.dyndns.tv:8000/shadi/987654321/33044
-#EXTINF:-1 group-title="Other",انا وانت وبابا في المشمش
-http://xiptv.dyndns.tv:8000/shadi/987654321/33045
-#EXTINF:-1 group-title="Other",انتي مين
-http://xiptv.dyndns.tv:8000/shadi/987654321/33046
-#EXTINF:-1 group-title="Other",أرابيسك
-http://xiptv.dyndns.tv:8000/shadi/987654321/33047
-#EXTINF:-1 group-title="Other",أرض النفاق
-http://xiptv.dyndns.tv:8000/shadi/987654321/33048
-#EXTINF:-1 group-title="Other",عودة غوار
-http://xiptv.dyndns.tv:8000/shadi/987654321/33049
-#EXTINF:-1 group-title="Other",أولاد آدم
-http://xiptv.dyndns.tv:8000/shadi/987654321/33050
-#EXTINF:-1 group-title="Other",اولاد مفيدة 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33051
-#EXTINF:-1 group-title="Other",اولاد مفيدة 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/33052
-#EXTINF:-1 group-title="Other",اولاد مفيدة 3
-http://xiptv.dyndns.tv:8000/shadi/987654321/33053
-#EXTINF:-1 group-title="Other",ب100 وش
-http://xiptv.dyndns.tv:8000/shadi/987654321/33054
-#EXTINF:-1 group-title="Other",باب الحارة 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33055
-#EXTINF:-1 group-title="Other",باب الحارة 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/33056
-#EXTINF:-1 group-title="Other",باب الحارة 3
-http://xiptv.dyndns.tv:8000/shadi/987654321/33057
-#EXTINF:-1 group-title="Other",باب الحارة 4
-http://xiptv.dyndns.tv:8000/shadi/987654321/33058
-#EXTINF:-1 group-title="Other",باب الحارة 5
-http://xiptv.dyndns.tv:8000/shadi/987654321/33059
-#EXTINF:-1 group-title="Other",1 بهلول أعقل المجانين
-http://xiptv.dyndns.tv:8000/shadi/987654321/33060
-#EXTINF:-1 group-title="Other",2 بهلول أعقل المجانين
-http://xiptv.dyndns.tv:8000/shadi/987654321/33061
-#EXTINF:-1 group-title="Other",3 بهلول أعقل المجانين
-http://xiptv.dyndns.tv:8000/shadi/987654321/33062
-#EXTINF:-1 group-title="Other",بلقيس
-http://xiptv.dyndns.tv:8000/shadi/987654321/33063
-#EXTINF:-1 group-title="Other",بركة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33064
-#EXTINF:-1 group-title="Other",بوابة الحلواني1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33065
-#EXTINF:-1 group-title="Other",بوابة الحلواني2
-http://xiptv.dyndns.tv:8000/shadi/987654321/33066
-#EXTINF:-1 group-title="Other",بوابة الحلواني3
-http://xiptv.dyndns.tv:8000/shadi/987654321/33067
-#EXTINF:-1 group-title="Other",بوابة الحلواني4
-http://xiptv.dyndns.tv:8000/shadi/987654321/33068
-#EXTINF:-1 group-title="Other",بت القبايل
-http://xiptv.dyndns.tv:8000/shadi/987654321/33069
-#EXTINF:-1 group-title="Other",1 بقعة ضوء
-http://xiptv.dyndns.tv:8000/shadi/987654321/33070
-#EXTINF:-1 group-title="Other",10 بقعة ضوء
-http://xiptv.dyndns.tv:8000/shadi/987654321/33071
-#EXTINF:-1 group-title="Other",11 بقعة ضوء
-http://xiptv.dyndns.tv:8000/shadi/987654321/33072
-#EXTINF:-1 group-title="Other",12 بقعة ضوء
-http://xiptv.dyndns.tv:8000/shadi/987654321/33073
-#EXTINF:-1 group-title="Other",13 بقعة ضوء
-http://xiptv.dyndns.tv:8000/shadi/987654321/33074
-#EXTINF:-1 group-title="Other",14 بقعة ضوء
-http://xiptv.dyndns.tv:8000/shadi/987654321/33075
-#EXTINF:-1 group-title="Other",2 بقعة ضوء
-http://xiptv.dyndns.tv:8000/shadi/987654321/33076
-#EXTINF:-1 group-title="Other",3 بقعة ضوء
-http://xiptv.dyndns.tv:8000/shadi/987654321/33077
-#EXTINF:-1 group-title="Other",4 بقعة ضوء
-http://xiptv.dyndns.tv:8000/shadi/987654321/33078
-#EXTINF:-1 group-title="Other",5 بقعة ضوء
-http://xiptv.dyndns.tv:8000/shadi/987654321/33079
-#EXTINF:-1 group-title="Other",6 بقعة ضوء
-http://xiptv.dyndns.tv:8000/shadi/987654321/33080
-#EXTINF:-1 group-title="Other",7 بقعة ضوء
-http://xiptv.dyndns.tv:8000/shadi/987654321/33081
-#EXTINF:-1 group-title="Other",8 بقعة ضوء
-http://xiptv.dyndns.tv:8000/shadi/987654321/33082
-#EXTINF:-1 group-title="Other",9 بقعة ضوء
-http://xiptv.dyndns.tv:8000/shadi/987654321/33083
-#EXTINF:-1 group-title="Other",ضيعة ضايعة 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33084
-#EXTINF:-1 group-title="Other",ضيعة ضايعة 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/33085
-#EXTINF:-1 group-title="Other",دكتور امراض نساء
-http://xiptv.dyndns.tv:8000/shadi/987654321/33086
-#EXTINF:-1 group-title="Other",دولار
-http://xiptv.dyndns.tv:8000/shadi/987654321/33087
-#EXTINF:-1 group-title="Other",دموع في عيون وقحة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33088
-#EXTINF:-1 group-title="Other",عائلة خمس نجوم
-http://xiptv.dyndns.tv:8000/shadi/987654321/33089
-#EXTINF:-1 group-title="Other",ابن اصول
-http://xiptv.dyndns.tv:8000/shadi/987654321/33090
-#EXTINF:-1 group-title="Other",1 اخوة التراب
-http://xiptv.dyndns.tv:8000/shadi/987654321/33091
-#EXTINF:-1 group-title="Other",2 اخوة التراب
-http://xiptv.dyndns.tv:8000/shadi/987654321/33092
-#EXTINF:-1 group-title="Other",العراف
-http://xiptv.dyndns.tv:8000/shadi/987654321/33093
-#EXTINF:-1 group-title="Other",الادهم
-http://xiptv.dyndns.tv:8000/shadi/987654321/33094
-#EXTINF:-1 group-title="Other",البخيل و انا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33095
-#EXTINF:-1 group-title="Other",الداعية
-http://xiptv.dyndns.tv:8000/shadi/987654321/33096
-#EXTINF:-1 group-title="Other",الاخوة زنانيري
-http://xiptv.dyndns.tv:8000/shadi/987654321/33097
-#EXTINF:-1 group-title="Other",الفراجنة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33098
-#EXTINF:-1 group-title="Other",الحفار
-http://xiptv.dyndns.tv:8000/shadi/987654321/33099
-#EXTINF:-1 group-title="Other",الحجاج
-http://xiptv.dyndns.tv:8000/shadi/987654321/33100
-#EXTINF:-1 group-title="Other",الكبير اوى1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33101
-#EXTINF:-1 group-title="Other",الكبير اوى2
-http://xiptv.dyndns.tv:8000/shadi/987654321/33102
-#EXTINF:-1 group-title="Other",الكبريت الاحمر
-http://xiptv.dyndns.tv:8000/shadi/987654321/33103
-#EXTINF:-1 group-title="Other",الخربة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33104
-#EXTINF:-1 group-title="Other",الخوالي
-http://xiptv.dyndns.tv:8000/shadi/987654321/33105
-#EXTINF:-1 group-title="Other",المرافعة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33106
-#EXTINF:-1 group-title="Other",البرنسيسة بيسة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33107
-#EXTINF:-1 group-title="Other",الصعلوك
-http://xiptv.dyndns.tv:8000/shadi/987654321/33108
-#EXTINF:-1 group-title="Other",السبع وصايا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33109
-#EXTINF:-1 group-title="Other",الصياد
-http://xiptv.dyndns.tv:8000/shadi/987654321/33110
-#EXTINF:-1 group-title="Other",التغريبة الفلسطينية
-http://xiptv.dyndns.tv:8000/shadi/987654321/33111
-#EXTINF:-1 group-title="Other",الطوفان
-http://xiptv.dyndns.tv:8000/shadi/987654321/33112
-#EXTINF:-1 group-title="Other",الزعيم
-http://xiptv.dyndns.tv:8000/shadi/987654321/33113
-#EXTINF:-1 group-title="Other",الزوجه الرابعة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33114
-#EXTINF:-1 group-title="Other",عندما تشيخ الذئاب
-http://xiptv.dyndns.tv:8000/shadi/987654321/33115
-#EXTINF:-1 group-title="Other",اتنين في الصندوق
-http://xiptv.dyndns.tv:8000/shadi/987654321/33116
-#EXTINF:-1 group-title="Other",فض اشتباك
-http://xiptv.dyndns.tv:8000/shadi/987654321/33117
-#EXTINF:-1 group-title="Other",فارس بلا جواد
-http://xiptv.dyndns.tv:8000/shadi/987654321/33118
-#EXTINF:-1 group-title="Other",فرق توقيت
-http://xiptv.dyndns.tv:8000/shadi/987654321/33119
-#EXTINF:-1 group-title="Other",فرقة ناجي عطا الله
-http://xiptv.dyndns.tv:8000/shadi/987654321/33120
-#EXTINF:-1 group-title="Other",في ذاكرة الظل
-http://xiptv.dyndns.tv:8000/shadi/987654321/33121
-#EXTINF:-1 group-title="Other",جبل الحلال
-http://xiptv.dyndns.tv:8000/shadi/987654321/33122
-#EXTINF:-1 group-title="Other",جريمة شغف
-http://xiptv.dyndns.tv:8000/shadi/987654321/33123
-#EXTINF:-1 group-title="Other",غدا تتفتح الزهور
-http://xiptv.dyndns.tv:8000/shadi/987654321/33124
-#EXTINF:-1 group-title="Other",غايب في بلاد العجائب
-http://xiptv.dyndns.tv:8000/shadi/987654321/33125
-#EXTINF:-1 group-title="Other",حديث المرايا 2002
-http://xiptv.dyndns.tv:8000/shadi/987654321/33126
-#EXTINF:-1 group-title="Other",حدوتة مرة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33127
-#EXTINF:-1 group-title="Other",حكايا المرايا 2001
-http://xiptv.dyndns.tv:8000/shadi/987654321/33128
-#EXTINF:-1 group-title="Other",حق ميت
-http://xiptv.dyndns.tv:8000/shadi/987654321/33129
-#EXTINF:-1 group-title="Other",1 حريم السلطان
-http://xiptv.dyndns.tv:8000/shadi/987654321/33130
-#EXTINF:-1 group-title="Other",2 حريم السلطان
-http://xiptv.dyndns.tv:8000/shadi/987654321/33131
-#EXTINF:-1 group-title="Other",حواري بوخارست
-http://xiptv.dyndns.tv:8000/shadi/987654321/33132
-#EXTINF:-1 group-title="Other",هيا وبناتها
-http://xiptv.dyndns.tv:8000/shadi/987654321/33133
-#EXTINF:-1 group-title="Other",حزاوي الدار
-http://xiptv.dyndns.tv:8000/shadi/987654321/33134
-#EXTINF:-1 group-title="Other",هوجان
-http://xiptv.dyndns.tv:8000/shadi/987654321/33135
-#EXTINF:-1 group-title="Other",حكايات هو و هي
-http://xiptv.dyndns.tv:8000/shadi/987654321/33136
-#EXTINF:-1 group-title="Other",لا لا لاند
-http://xiptv.dyndns.tv:8000/shadi/987654321/33137
-#EXTINF:-1 group-title="Other",جمع سالم
-http://xiptv.dyndns.tv:8000/shadi/987654321/33138
-#EXTINF:-1 group-title="Other",الجوكر
-http://xiptv.dyndns.tv:8000/shadi/987654321/33139
-#EXTINF:-1 group-title="Other",كفر دلهاب
-http://xiptv.dyndns.tv:8000/shadi/987654321/33140
-#EXTINF:-1 group-title="Other",2 كلبش
-http://xiptv.dyndns.tv:8000/shadi/987654321/33141
-#EXTINF:-1 group-title="Other",كلبش1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33142
-#EXTINF:-1 group-title="Other",ختم النمر
-http://xiptv.dyndns.tv:8000/shadi/987654321/33143
-#EXTINF:-1 group-title="Other",كيكا علي العالي
-http://xiptv.dyndns.tv:8000/shadi/987654321/33144
-#EXTINF:-1 group-title="Other",1 خاتون
-http://xiptv.dyndns.tv:8000/shadi/987654321/33145
-#EXTINF:-1 group-title="Other",2 خاتون
-http://xiptv.dyndns.tv:8000/shadi/987654321/33146
-#EXTINF:-1 group-title="Other",خيانة عهد
-http://xiptv.dyndns.tv:8000/shadi/987654321/33147
-#EXTINF:-1 group-title="Other",كلنا عيال قريّة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33148
-#EXTINF:-1 group-title="Other",الاكسلانس
-http://xiptv.dyndns.tv:8000/shadi/987654321/33149
-#EXTINF:-1 group-title="Other",لمعي القط
-http://xiptv.dyndns.tv:8000/shadi/987654321/33150
-#EXTINF:-1 group-title="Other",لما كنا صغيرين
-http://xiptv.dyndns.tv:8000/shadi/987654321/33151
-#EXTINF:-1 group-title="Other",لما تامر ساب شوقية
-http://xiptv.dyndns.tv:8000/shadi/987654321/33152
-#EXTINF:-1 group-title="Other",لن اعيش في جلباب ابي
-http://xiptv.dyndns.tv:8000/shadi/987654321/33153
-#EXTINF:-1 group-title="Other",لعبة ابليس
-http://xiptv.dyndns.tv:8000/shadi/987654321/33154
-#EXTINF:-1 group-title="Other",ليالينا 80
-http://xiptv.dyndns.tv:8000/shadi/987654321/33155
-#EXTINF:-1 group-title="Other",مأمون وشركاه
-http://xiptv.dyndns.tv:8000/shadi/987654321/33156
-#EXTINF:-1 group-title="Other",7 مخرج
-http://xiptv.dyndns.tv:8000/shadi/987654321/33157
-#EXTINF:-1 group-title="Other",ممالك النار
-http://xiptv.dyndns.tv:8000/shadi/987654321/33158
-#EXTINF:-1 group-title="Other",مرايا 2000
-http://xiptv.dyndns.tv:8000/shadi/987654321/33159
-#EXTINF:-1 group-title="Other",2003 مرايا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33160
-#EXTINF:-1 group-title="Other",2011 مرايا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33161
-#EXTINF:-1 group-title="Other",2013 مرايا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33162
-#EXTINF:-1 group-title="Other",86 مرايا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33163
-#EXTINF:-1 group-title="Other",88 مرايا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33164
-#EXTINF:-1 group-title="Other",91 مرايا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33165
-#EXTINF:-1 group-title="Other",96 مرايا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33166
-#EXTINF:-1 group-title="Other",97 مرايا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33167
-#EXTINF:-1 group-title="Other",99 مرايا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33168
-#EXTINF:-1 group-title="Other",2000 مرايا حكايا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33169
-#EXTINF:-1 group-title="Other",مسافة امان
-http://xiptv.dyndns.tv:8000/shadi/987654321/33170
-#EXTINF:-1 group-title="Other",مزاج الخير
-http://xiptv.dyndns.tv:8000/shadi/987654321/33171
-#EXTINF:-1 group-title="Other",من الذى لا يحب فاطمة؟
-http://xiptv.dyndns.tv:8000/shadi/987654321/33172
-#EXTINF:-1 group-title="Other",محمد علي رود
-http://xiptv.dyndns.tv:8000/shadi/987654321/33173
-#EXTINF:-1 group-title="Other",نسيبتي العزيزة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33174
-#EXTINF:-1 group-title="Other",نصف ربيع الاخر
-http://xiptv.dyndns.tv:8000/shadi/987654321/33175
-#EXTINF:-1 group-title="Other",عمر ودياب
-http://xiptv.dyndns.tv:8000/shadi/987654321/33176
-#EXTINF:-1 group-title="Other",عمر
-http://xiptv.dyndns.tv:8000/shadi/987654321/33177
-#EXTINF:-1 group-title="Other",اوركيديا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33178
-#EXTINF:-1 group-title="Other",أستاذ و رئيس قسم
-http://xiptv.dyndns.tv:8000/shadi/987654321/33179
-#EXTINF:-1 group-title="Other",قمر هادي
-http://xiptv.dyndns.tv:8000/shadi/987654321/33180
-#EXTINF:-1 group-title="Other",رأفت الهجان 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33181
-#EXTINF:-1 group-title="Other",رأفت الهجان 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/33182
-#EXTINF:-1 group-title="Other",رأفت الهجان 3
-http://xiptv.dyndns.tv:8000/shadi/987654321/33183
-#EXTINF:-1 group-title="Other",راجل و ست ستات1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33184
-#EXTINF:-1 group-title="Other",راجل و ست ستات 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/33185
-#EXTINF:-1 group-title="Other",راجل و ست ستات3
-http://xiptv.dyndns.tv:8000/shadi/987654321/33186
-#EXTINF:-1 group-title="Other",راجل و ست ستات4
-http://xiptv.dyndns.tv:8000/shadi/987654321/33187
-#EXTINF:-1 group-title="Other",راجل و ست ستات5
-http://xiptv.dyndns.tv:8000/shadi/987654321/33188
-#EXTINF:-1 group-title="Other",راجل و ست ستات6
-http://xiptv.dyndns.tv:8000/shadi/987654321/33189
-#EXTINF:-1 group-title="Other",راجل و ست ستات7
-http://xiptv.dyndns.tv:8000/shadi/987654321/33190
-#EXTINF:-1 group-title="Other",راجل و ست ستات 8
-http://xiptv.dyndns.tv:8000/shadi/987654321/33191
-#EXTINF:-1 group-title="Other",راجل و ست ستات9
-http://xiptv.dyndns.tv:8000/shadi/987654321/33192
-#EXTINF:-1 group-title="Other",راجل و ست ستات10
-http://xiptv.dyndns.tv:8000/shadi/987654321/33193
-#EXTINF:-1 group-title="Other",راس الغول
-http://xiptv.dyndns.tv:8000/shadi/987654321/33194
-#EXTINF:-1 group-title="Other",رحلة المليون
-http://xiptv.dyndns.tv:8000/shadi/987654321/33195
-#EXTINF:-1 group-title="Other",ساعة عصاري
-http://xiptv.dyndns.tv:8000/shadi/987654321/33196
-#EXTINF:-1 group-title="Other",صح النوم
-http://xiptv.dyndns.tv:8000/shadi/987654321/33197
-#EXTINF:-1 group-title="Other",ساحرة الجنوب1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33198
-#EXTINF:-1 group-title="Other",ساحرة الجنوب2
-http://xiptv.dyndns.tv:8000/shadi/987654321/33199
-#EXTINF:-1 group-title="Other",سلمات أبو البنات
-http://xiptv.dyndns.tv:8000/shadi/987654321/33200
-#EXTINF:-1 group-title="Other",شاهد عيان
-http://xiptv.dyndns.tv:8000/shadi/987654321/33201
-#EXTINF:-1 group-title="Other",شام شريف
-http://xiptv.dyndns.tv:8000/shadi/987654321/33202
-#EXTINF:-1 group-title="Other",1 شارع عبد العزيز
-http://xiptv.dyndns.tv:8000/shadi/987654321/33203
-#EXTINF:-1 group-title="Other",2 شارع عبد العزيز
-http://xiptv.dyndns.tv:8000/shadi/987654321/33204
-#EXTINF:-1 group-title="Other",شارع المواردي 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33205
-#EXTINF:-1 group-title="Other",شارع المواردي 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/33206
-#EXTINF:-1 group-title="Other",شوارع الشام العتيقة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33207
-#EXTINF:-1 group-title="Other",شوفلي حل 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33208
-#EXTINF:-1 group-title="Other",شوفلي حل 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/33209
-#EXTINF:-1 group-title="Other",شوفلي حل 3
-http://xiptv.dyndns.tv:8000/shadi/987654321/33210
-#EXTINF:-1 group-title="Other",شوفلي حل 4
-http://xiptv.dyndns.tv:8000/shadi/987654321/33211
-#EXTINF:-1 group-title="Other",طلقة حظ
-http://xiptv.dyndns.tv:8000/shadi/987654321/33212
-#EXTINF:-1 group-title="Other",تفاحه ادم
-http://xiptv.dyndns.tv:8000/shadi/987654321/33213
-#EXTINF:-1 group-title="Other",فلانتينو
-http://xiptv.dyndns.tv:8000/shadi/987654321/33214
-#EXTINF:-1 group-title="Other",وادي المسك
-http://xiptv.dyndns.tv:8000/shadi/987654321/33215
-#EXTINF:-1 group-title="Other",1 واكلينها والعة سبع صنايع
-http://xiptv.dyndns.tv:8000/shadi/987654321/33216
-#EXTINF:-1 group-title="Other",2 واكلينها والعة سبع صنايع
-http://xiptv.dyndns.tv:8000/shadi/987654321/33217
-#EXTINF:-1 group-title="Other",يوميات مدير عام
-http://xiptv.dyndns.tv:8000/shadi/987654321/33218
-#EXTINF:-1 group-title="Other",يوميات ونيس1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33219
-#EXTINF:-1 group-title="Other",يوميات ونيس2
-http://xiptv.dyndns.tv:8000/shadi/987654321/33220
-#EXTINF:-1 group-title="Other",يوميات ونيس3
-http://xiptv.dyndns.tv:8000/shadi/987654321/33221
-#EXTINF:-1 group-title="Other",يوميات ونيس4
-http://xiptv.dyndns.tv:8000/shadi/987654321/33222
-#EXTINF:-1 group-title="Other",يوميات ونيس5
-http://xiptv.dyndns.tv:8000/shadi/987654321/33223
-#EXTINF:-1 group-title="Other",يوميات ونيس6
-http://xiptv.dyndns.tv:8000/shadi/987654321/33224
-#EXTINF:-1 group-title="Other",يوميات جميل وهناء 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33225
-#EXTINF:-1 group-title="Other",يوميات جميل وهناء 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/33226
-#EXTINF:-1 group-title="Other",ذهاب وعودة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33227
-#EXTINF:-1 group-title="Other",1 زمن البرغوث
-http://xiptv.dyndns.tv:8000/shadi/987654321/33228
-#EXTINF:-1 group-title="Other",2 زمن البرغوث
-http://xiptv.dyndns.tv:8000/shadi/987654321/33229
-#EXTINF:-1 group-title="Other",زنقة الباشا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33230
-#EXTINF:-1 group-title="Other",ذئاب الجبل
-http://xiptv.dyndns.tv:8000/shadi/987654321/33231
-#EXTINF:-1 group-title="Other",ظل الرئيس
-http://xiptv.dyndns.tv:8000/shadi/987654321/33232
-#EXTINF:-1 group-title="Other",1 جــــودا أكبـــــر
-http://xiptv.dyndns.tv:8000/shadi/987654321/33233
-#EXTINF:-1 group-title="Other",2 جــــودا أكبـــــر
-http://xiptv.dyndns.tv:8000/shadi/987654321/33234
-#EXTINF:-1 group-title="Other",3 جــــودا أكبـــــر
-http://xiptv.dyndns.tv:8000/shadi/987654321/33235
-#EXTINF:-1 group-title="Other",4 جــــودا أكبـــــر
-http://xiptv.dyndns.tv:8000/shadi/987654321/33236
-#EXTINF:-1 group-title="Other",1 الحـــب المنتظـــر
-http://xiptv.dyndns.tv:8000/shadi/987654321/33237
-#EXTINF:-1 group-title="Other",2 الحـــب المنتظـــر
-http://xiptv.dyndns.tv:8000/shadi/987654321/33238
-#EXTINF:-1 group-title="Other",زفاف بلا زوجين
-http://xiptv.dyndns.tv:8000/shadi/987654321/33239
-#EXTINF:-1 group-title="Other",1 قيامة أرطغرل
-http://xiptv.dyndns.tv:8000/shadi/987654321/33240
-#EXTINF:-1 group-title="Other",2 قيامة أرطغرل
-http://xiptv.dyndns.tv:8000/shadi/987654321/33241
-#EXTINF:-1 group-title="Other",3 قيامة أرطغرل
-http://xiptv.dyndns.tv:8000/shadi/987654321/33242
-#EXTINF:-1 group-title="Other",4 قيامة أرطغرل
-http://xiptv.dyndns.tv:8000/shadi/987654321/33243
-#EXTINF:-1 group-title="Other",5 قيامة أرطغرل
-http://xiptv.dyndns.tv:8000/shadi/987654321/33244
-#EXTINF:-1 group-title="Other",1 ابلة فاهيتا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33245
-#EXTINF:-1 group-title="Other",2 ابلة فاهيتا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33246
-#EXTINF:-1 group-title="Other",ابو حفيظة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33247
-#EXTINF:-1 group-title="Other",1 قهوة اشرف
-http://xiptv.dyndns.tv:8000/shadi/987654321/33248
-#EXTINF:-1 group-title="Other",2 قهوة اشرف
-http://xiptv.dyndns.tv:8000/shadi/987654321/33249
-#EXTINF:-1 group-title="Other",بيومى افندى 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33250
-#EXTINF:-1 group-title="Other",بيومى افندى 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/33251
-#EXTINF:-1 group-title="Other",براءة اختراع خورشيد
-http://xiptv.dyndns.tv:8000/shadi/987654321/33252
-#EXTINF:-1 group-title="Other",كاميرا خافية كريزي تاكسي1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33253
-#EXTINF:-1 group-title="Other",2 كاميرا خافية كريزي تاكسي
-http://xiptv.dyndns.tv:8000/shadi/987654321/33254
-#EXTINF:-1 group-title="Other",كاميرا خافية اديني عقلك
-http://xiptv.dyndns.tv:8000/shadi/987654321/33255
-#EXTINF:-1 group-title="Other",هاني هز الجبل
-http://xiptv.dyndns.tv:8000/shadi/987654321/33256
-#EXTINF:-1 group-title="Other",حيلهم بينهم الصلح خير
-http://xiptv.dyndns.tv:8000/shadi/987654321/33257
-#EXTINF:-1 group-title="Other",حيلهم بينهم كمان وكمان
-http://xiptv.dyndns.tv:8000/shadi/987654321/33258
-#EXTINF:-1 group-title="Other",حيلهم بينهم1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33259
-#EXTINF:-1 group-title="Other",حيلهم بينهم2
-http://xiptv.dyndns.tv:8000/shadi/987654321/33260
-#EXTINF:-1 group-title="Other",كاميرا خافية هيما شو
-http://xiptv.dyndns.tv:8000/shadi/987654321/33261
-#EXTINF:-1 group-title="Other",إغلب السقا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33262
-#EXTINF:-1 group-title="Other",محدش فاهم حاجة
-http://xiptv.dyndns.tv:8000/shadi/987654321/33263
-#EXTINF:-1 group-title="Other",مفيش مشكلة خالص 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/33264
-#EXTINF:-1 group-title="Other",مفيش مشكلة خالص 2
-http://xiptv.dyndns.tv:8000/shadi/987654321/33265
-#EXTINF:-1 group-title="Other",رامز مجنون رسمي
-http://xiptv.dyndns.tv:8000/shadi/987654321/33266
-#EXTINF:-1 group-title="Other",رامز قرش البحر
-http://xiptv.dyndns.tv:8000/shadi/987654321/33267
-#EXTINF:-1 group-title="Other",رامز تحت الارض
-http://xiptv.dyndns.tv:8000/shadi/987654321/33268
-#EXTINF:-1 group-title="Other",شكشك شو
-http://xiptv.dyndns.tv:8000/shadi/987654321/33269
-#EXTINF:-1 group-title="Other",تخاريف
-http://xiptv.dyndns.tv:8000/shadi/987654321/33270
-#EXTINF:-1 group-title="Other",وش السعد
-http://xiptv.dyndns.tv:8000/shadi/987654321/33271
-#EXTINF:-1 group-title="Other",1 واي فاي
-http://xiptv.dyndns.tv:8000/shadi/987654321/33272
-#EXTINF:-1 group-title="Other",2 واي فاي
-http://xiptv.dyndns.tv:8000/shadi/987654321/33273
-#EXTINF:-1 group-title="Other",3 واي فاي
-http://xiptv.dyndns.tv:8000/shadi/987654321/33274
-#EXTINF:-1 group-title="Other",4 واي فاي
-http://xiptv.dyndns.tv:8000/shadi/987654321/33275
-#EXTINF:-1 group-title="Other",زكية زكريا
-http://xiptv.dyndns.tv:8000/shadi/987654321/33276
-#EXTINF:-1 group-title="Other",الوجه الآخر
-http://xiptv.dyndns.tv:8000/shadi/987654321/39031
-#EXTINF:-1 group-title="Other",إسود فاتح
-http://xiptv.dyndns.tv:8000/shadi/987654321/39032
-#EXTINF:-1 group-title="Other",البارون
-http://xiptv.dyndns.tv:8000/shadi/987654321/39033
-#EXTINF:-1 group-title="Other",ما وراء الطبيعة
-http://xiptv.dyndns.tv:8000/shadi/987654321/39034
-#EXTINF:-1 group-title="Other",2 قوت القلوب
-http://xiptv.dyndns.tv:8000/shadi/987654321/39035
-#EXTINF:-1 group-title="Other",سايكو
-http://xiptv.dyndns.tv:8000/shadi/987654321/39036
-#EXTINF:-1 group-title="Other",حشمت في البيت الابيض
-http://xiptv.dyndns.tv:8000/shadi/987654321/39037
-#EXTINF:-1 group-title="Other",إلا أنا حكاية أمر شخصي
-http://xiptv.dyndns.tv:8000/shadi/987654321/39038
-#EXTINF:-1 group-title="Other",إلا أنا حكاية  ضي القمر
-http://xiptv.dyndns.tv:8000/shadi/987654321/39039
-#EXTINF:-1 group-title="Other",إلا أنا حكاية  لازم أعيش
-http://xiptv.dyndns.tv:8000/shadi/987654321/39040
-#EXTINF:-1 group-title="Other",إلا أنا حكاية أمل حياتي
-http://xiptv.dyndns.tv:8000/shadi/987654321/39041
-#EXTINF:-1 group-title="Other",إلا أنا حكاية أول السطر
-http://xiptv.dyndns.tv:8000/shadi/987654321/39042
 #EXTINF:-1 group-title="OSN",OSN-Discovery-Sc-HD
 http://xiptv.dyndns.tv:8000/shadi/987654321/17
 #EXTINF:-1 group-title="OSN",OSN-Discovery-MAX-HD
@@ -2352,42 +1510,6 @@ http://xiptv.dyndns.tv:8000/shadi/987654321/32985
 http://xiptv.dyndns.tv:8000/shadi/987654321/32986
 #EXTINF:-1 group-title="Other",ALNADA
 http://xiptv.dyndns.tv:8000/shadi/987654321/32987
-#EXTINF:-1 group-title="Other",المُؤمنون و النُّور و الفُرْقان
-http://xiptv.dyndns.tv:8000/shadi/987654321/32988
-#EXTINF:-1 group-title="Other",الشُّعَرَاء و النَّمْل و القَصَص
-http://xiptv.dyndns.tv:8000/shadi/987654321/32989
-#EXTINF:-1 group-title="Other",العَنكبوت و الرُّوم و لقمَان
-http://xiptv.dyndns.tv:8000/shadi/987654321/32990
-#EXTINF:-1 group-title="Other",السَّجدَة و الأحزَاب و سَبَأ
-http://xiptv.dyndns.tv:8000/shadi/987654321/32991
-#EXTINF:-1 group-title="Other",فَاطِر و يس و الصَّافات و ص
-http://xiptv.dyndns.tv:8000/shadi/987654321/32992
-#EXTINF:-1 group-title="Other",الزُّمَر و غَافِر و فُصِّلَتْ و الشُّورَى
-http://xiptv.dyndns.tv:8000/shadi/987654321/32993
-#EXTINF:-1 group-title="Other",الزُّخْرُف و الدخَان و الجَاثيَة و الأحْقاف
-http://xiptv.dyndns.tv:8000/shadi/987654321/32994
-#EXTINF:-1 group-title="Other",محَمَّد و الفَتْح و الحُجرَات و ق و الذَّاريَات و الطُّور
-http://xiptv.dyndns.tv:8000/shadi/987654321/32995
-#EXTINF:-1 group-title="Other",آل عِمرَان و النِّسَاء
-http://xiptv.dyndns.tv:8000/shadi/987654321/32996
-#EXTINF:-1 group-title="Other",النَّجْم و القَمَر
-http://xiptv.dyndns.tv:8000/shadi/987654321/32997
-#EXTINF:-1 group-title="Other",RE-IS: Al Shaerawi 3 (
-http://xiptv.dyndns.tv:8000/shadi/987654321/32998
-#EXTINF:-1 group-title="Other",RE-IS: Al Shaerawi 4 (
-http://xiptv.dyndns.tv:8000/shadi/987654321/32999
-#EXTINF:-1 group-title="Other",RE-IS: Al Shaerawi 5 (
-http://xiptv.dyndns.tv:8000/shadi/987654321/33000
-#EXTINF:-1 group-title="Other",RE-IS: Al Shaerawi 6 (
-http://xiptv.dyndns.tv:8000/shadi/987654321/33001
-#EXTINF:-1 group-title="Other",RE-IS: Al Shaerawi 7 (
-http://xiptv.dyndns.tv:8000/shadi/987654321/33002
-#EXTINF:-1 group-title="Other",RE-IS: Al Shaerawi 8 (
-http://xiptv.dyndns.tv:8000/shadi/987654321/33003
-#EXTINF:-1 group-title="Other",RE-IS: Al Shaerawi 9 (
-http://xiptv.dyndns.tv:8000/shadi/987654321/33004
-#EXTINF:-1 group-title="Other",RE-IS: Omar Abd Elkafi  (
-http://xiptv.dyndns.tv:8000/shadi/987654321/33005
 #EXTINF:-1 group-title="Other",AR-ALIRTH ALNABWi
 http://xiptv.dyndns.tv:8000/shadi/987654321/33006
 #EXTINF:-1 group-title="Other",AR-Iqraa Middle east
