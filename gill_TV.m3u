@@ -1174,8 +1174,6 @@ http://tv2iptv.com:8080/gill/Gill2020/11602
 http://tv2iptv.com:8080/gill/Gill2020/11591
 #EXTINF:-1 group-title="Arabic",AR:CNBC-Arabiya
 http://tv2iptv.com:8080/gill/Gill2020/11590
-#EXTINF:-1 group-title="Arabic",AR:M-CINEMA
-http://tv2iptv.com:8080/gill/Gill2020/11748
 #EXTINF:-1 group-title="Arabic",AR:Dewan
 http://tv2iptv.com:8080/gill/Gill2020/11587
 #EXTINF:-1 group-title="Arabic",AR:El-Sharq
@@ -1784,10 +1782,6 @@ http://tv2iptv.com:8080/gill/Gill2020/106928
 http://tv2iptv.com:8080/gill/Gill2020/107399
 #EXTINF:-1 group-title="Arabic",AR:AlRai
 http://tv2iptv.com:8080/gill/Gill2020/107784
-#EXTINF:-1 group-title="Arabic",AR:M-AFLAM
-http://tv2iptv.com:8080/gill/Gill2020/111133
-#EXTINF:-1 group-title="Arabic",AR:M-DRAMA
-http://tv2iptv.com:8080/gill/Gill2020/111134
 #EXTINF:-1 group-title="Arabic",AR:M24-MAROC
 http://tv2iptv.com:8080/gill/Gill2020/111813
 #EXTINF:-1 group-title="Arabic",AR:HADRAMAUT-TV
@@ -4048,402 +4042,6 @@ http://tv2iptv.com:8080/gill/Gill2020/162592
 http://tv2iptv.com:8080/gill/Gill2020/162591
 #EXTINF:-1 group-title="Other",CH: Blue Prime FHD
 http://tv2iptv.com:8080/gill/Gill2020/162590
-#EXTINF:-1 group-title="Bein",FR:BEIN_SPORTS_1HD(1080i)
-http://tv2iptv.com:8080/gill/Gill2020/163208
-#EXTINF:-1 group-title="Bein",FR:BEIN_SPORTS_2HD(1080i)
-http://tv2iptv.com:8080/gill/Gill2020/163207
-#EXTINF:-1 group-title="Bein",FR:BEIN_SPORTS_3HD(1080i)
-http://tv2iptv.com:8080/gill/Gill2020/163206
-#EXTINF:-1 group-title="French",FR:RMC_SPORTS_1HD(1080i)
-http://tv2iptv.com:8080/gill/Gill2020/163205
-#EXTINF:-1 group-title="French",FR:RMC_SPORTS_2HD(1080i)
-http://tv2iptv.com:8080/gill/Gill2020/163204
-#EXTINF:-1 group-title="French",FR:RMC_SPORTS_3HD(1080i)
-http://tv2iptv.com:8080/gill/Gill2020/163203
-#EXTINF:-1 group-title="French",FR:RMC_SPORTS_4HD(1080i)
-http://tv2iptv.com:8080/gill/Gill2020/163202
-#EXTINF:-1 group-title="French",FR:CANAL+(1080i)
-http://tv2iptv.com:8080/gill/Gill2020/163201
-#EXTINF:-1 group-title="French",FR:CANAL+SPORT(1080i)
-http://tv2iptv.com:8080/gill/Gill2020/163200
-#EXTINF:-1 group-title="French",FR:France_2HD
-http://tv2iptv.com:8080/gill/Gill2020/163199
-#EXTINF:-1 group-title="French",FR:France_3HD
-http://tv2iptv.com:8080/gill/Gill2020/163198
-#EXTINF:-1 group-title="French",FR:France_4HD
-http://tv2iptv.com:8080/gill/Gill2020/163197
-#EXTINF:-1 group-title="French",FR:France_5HD
-http://tv2iptv.com:8080/gill/Gill2020/163196
-#EXTINF:-1 group-title="French",FR:France_OHD
-http://tv2iptv.com:8080/gill/Gill2020/163195
-#EXTINF:-1 group-title="French",FR:TF1_HD
-http://tv2iptv.com:8080/gill/Gill2020/163194
-#EXTINF:-1 group-title="French",FR:TF1+HD
-http://tv2iptv.com:8080/gill/Gill2020/163193
-#EXTINF:-1 group-title="French",FR:M6_HD
-http://tv2iptv.com:8080/gill/Gill2020/163192
-#EXTINF:-1 group-title="French",FR:M6_MUSIC_HD
-http://tv2iptv.com:8080/gill/Gill2020/163191
-#EXTINF:-1 group-title="French",FR:MCM_TOP_HD
-http://tv2iptv.com:8080/gill/Gill2020/163190
-#EXTINF:-1 group-title="French",FR:OKLM_TV
-http://tv2iptv.com:8080/gill/Gill2020/163189
-#EXTINF:-1 group-title="French",FR:NRJ_HITS_HD
-http://tv2iptv.com:8080/gill/Gill2020/163188
-#EXTINF:-1 group-title="French",FR:MCM
-http://tv2iptv.com:8080/gill/Gill2020/163187
-#EXTINF:-1 group-title="French",FR:MTV_HD
-http://tv2iptv.com:8080/gill/Gill2020/163186
-#EXTINF:-1 group-title="French",FR:MTV_DANCE
-http://tv2iptv.com:8080/gill/Gill2020/163185
-#EXTINF:-1 group-title="French",FR:MTV_HITS
-http://tv2iptv.com:8080/gill/Gill2020/163184
-#EXTINF:-1 group-title="French",FR:MTV_ROCKS
-http://tv2iptv.com:8080/gill/Gill2020/163183
-#EXTINF:-1 group-title="French",FR:TRACE_URBAN_HD
-http://tv2iptv.com:8080/gill/Gill2020/163182
-#EXTINF:-1 group-title="French",FR:mezzo
-http://tv2iptv.com:8080/gill/Gill2020/163181
-#EXTINF:-1 group-title="French",FR:NRJ_12HD
-http://tv2iptv.com:8080/gill/Gill2020/163180
-#EXTINF:-1 group-title="French",FR:CANAL+_FULLHD
-http://tv2iptv.com:8080/gill/Gill2020/163179
-#EXTINF:-1 group-title="French",FR:CANAL_+HD
-http://tv2iptv.com:8080/gill/Gill2020/163178
-#EXTINF:-1 group-title="French",FR:CANAL+_ SD
-http://tv2iptv.com:8080/gill/Gill2020/163177
-#EXTINF:-1 group-title="French",FR:CANAL+CINEMA_FULLHD
-http://tv2iptv.com:8080/gill/Gill2020/163176
-#EXTINF:-1 group-title="French",FR:CANAL+CINEMA_HD
-http://tv2iptv.com:8080/gill/Gill2020/163175
-#EXTINF:-1 group-title="French",FR:CANAL+CINEMA_SD
-http://tv2iptv.com:8080/gill/Gill2020/163174
-#EXTINF:-1 group-title="French",FR:CANAL+FAMILY_FULLHD
-http://tv2iptv.com:8080/gill/Gill2020/163173
-#EXTINF:-1 group-title="French",FR:CANAL+FAMILY_HD
-http://tv2iptv.com:8080/gill/Gill2020/163172
-#EXTINF:-1 group-title="French",FR:CANAL+FAMILY_SD
-http://tv2iptv.com:8080/gill/Gill2020/163171
-#EXTINF:-1 group-title="French",FR:CANAL+DECALE_FULLHD
-http://tv2iptv.com:8080/gill/Gill2020/163170
-#EXTINF:-1 group-title="French",FR:CANAL+DECALE_HD
-http://tv2iptv.com:8080/gill/Gill2020/163169
-#EXTINF:-1 group-title="French",FR:CANAL+DECALE_SD
-http://tv2iptv.com:8080/gill/Gill2020/163168
-#EXTINF:-1 group-title="French",FR:CANAL+SERIES_FULLHD
-http://tv2iptv.com:8080/gill/Gill2020/163167
-#EXTINF:-1 group-title="French",FR:CANAL+SERIES_HD
-http://tv2iptv.com:8080/gill/Gill2020/163166
-#EXTINF:-1 group-title="French",FR:CANAL+SERIES_SD
-http://tv2iptv.com:8080/gill/Gill2020/163165
-#EXTINF:-1 group-title="French",FR:CANAL+SPORT_FULLHD
-http://tv2iptv.com:8080/gill/Gill2020/163164
-#EXTINF:-1 group-title="French",FR:CANAL+SPORT_HD
-http://tv2iptv.com:8080/gill/Gill2020/163163
-#EXTINF:-1 group-title="French",FR:CANAL+SPORT_SD
-http://tv2iptv.com:8080/gill/Gill2020/163162
-#EXTINF:-1 group-title="French",FR:CINE+PREMIERE_HD
-http://tv2iptv.com:8080/gill/Gill2020/163161
-#EXTINF:-1 group-title="French",FR:CINE+FRISSON_HD
-http://tv2iptv.com:8080/gill/Gill2020/163160
-#EXTINF:-1 group-title="French",FR:Cine+Famiz_HD
-http://tv2iptv.com:8080/gill/Gill2020/163159
-#EXTINF:-1 group-title="French",FR:Cine+_Emotion_HD
-http://tv2iptv.com:8080/gill/Gill2020/163158
-#EXTINF:-1 group-title="French",FR:CINE+CLUB
-http://tv2iptv.com:8080/gill/Gill2020/163157
-#EXTINF:-1 group-title="French",FR:Cine+Classic_HD
-http://tv2iptv.com:8080/gill/Gill2020/163156
-#EXTINF:-1 group-title="French",FR:OCS_MAX_HD
-http://tv2iptv.com:8080/gill/Gill2020/163155
-#EXTINF:-1 group-title="French",FR:OCS_GEANTS
-http://tv2iptv.com:8080/gill/Gill2020/163154
-#EXTINF:-1 group-title="French",FR:OCS_CITY
-http://tv2iptv.com:8080/gill/Gill2020/163153
-#EXTINF:-1 group-title="French",FR:OCS_CHOC_HD
-http://tv2iptv.com:8080/gill/Gill2020/163152
-#EXTINF:-1 group-title="French",FR:SERIE_CLUB_HD
-http://tv2iptv.com:8080/gill/Gill2020/163151
-#EXTINF:-1 group-title="French",FR:PARAMOUNT_CHANNEL
-http://tv2iptv.com:8080/gill/Gill2020/163150
-#EXTINF:-1 group-title="French",FR:PARAMOUNT_DECALE_HD
-http://tv2iptv.com:8080/gill/Gill2020/163149
-#EXTINF:-1 group-title="French",FR:THE_MUSEUM_CHANNEL_HD
-http://tv2iptv.com:8080/gill/Gill2020/163148
-#EXTINF:-1 group-title="French",FR:BRAVA_HD
-http://tv2iptv.com:8080/gill/Gill2020/163147
-#EXTINF:-1 group-title="French",FR:PARIE_PRMIERE_HD
-http://tv2iptv.com:8080/gill/Gill2020/163146
-#EXTINF:-1 group-title="French",FR:TF1_Séries_Films
-http://tv2iptv.com:8080/gill/Gill2020/163145
-#EXTINF:-1 group-title="French",FR:E!_ENTERTAINMENT_HD
-http://tv2iptv.com:8080/gill/Gill2020/163144
-#EXTINF:-1 group-title="French",FR:BET
-http://tv2iptv.com:8080/gill/Gill2020/163143
-#EXTINF:-1 group-title="French",FR:SUNDANCE_CHANNEL
-http://tv2iptv.com:8080/gill/Gill2020/163142
-#EXTINF:-1 group-title="French",FR:Syfy_HD
-http://tv2iptv.com:8080/gill/Gill2020/163141
-#EXTINF:-1 group-title="French",FR:COMEDIE+HD
-http://tv2iptv.com:8080/gill/Gill2020/163140
-#EXTINF:-1 group-title="French",FR:TCM_CINEMA_HD
-http://tv2iptv.com:8080/gill/Gill2020/163139
-#EXTINF:-1 group-title="French",FR:TMC
-http://tv2iptv.com:8080/gill/Gill2020/163138
-#EXTINF:-1 group-title="French",FR:ACTION_HD
-http://tv2iptv.com:8080/gill/Gill2020/163137
-#EXTINF:-1 group-title="French",FR:RTL9_HD
-http://tv2iptv.com:8080/gill/Gill2020/163136
-#EXTINF:-1 group-title="French",FR:TFX
-http://tv2iptv.com:8080/gill/Gill2020/163135
-#EXTINF:-1 group-title="French",FR:MOTORVISION
-http://tv2iptv.com:8080/gill/Gill2020/163134
-#EXTINF:-1 group-title="French",FR:AB_MOTEURS
-http://tv2iptv.com:8080/gill/Gill2020/163133
-#EXTINF:-1 group-title="French",FR:AB1-HD
-http://tv2iptv.com:8080/gill/Gill2020/163132
-#EXTINF:-1 group-title="French",FR:CINE_POLAR_HD
-http://tv2iptv.com:8080/gill/Gill2020/163131
-#EXTINF:-1 group-title="French",FR:CINE-FX_HD
-http://tv2iptv.com:8080/gill/Gill2020/163130
-#EXTINF:-1 group-title="French",FR:TEVA_HD
-http://tv2iptv.com:8080/gill/Gill2020/163129
-#EXTINF:-1 group-title="French",FR:TV_BREIZH_HD
-http://tv2iptv.com:8080/gill/Gill2020/163128
-#EXTINF:-1 group-title="French",FR:RMC_SPORT1_FULLHD
-http://tv2iptv.com:8080/gill/Gill2020/163127
-#EXTINF:-1 group-title="French",FR:RMC_SPORT1_HD
-http://tv2iptv.com:8080/gill/Gill2020/163126
-#EXTINF:-1 group-title="French",FR:RMC_SPORT2_HD
-http://tv2iptv.com:8080/gill/Gill2020/163125
-#EXTINF:-1 group-title="French",FR:RMC_SPORT3_HD
-http://tv2iptv.com:8080/gill/Gill2020/163124
-#EXTINF:-1 group-title="French",FR:RMC_SPORT4_HD
-http://tv2iptv.com:8080/gill/Gill2020/163123
-#EXTINF:-1 group-title="French",FR:RMC_SPORT5_HD
-http://tv2iptv.com:8080/gill/Gill2020/163122
-#EXTINF:-1 group-title="French",FR:RMC_SPORT6_HD
-http://tv2iptv.com:8080/gill/Gill2020/163121
-#EXTINF:-1 group-title="French",FR:RMC_SPORT7_HD
-http://tv2iptv.com:8080/gill/Gill2020/163120
-#EXTINF:-1 group-title="French",FR:RMC_SPORT8_HD
-http://tv2iptv.com:8080/gill/Gill2020/163119
-#EXTINF:-1 group-title="French",FR:RMC_SPORT9_HD
-http://tv2iptv.com:8080/gill/Gill2020/163118
-#EXTINF:-1 group-title="French",FR:RMC_SPORT10_HD
-http://tv2iptv.com:8080/gill/Gill2020/163117
-#EXTINF:-1 group-title="French",FR:RMC_SPORT12HD
-http://tv2iptv.com:8080/gill/Gill2020/163116
-#EXTINF:-1 group-title="French",FR:RMC_SPORT13HD
-http://tv2iptv.com:8080/gill/Gill2020/163115
-#EXTINF:-1 group-title="Bein",FR:BeinSport1_FULLHD
-http://tv2iptv.com:8080/gill/Gill2020/163114
-#EXTINF:-1 group-title="Bein",FR:BeinSport1_HD
-http://tv2iptv.com:8080/gill/Gill2020/163113
-#EXTINF:-1 group-title="Bein",FR:BeinSport1_SD
-http://tv2iptv.com:8080/gill/Gill2020/163112
-#EXTINF:-1 group-title="Bein",FR:BeinSport2_FULLHD
-http://tv2iptv.com:8080/gill/Gill2020/163111
-#EXTINF:-1 group-title="Bein",FR:BeinSport2_HD
-http://tv2iptv.com:8080/gill/Gill2020/163110
-#EXTINF:-1 group-title="Bein",FR:BeinSport2_SD
-http://tv2iptv.com:8080/gill/Gill2020/163109
-#EXTINF:-1 group-title="Bein",FR:BeinSport3_FULLHD
-http://tv2iptv.com:8080/gill/Gill2020/163108
-#EXTINF:-1 group-title="Bein",FR:BeinSport3_HD
-http://tv2iptv.com:8080/gill/Gill2020/163107
-#EXTINF:-1 group-title="Bein",FR:BeinSport3_SD
-http://tv2iptv.com:8080/gill/Gill2020/163106
-#EXTINF:-1 group-title="Bein",FR:BeinSportMax4
-http://tv2iptv.com:8080/gill/Gill2020/163105
-#EXTINF:-1 group-title="Bein",FR:BeinSportMax5
-http://tv2iptv.com:8080/gill/Gill2020/163104
-#EXTINF:-1 group-title="Bein",FR:BeinSportMax6
-http://tv2iptv.com:8080/gill/Gill2020/163103
-#EXTINF:-1 group-title="Bein",FR:BeinSportMax7
-http://tv2iptv.com:8080/gill/Gill2020/163102
-#EXTINF:-1 group-title="Bein",FR:BeinSportMax8
-http://tv2iptv.com:8080/gill/Gill2020/163101
-#EXTINF:-1 group-title="Bein",FR:BeinSportMax9
-http://tv2iptv.com:8080/gill/Gill2020/163100
-#EXTINF:-1 group-title="Bein",FR:BeinSportMax10
-http://tv2iptv.com:8080/gill/Gill2020/163099
-#EXTINF:-1 group-title="French",FR:FOOT+
-http://tv2iptv.com:8080/gill/Gill2020/163098
-#EXTINF:-1 group-title="French",FR:INFOSPORT+
-http://tv2iptv.com:8080/gill/Gill2020/163097
-#EXTINF:-1 group-title="French",FR:Jack_Luck
-http://tv2iptv.com:8080/gill/Gill2020/163096
-#EXTINF:-1 group-title="French",FR:EQUIDIA
-http://tv2iptv.com:8080/gill/Gill2020/163095
-#EXTINF:-1 group-title="French",FR:EQUIDIA_LIFE
-http://tv2iptv.com:8080/gill/Gill2020/163094
-#EXTINF:-1 group-title="French",FR:OMTV
-http://tv2iptv.com:8080/gill/Gill2020/163093
-#EXTINF:-1 group-title="French",FR:OLTV
-http://tv2iptv.com:8080/gill/Gill2020/163092
-#EXTINF:-1 group-title="French",FR:COMEDY_CENTRAL
-http://tv2iptv.com:8080/gill/Gill2020/163091
-#EXTINF:-1 group-title="French",FR:EXTREME_SPORT_HD
-http://tv2iptv.com:8080/gill/Gill2020/163090
-#EXTINF:-1 group-title="French",FR:GOLF+
-http://tv2iptv.com:8080/gill/Gill2020/163089
-#EXTINF:-1 group-title="French",FR:GAME_ONE
-http://tv2iptv.com:8080/gill/Gill2020/163088
-#EXTINF:-1 group-title="French",FR:GAME_ONE+1
-http://tv2iptv.com:8080/gill/Gill2020/163087
-#EXTINF:-1 group-title="French",FR:J_ONE
-http://tv2iptv.com:8080/gill/Gill2020/163086
-#EXTINF:-1 group-title="French",FR:NAT_GEO_WILD_HD
-http://tv2iptv.com:8080/gill/Gill2020/163085
-#EXTINF:-1 group-title="French",FR:NATIONAL_GEO_CHANNEL_HD
-http://tv2iptv.com:8080/gill/Gill2020/163084
-#EXTINF:-1 group-title="French",FR:DISCOVERY_CHANNEL_HD
-http://tv2iptv.com:8080/gill/Gill2020/163083
-#EXTINF:-1 group-title="French",FR:DISCOVERY_CHANNEL_SD
-http://tv2iptv.com:8080/gill/Gill2020/163082
-#EXTINF:-1 group-title="French",FR:DISCOVERY_SCIENCE_HD
-http://tv2iptv.com:8080/gill/Gill2020/163081
-#EXTINF:-1 group-title="French",FR:DISCOVERY_SCIENCE_SD
-http://tv2iptv.com:8080/gill/Gill2020/163080
-#EXTINF:-1 group-title="French",FR:DISCOVERY_FAMILY_HD
-http://tv2iptv.com:8080/gill/Gill2020/163079
-#EXTINF:-1 group-title="French",FR:DISCOVERY_INVESTIGATION_HD
-http://tv2iptv.com:8080/gill/Gill2020/163078
-#EXTINF:-1 group-title="French",FR:PLANETE+_AE
-http://tv2iptv.com:8080/gill/Gill2020/163077
-#EXTINF:-1 group-title="French",FR:SEASONS
-http://tv2iptv.com:8080/gill/Gill2020/163076
-#EXTINF:-1 group-title="French",FR:TOUTE_L'HISTOIRE
-http://tv2iptv.com:8080/gill/Gill2020/163075
-#EXTINF:-1 group-title="French",FR:Voyage_FULLHD
-http://tv2iptv.com:8080/gill/Gill2020/163074
-#EXTINF:-1 group-title="French",FR:Voyage_HD
-http://tv2iptv.com:8080/gill/Gill2020/163073
-#EXTINF:-1 group-title="French",FR:Planete+HD
-http://tv2iptv.com:8080/gill/Gill2020/163072
-#EXTINF:-1 group-title="French",FR:Planet+_CI
-http://tv2iptv.com:8080/gill/Gill2020/163071
-#EXTINF:-1 group-title="French",FR:WARNER_TV
-http://tv2iptv.com:8080/gill/Gill2020/163070
-#EXTINF:-1 group-title="French",FR:Olympia_Tv
-http://tv2iptv.com:8080/gill/Gill2020/163069
-#EXTINF:-1 group-title="French",FR:Aerostar_HD
-http://tv2iptv.com:8080/gill/Gill2020/163068
-#EXTINF:-1 group-title="French",FR:13EME_RUE
-http://tv2iptv.com:8080/gill/Gill2020/163067
-#EXTINF:-1 group-title="French",FR:USHUAIA_TV_HD
-http://tv2iptv.com:8080/gill/Gill2020/163066
-#EXTINF:-1 group-title="French",FR:Animaux_HD
-http://tv2iptv.com:8080/gill/Gill2020/163065
-#EXTINF:-1 group-title="French",FR:CHASSE&PECHE
-http://tv2iptv.com:8080/gill/Gill2020/163064
-#EXTINF:-1 group-title="French",FR:Science_et_Vie TV
-http://tv2iptv.com:8080/gill/Gill2020/163063
-#EXTINF:-1 group-title="French",FR:Weo
-http://tv2iptv.com:8080/gill/Gill2020/163062
-#EXTINF:-1 group-title="French",FR:CHERIE_25
-http://tv2iptv.com:8080/gill/Gill2020/163061
-#EXTINF:-1 group-title="French",FR:RMC_DECOUVERTE
-http://tv2iptv.com:8080/gill/Gill2020/163060
-#EXTINF:-1 group-title="French",FR:6Ter_HD
-http://tv2iptv.com:8080/gill/Gill2020/163059
-#EXTINF:-1 group-title="French",FR:C8_HD
-http://tv2iptv.com:8080/gill/Gill2020/163058
-#EXTINF:-1 group-title="French",FR:CSTAR
-http://tv2iptv.com:8080/gill/Gill2020/163057
-#EXTINF:-1 group-title="French",FR:W9_HD
-http://tv2iptv.com:8080/gill/Gill2020/163056
-#EXTINF:-1 group-title="French",FR:TV5_Monde
-http://tv2iptv.com:8080/gill/Gill2020/163055
-#EXTINF:-1 group-title="French",FR:C_news
-http://tv2iptv.com:8080/gill/Gill2020/163054
-#EXTINF:-1 group-title="French",FR:RMC_STORY
-http://tv2iptv.com:8080/gill/Gill2020/163053
-#EXTINF:-1 group-title="French",FR:France24
-http://tv2iptv.com:8080/gill/Gill2020/163052
-#EXTINF:-1 group-title="French",FR:FRANCEINFO
-http://tv2iptv.com:8080/gill/Gill2020/163051
-#EXTINF:-1 group-title="French",FR:EUROSPORT1_france
-http://tv2iptv.com:8080/gill/Gill2020/163050
-#EXTINF:-1 group-title="French",FR:EUROSPORT_2_HD
-http://tv2iptv.com:8080/gill/Gill2020/163049
-#EXTINF:-1 group-title="French",FR:EQUIPE21_HD
-http://tv2iptv.com:8080/gill/Gill2020/163048
-#EXTINF:-1 group-title="French",FR:Euronews_France
-http://tv2iptv.com:8080/gill/Gill2020/163047
-#EXTINF:-1 group-title="French",FR:BFM
-http://tv2iptv.com:8080/gill/Gill2020/163046
-#EXTINF:-1 group-title="French",FR:Arte
-http://tv2iptv.com:8080/gill/Gill2020/163045
-#EXTINF:-1 group-title="French",FR:Piwi+HD
-http://tv2iptv.com:8080/gill/Gill2020/163044
-#EXTINF:-1 group-title="French",FR:NICKELODEON
-http://tv2iptv.com:8080/gill/Gill2020/163043
-#EXTINF:-1 group-title="French",FR:Nickelodeon+1
-http://tv2iptv.com:8080/gill/Gill2020/163042
-#EXTINF:-1 group-title="French",FR:NICKELODEON_4TEEN
-http://tv2iptv.com:8080/gill/Gill2020/163041
-#EXTINF:-1 group-title="French",FR:NICKELODEON_Junior
-http://tv2iptv.com:8080/gill/Gill2020/163040
-#EXTINF:-1 group-title="French",FR:Mangas
-http://tv2iptv.com:8080/gill/Gill2020/163039
-#EXTINF:-1 group-title="French",FR:DISNEY_XD
-http://tv2iptv.com:8080/gill/Gill2020/163038
-#EXTINF:-1 group-title="French",FR:DISNEY_JUNIOR
-http://tv2iptv.com:8080/gill/Gill2020/163037
-#EXTINF:-1 group-title="French",FR:Disney_Channel
-http://tv2iptv.com:8080/gill/Gill2020/163036
-#EXTINF:-1 group-title="French",FR:DISNEY_CINEMA
-http://tv2iptv.com:8080/gill/Gill2020/163035
-#EXTINF:-1 group-title="French",FR:TOONAMI
-http://tv2iptv.com:8080/gill/Gill2020/163034
-#EXTINF:-1 group-title="French",FR:BOING_HD
-http://tv2iptv.com:8080/gill/Gill2020/163033
-#EXTINF:-1 group-title="French",FR:Gulli
-http://tv2iptv.com:8080/gill/Gill2020/163032
-#EXTINF:-1 group-title="French",FR:BOOMERANG
-http://tv2iptv.com:8080/gill/Gill2020/163031
-#EXTINF:-1 group-title="French",FR:CANAL-J-HD
-http://tv2iptv.com:8080/gill/Gill2020/163030
-#EXTINF:-1 group-title="French",FR:TiJi
-http://tv2iptv.com:8080/gill/Gill2020/163029
-#EXTINF:-1 group-title="French",FR:Teletoon+
-http://tv2iptv.com:8080/gill/Gill2020/163028
-#EXTINF:-1 group-title="French",FR:Cartoon_Network
-http://tv2iptv.com:8080/gill/Gill2020/163027
-#EXTINF:-1 group-title="French",Canada/FR:Radio_Canada
-http://tv2iptv.com:8080/gill/Gill2020/163020
-#EXTINF:-1 group-title="French",Canada/FR:TVA_Nouvelles
-http://tv2iptv.com:8080/gill/Gill2020/163019
-#EXTINF:-1 group-title="French",Canada/FR:Télé_Québec
-http://tv2iptv.com:8080/gill/Gill2020/163018
-#EXTINF:-1 group-title="French",Canada/FR:RDI_Canada
-http://tv2iptv.com:8080/gill/Gill2020/163017
-#EXTINF:-1 group-title="French",Canada/FR:Assemblee_Nationale_Quebec
-http://tv2iptv.com:8080/gill/Gill2020/163016
-#EXTINF:-1 group-title="French",Canada/FR:ICI
-http://tv2iptv.com:8080/gill/Gill2020/163015
-#EXTINF:-1 group-title="French",Canada/FR:V_Télé
-http://tv2iptv.com:8080/gill/Gill2020/163014
-#EXTINF:-1 group-title="French",FR:RMC_ACCESS1
-http://tv2iptv.com:8080/gill/Gill2020/163013
-#EXTINF:-1 group-title="French",FR:RMC_ACCESS2
-http://tv2iptv.com:8080/gill/Gill2020/163012
-#EXTINF:-1 group-title="French",FR:RMC_ACCESS3
-http://tv2iptv.com:8080/gill/Gill2020/163011
-#EXTINF:-1 group-title="French",FR:MULTISPORTS_1
-http://tv2iptv.com:8080/gill/Gill2020/163010
-#EXTINF:-1 group-title="French",FR:MULTISPORTS_2
-http://tv2iptv.com:8080/gill/Gill2020/163009
-#EXTINF:-1 group-title="French",FR:MULTISPORTS_3
-http://tv2iptv.com:8080/gill/Gill2020/163008
-#EXTINF:-1 group-title="French",FR:MULTISPORTS_4
-http://tv2iptv.com:8080/gill/Gill2020/163007
-#EXTINF:-1 group-title="French",FR:MULTISPORTS_5
-http://tv2iptv.com:8080/gill/Gill2020/163006
-#EXTINF:-1 group-title="French",FR:MULTISPORTS_6
-http://tv2iptv.com:8080/gill/Gill2020/163005
 #EXTINF:-1 group-title="French",FR: NETFLIX FILM 1 HD
 http://tv2iptv.com:8080/gill/Gill2020/163004
 #EXTINF:-1 group-title="French",FR: NETFLIX FILM 2 HD
@@ -10510,3 +10108,227 @@ http://tv2iptv.com:8080/gill/Gill2020/174701
 http://tv2iptv.com:8080/gill/Gill2020/174758
 #EXTINF:-1 group-title="Arabic",AR: NOHADRA TV
 http://tv2iptv.com:8080/gill/Gill2020/174904
+#EXTINF:-1 group-title="Other",IT:Premium Cinema 3 HD
+http://tv2iptv.com:8080/gill/Gill2020/175447
+#EXTINF:-1 group-title="Other",IT:Premium Cinema 2 HD
+http://tv2iptv.com:8080/gill/Gill2020/175446
+#EXTINF:-1 group-title="Other",IT:Premium Cinema 1 HD
+http://tv2iptv.com:8080/gill/Gill2020/175445
+#EXTINF:-1 group-title="Other",IT:LAEFFE HD
+http://tv2iptv.com:8080/gill/Gill2020/175444
+#EXTINF:-1 group-title="Other",IT:Dazn 4
+http://tv2iptv.com:8080/gill/Gill2020/175443
+#EXTINF:-1 group-title="Other",IT:Dazn 3
+http://tv2iptv.com:8080/gill/Gill2020/175442
+#EXTINF:-1 group-title="Other",IT:Gambero rosso HD
+http://tv2iptv.com:8080/gill/Gill2020/175441
+#EXTINF:-1 group-title="Other",IT:Dazn 1
+http://tv2iptv.com:8080/gill/Gill2020/175440
+#EXTINF:-1 group-title="Other",IT:UnireSat
+http://tv2iptv.com:8080/gill/Gill2020/175439
+#EXTINF:-1 group-title="Other",IT:Tv8FHD
+http://tv2iptv.com:8080/gill/Gill2020/175438
+#EXTINF:-1 group-title="Other",IT:TopCrime
+http://tv2iptv.com:8080/gill/Gill2020/175437
+#EXTINF:-1 group-title="Other",IT:TOPCALCIO24
+http://tv2iptv.com:8080/gill/Gill2020/175436
+#EXTINF:-1 group-title="Other",IT:TgNorba24
+http://tv2iptv.com:8080/gill/Gill2020/175435
+#EXTINF:-1 group-title="Other",IT:TgCom24
+http://tv2iptv.com:8080/gill/Gill2020/175434
+#EXTINF:-1 group-title="Other",IT:SuperTennisFHD
+http://tv2iptv.com:8080/gill/Gill2020/175433
+#EXTINF:-1 group-title="Other",IT:Spike
+http://tv2iptv.com:8080/gill/Gill2020/175432
+#EXTINF:-1 group-title="Sky",IT:SkyUnoFHD
+http://tv2iptv.com:8080/gill/Gill2020/175431
+#EXTINF:-1 group-title="Sky",IT:SkyTg24
+http://tv2iptv.com:8080/gill/Gill2020/175430
+#EXTINF:-1 group-title="Sky",IT:SkySportUnoFHD
+http://tv2iptv.com:8080/gill/Gill2020/175429
+#EXTINF:-1 group-title="Sky",IT:SkySportNBAFHD
+http://tv2iptv.com:8080/gill/Gill2020/175428
+#EXTINF:-1 group-title="Sky",IT:SkySportMotoGPFHD
+http://tv2iptv.com:8080/gill/Gill2020/175427
+#EXTINF:-1 group-title="Sky",IT:SkySportFootballFHD
+http://tv2iptv.com:8080/gill/Gill2020/175426
+#EXTINF:-1 group-title="Sky",IT:SkySportF1FHD
+http://tv2iptv.com:8080/gill/Gill2020/175425
+#EXTINF:-1 group-title="Sky",IT:SkySportCollectionFHD
+http://tv2iptv.com:8080/gill/Gill2020/175424
+#EXTINF:-1 group-title="Sky",IT:SkySportArenaHD
+http://tv2iptv.com:8080/gill/Gill2020/175423
+#EXTINF:-1 group-title="Sky",IT:SkySport251FHD
+http://tv2iptv.com:8080/gill/Gill2020/175422
+#EXTINF:-1 group-title="Sky",IT:SkySport24FHD
+http://tv2iptv.com:8080/gill/Gill2020/175421
+#EXTINF:-1 group-title="Sky",IT:SkySerieAFHD
+http://tv2iptv.com:8080/gill/Gill2020/175420
+#EXTINF:-1 group-title="Sky",IT:SkyEurosport2FHD
+http://tv2iptv.com:8080/gill/Gill2020/175419
+#EXTINF:-1 group-title="Sky",IT:SkyCinemaUnoFHD
+http://tv2iptv.com:8080/gill/Gill2020/175418
+#EXTINF:-1 group-title="Sky",IT:SkyCinemaUno+24FHD
+http://tv2iptv.com:8080/gill/Gill2020/175417
+#EXTINF:-1 group-title="Sky",IT:SkyCinemaSuspenceFHD
+http://tv2iptv.com:8080/gill/Gill2020/175416
+#EXTINF:-1 group-title="Sky",IT:SkyCinemaRomanceFHD
+http://tv2iptv.com:8080/gill/Gill2020/175415
+#EXTINF:-1 group-title="Sky",IT:SkyCinemaFamilyFHD
+http://tv2iptv.com:8080/gill/Gill2020/175414
+#EXTINF:-1 group-title="Sky",IT:SkyCinemaDueFHD
+http://tv2iptv.com:8080/gill/Gill2020/175413
+#EXTINF:-1 group-title="Sky",IT:SkyCinemaDue24FHD
+http://tv2iptv.com:8080/gill/Gill2020/175412
+#EXTINF:-1 group-title="Sky",IT:SkyCinemaDramaFHD
+http://tv2iptv.com:8080/gill/Gill2020/175411
+#EXTINF:-1 group-title="Sky",IT:SkyCinemaComedyFHD
+http://tv2iptv.com:8080/gill/Gill2020/175410
+#EXTINF:-1 group-title="Sky",IT:SkyCinemaCollectionFHD
+http://tv2iptv.com:8080/gill/Gill2020/175409
+#EXTINF:-1 group-title="Sky",IT:SkyCinemaActionFHD
+http://tv2iptv.com:8080/gill/Gill2020/175408
+#EXTINF:-1 group-title="Sky",IT:SkyAtlanticFHD
+http://tv2iptv.com:8080/gill/Gill2020/175407
+#EXTINF:-1 group-title="Sky",IT:SkyAtlantic 1FHD
+http://tv2iptv.com:8080/gill/Gill2020/175406
+#EXTINF:-1 group-title="OSN",IT:SkyArteFHD
+http://tv2iptv.com:8080/gill/Gill2020/175405
+#EXTINF:-1 group-title="Other",IT:RSILa2FHD
+http://tv2iptv.com:8080/gill/Gill2020/175404
+#EXTINF:-1 group-title="Other",IT:RSILa1FHD
+http://tv2iptv.com:8080/gill/Gill2020/175403
+#EXTINF:-1 group-title="Other",IT:RomaChannelHD
+http://tv2iptv.com:8080/gill/Gill2020/175402
+#EXTINF:-1 group-title="Other",IT:Rete4FHD
+http://tv2iptv.com:8080/gill/Gill2020/175401
+#EXTINF:-1 group-title="Other",IT:RealTimeD-FHD
+http://tv2iptv.com:8080/gill/Gill2020/175400
+#EXTINF:-1 group-title="Other",IT:RaiYoYoFHD
+http://tv2iptv.com:8080/gill/Gill2020/175399
+#EXTINF:-1 group-title="Other",IT:RaiStoriaFHD
+http://tv2iptv.com:8080/gill/Gill2020/175398
+#EXTINF:-1 group-title="Other",IT:RaiSportFHD
+http://tv2iptv.com:8080/gill/Gill2020/175397
+#EXTINF:-1 group-title="Other",IT:RaiScuolaFHD
+http://tv2iptv.com:8080/gill/Gill2020/175396
+#EXTINF:-1 group-title="Other",IT:RaiPremiumFHD
+http://tv2iptv.com:8080/gill/Gill2020/175395
+#EXTINF:-1 group-title="Other",IT:RaiMovieFHD
+http://tv2iptv.com:8080/gill/Gill2020/175394
+#EXTINF:-1 group-title="Other",IT:RaiGulpFHD
+http://tv2iptv.com:8080/gill/Gill2020/175393
+#EXTINF:-1 group-title="Other",IT:Rai5 HD
+http://tv2iptv.com:8080/gill/Gill2020/175392
+#EXTINF:-1 group-title="Other",IT:Rai4 HD
+http://tv2iptv.com:8080/gill/Gill2020/175391
+#EXTINF:-1 group-title="Other",IT:Rai3HD
+http://tv2iptv.com:8080/gill/Gill2020/175390
+#EXTINF:-1 group-title="Other",IT:Rai3FHD
+http://tv2iptv.com:8080/gill/Gill2020/175389
+#EXTINF:-1 group-title="Other",IT:Rai2HD
+http://tv2iptv.com:8080/gill/Gill2020/175388
+#EXTINF:-1 group-title="Other",IT:Rai2FHD
+http://tv2iptv.com:8080/gill/Gill2020/175387
+#EXTINF:-1 group-title="Other",IT:Rai1FHD
+http://tv2iptv.com:8080/gill/Gill2020/175386
+#EXTINF:-1 group-title="Other",IT:PremiumStoriesHD
+http://tv2iptv.com:8080/gill/Gill2020/175385
+#EXTINF:-1 group-title="Other",IT:PremiumStoriesFHD
+http://tv2iptv.com:8080/gill/Gill2020/175384
+#EXTINF:-1 group-title="Other",IT:PremiumCrimeFHD
+http://tv2iptv.com:8080/gill/Gill2020/175383
+#EXTINF:-1 group-title="Other",IT:PremiumCinema 1
+http://tv2iptv.com:8080/gill/Gill2020/175382
+#EXTINF:-1 group-title="Other",IT:PremiumActionFHD
+http://tv2iptv.com:8080/gill/Gill2020/175381
+#EXTINF:-1 group-title="Other",IT:PESCAeCaccia
+http://tv2iptv.com:8080/gill/Gill2020/175380
+#EXTINF:-1 group-title="Other",IT:ParamountChannel
+http://tv2iptv.com:8080/gill/Gill2020/175379
+#EXTINF:-1 group-title="Other",IT:NoveFHD
+http://tv2iptv.com:8080/gill/Gill2020/175378
+#EXTINF:-1 group-title="Other",IT:NickJr
+http://tv2iptv.com:8080/gill/Gill2020/175377
+#EXTINF:-1 group-title="Other",IT:Nickelodeon
+http://tv2iptv.com:8080/gill/Gill2020/175376
+#EXTINF:-1 group-title="Other",IT:NationalGeoFHD
+http://tv2iptv.com:8080/gill/Gill2020/175375
+#EXTINF:-1 group-title="Other",IT:MediasetEXTRA
+http://tv2iptv.com:8080/gill/Gill2020/175374
+#EXTINF:-1 group-title="Other",IT:Marcopolo
+http://tv2iptv.com:8080/gill/Gill2020/175373
+#EXTINF:-1 group-title="Other",IT:La7FHD
+http://tv2iptv.com:8080/gill/Gill2020/175372
+#EXTINF:-1 group-title="Other",IT:LA7d FHD
+http://tv2iptv.com:8080/gill/Gill2020/175371
+#EXTINF:-1 group-title="Other",IT:La5
+http://tv2iptv.com:8080/gill/Gill2020/175370
+#EXTINF:-1 group-title="Other",IT:Italia1HD
+http://tv2iptv.com:8080/gill/Gill2020/175369
+#EXTINF:-1 group-title="Other",IT:Italia1FHD
+http://tv2iptv.com:8080/gill/Gill2020/175368
+#EXTINF:-1 group-title="Other",IT:InterChannel
+http://tv2iptv.com:8080/gill/Gill2020/175367
+#EXTINF:-1 group-title="Other",IT:HistoryHD
+http://tv2iptv.com:8080/gill/Gill2020/175366
+#EXTINF:-1 group-title="Other",IT:GIALLOFHD
+http://tv2iptv.com:8080/gill/Gill2020/175365
+#EXTINF:-1 group-title="Other",IT:Frisbee
+http://tv2iptv.com:8080/gill/Gill2020/175364
+#EXTINF:-1 group-title="Other",IT:FoxFHD
+http://tv2iptv.com:8080/gill/Gill2020/175363
+#EXTINF:-1 group-title="Other",IT:FoodNetwork Disc
+http://tv2iptv.com:8080/gill/Gill2020/175362
+#EXTINF:-1 group-title="Other",IT:FishingTV
+http://tv2iptv.com:8080/gill/Gill2020/175361
+#EXTINF:-1 group-title="Other",IT:Eurosport2FHD
+http://tv2iptv.com:8080/gill/Gill2020/175360
+#EXTINF:-1 group-title="Other",IT:Eurosport1FHD
+http://tv2iptv.com:8080/gill/Gill2020/175359
+#EXTINF:-1 group-title="Other",IT:DoveTV
+http://tv2iptv.com:8080/gill/Gill2020/175358
+#EXTINF:-1 group-title="Other",IT:DMAXFHD
+http://tv2iptv.com:8080/gill/Gill2020/175357
+#EXTINF:-1 group-title="Other",IT:DisneyCh.+HD
+http://tv2iptv.com:8080/gill/Gill2020/175356
+#EXTINF:-1 group-title="Other",IT:DiscoverySciFHD
+http://tv2iptv.com:8080/gill/Gill2020/175355
+#EXTINF:-1 group-title="Other",IT:DiscoveryFHD
+http://tv2iptv.com:8080/gill/Gill2020/175354
+#EXTINF:-1 group-title="Other",IT:DeAKids
+http://tv2iptv.com:8080/gill/Gill2020/175353
+#EXTINF:-1 group-title="Other",IT:DeAJunior
+http://tv2iptv.com:8080/gill/Gill2020/175352
+#EXTINF:-1 group-title="Other",IT:DaznSerieA
+http://tv2iptv.com:8080/gill/Gill2020/175351
+#EXTINF:-1 group-title="Other",IT:Dazn1
+http://tv2iptv.com:8080/gill/Gill2020/175350
+#EXTINF:-1 group-title="Other",IT:Dazn 2
+http://tv2iptv.com:8080/gill/Gill2020/175349
+#EXTINF:-1 group-title="Other",IT:ComedyCentral
+http://tv2iptv.com:8080/gill/Gill2020/175348
+#EXTINF:-1 group-title="Other",IT:CICrimeInv.FHD
+http://tv2iptv.com:8080/gill/Gill2020/175347
+#EXTINF:-1 group-title="OSN",IT:CartoonNetworkHD
+http://tv2iptv.com:8080/gill/Gill2020/175346
+#EXTINF:-1 group-title="OSN",IT:Cartonito
+http://tv2iptv.com:8080/gill/Gill2020/175345
+#EXTINF:-1 group-title="Other",IT:Canale5HD
+http://tv2iptv.com:8080/gill/Gill2020/175344
+#EXTINF:-1 group-title="Other",IT:Canale5FHD
+http://tv2iptv.com:8080/gill/Gill2020/175343
+#EXTINF:-1 group-title="Other",IT:CACCIAePesca
+http://tv2iptv.com:8080/gill/Gill2020/175342
+#EXTINF:-1 group-title="Other",IT:Boomerang
+http://tv2iptv.com:8080/gill/Gill2020/175341
+#EXTINF:-1 group-title="Other",IT:Boing
+http://tv2iptv.com:8080/gill/Gill2020/175340
+#EXTINF:-1 group-title="Other",IT:Blaze HD
+http://tv2iptv.com:8080/gill/Gill2020/175339
+#EXTINF:-1 group-title="Other",IT:BabyTV
+http://tv2iptv.com:8080/gill/Gill2020/175338
+#EXTINF:-1 group-title="Other",IT:Alice
+http://tv2iptv.com:8080/gill/Gill2020/175337
+#EXTINF:-1 group-title="Other",IT:Nat Geo Wild HD
+http://tv2iptv.com:8080/gill/Gill2020/175336
