@@ -428,13 +428,13 @@ http://152.89.62.111:8080/66666/66666/223311
 http://152.89.62.111:8080/66666/66666/223312
 #EXTINF:-1 group-title="Other",Optus 13 HD
 http://152.89.62.111:8080/66666/66666/223313
-#EXTINF:-1 group-title="Other",Our League 00: 
+#EXTINF:-1 group-title="Other",Our League 00: Halifax Panthers vs York City Knights - Sun 13th 
 http://152.89.62.111:8080/66666/66666/248834
-#EXTINF:-1 group-title="Other",Our League 01:
+#EXTINF:-1 group-title="Other",Our League 01: North Wales Crusaders vs Doncaster - Sun 13th 2:30PM  
 http://152.89.62.111:8080/66666/66666/248833
-#EXTINF:-1 group-title="Other",Our League 02:
+#EXTINF:-1 group-title="Other",Our League 02: Widnes Vikings vs London Broncos - Sun 13th 3:00PM  
 http://152.89.62.111:8080/66666/66666/248832
-#EXTINF:-1 group-title="Other",Our League 03: 
+#EXTINF:-1 group-title="Other",Our League 03: Featherstone Rovers vs Bradford Bulls - Sun 13th 4:30PM
 http://152.89.62.111:8080/66666/66666/248831
 #EXTINF:-1 group-title="Other",Our League 04: 
 http://152.89.62.111:8080/66666/66666/248830
@@ -448,23 +448,23 @@ http://152.89.62.111:8080/66666/66666/248827
 http://152.89.62.111:8080/66666/66666/248826
 #EXTINF:-1 group-title="Other",Our League 09:
 http://152.89.62.111:8080/66666/66666/248825
-#EXTINF:-1 group-title="Other",RPASS 01: Bath v Northampton 3pm
+#EXTINF:-1 group-title="Other",RPASS 01: Scarlets v Edinburgh 1pm
 http://152.89.62.111:8080/66666/66666/250360
-#EXTINF:-1 group-title="Other",RPASS 02: Bristol Bears v London Irish 3pm
+#EXTINF:-1 group-title="Other",RPASS 02: Featherstone v Bradford Bulls 3pm
 http://152.89.62.111:8080/66666/66666/250361
-#EXTINF:-1 group-title="Other",RPASS 03: Exeter v Sale Sharks 3pm
+#EXTINF:-1 group-title="Other",RPASS 03: Halifax Panthers v York City Knights 3pm
 http://152.89.62.111:8080/66666/66666/250362
-#EXTINF:-1 group-title="Other",RPASS 04: Harlequins v Newcastle 3pm
+#EXTINF:-1 group-title="Other",RPASS 04: Widenes Vikings v London Broncos 3pm
 http://152.89.62.111:8080/66666/66666/250363
-#EXTINF:-1 group-title="Other",RPASS 05: Wasps v Leicester 3pm
+#EXTINF:-1 group-title="Other",RPASS 05: North Wales Crusaders v Doncaster RLFC 3pm
 http://152.89.62.111:8080/66666/66666/250364
-#EXTINF:-1 group-title="Other",RPASS 06: Leigh Centurions 3pm
+#EXTINF:-1 group-title="Other",RPASS 06: Ealing Trailfinders v Saracens 4.30pm
 http://152.89.62.111:8080/66666/66666/250365
-#EXTINF:-1 group-title="Other",RPASS 07: Stormers v Lions 3pm
+#EXTINF:-1 group-title="Other",RPASS 07: 
 http://152.89.62.111:8080/66666/66666/250366
-#EXTINF:-1 group-title="Other",RPASS 08: Sharks v Bulls 5.15pm 
+#EXTINF:-1 group-title="Other",RPASS 08: 
 http://152.89.62.111:8080/66666/66666/250367
-#EXTINF:-1 group-title="Other",RPASS 09: Bordeaux Begles v Clermont Auvergne 7.45pm
+#EXTINF:-1 group-title="Other",RPASS 09: 
 http://152.89.62.111:8080/66666/66666/250368
 #EXTINF:-1 group-title="Other",RPASS 10: 
 http://152.89.62.111:8080/66666/66666/250369
@@ -894,9 +894,9 @@ http://152.89.62.111:8080/66666/66666/276621
 http://152.89.62.111:8080/66666/66666/276622
 #EXTINF:-1 group-title="Other",SuperSport Variety 3
 http://152.89.62.111:8080/66666/66666/276623
-#EXTINF:-1 group-title="Other",LRU01. Catalans v Hull 7.45pm
+#EXTINF:-1 group-title="Other",LRU01. Scarlets vs Edinburgh 1pm
 http://152.89.62.111:8080/66666/66666/252262
-#EXTINF:-1 group-title="Other",LRU02. 
+#EXTINF:-1 group-title="Other",LRU02. Ealing vs Saracens 4.30pm
 http://152.89.62.111:8080/66666/66666/252269
 #EXTINF:-1 group-title="Other",LRU03. 
 http://152.89.62.111:8080/66666/66666/252271
@@ -968,7 +968,7 @@ http://152.89.62.111:8080/66666/66666/223758
 http://152.89.62.111:8080/66666/66666/223759
 #EXTINF:-1 group-title="Other",HR01. Yarmouthhttp://152.89.62.111:8080/66666/66666/283103
 #EXTINF:-1 group-title="Other",HR02. Newburyhttp://152.89.62.111:8080/66666/66666/276251
-#EXTINF:-1 group-title="Other",LCR1. Knight riders v Challengers 3.00pm
+#EXTINF:-1 group-title="Other",SBK: Misano Superpole 10am & Race 2 11.30am 
 http://152.89.62.111:8080/66666/66666/276599
 #EXTINF:-1 group-title="Other",ECB Fixtures 00:
 http://152.89.62.111:8080/66666/66666/276358
@@ -1010,25 +1010,25 @@ http://152.89.62.111:8080/66666/66666/276375
 http://152.89.62.111:8080/66666/66666/276376
 #EXTINF:-1 group-title="Other",ECB Fixtures 19:
 http://152.89.62.111:8080/66666/66666/276377
-#EXTINF:-1 group-title="Other",MOT01. Monaco Grand Prix 2pm 
+#EXTINF:-1 group-title="Other",NTT: Detroit Qualifying 2pm & Grand Prix Race 5pm
 http://152.89.62.111:8080/66666/66666/278190
-#EXTINF:-1 group-title="Other",MOT02. Nascar - Echopark Texas GP 7.30pm 
+#EXTINF:-1 group-title="Arabic",Nascar: All Star Open 11pm 
 http://152.89.62.111:8080/66666/66666/278191
-#EXTINF:-1 group-title="OSN",MOT03. Toyota / Save Mart 350 9.00pm
+#EXTINF:-1 group-title="Arabic",Nascar: All Star Race (Mon 1am)
 http://152.89.62.111:8080/66666/66666/279801
-#EXTINF:-1 group-title="Other",MOT04. Aragon Superpole 10am 
+#EXTINF:-1 group-title="Other",MOT04.
 http://152.89.62.111:8080/66666/66666/279802
-#EXTINF:-1 group-title="Other",WRC: Vodafone Rally de Portugal - Sunday ALL LIVE | Sun 23rd 3:45AM
+#EXTINF:-1 group-title="Other",WRC: 
 http://152.89.62.111:8080/66666/66666/287836
-#EXTINF:-1 group-title="Other",WRC: Vodafone Rally de Portugal - Saturday ALL LIVE | Sat 22nd 4:15AM
+#EXTINF:-1 group-title="Other",WRC: 
 http://152.89.62.111:8080/66666/66666/287837
-#EXTINF:-1 group-title="Other",WRC: Vodafone Rally de Portugal - Friday ALL LIVE | Fri 21st 6:00AM
+#EXTINF:-1 group-title="Other",WRC: 
 http://152.89.62.111:8080/66666/66666/287838
-#EXTINF:-1 group-title="Other",WRC: Vodafone Rally de Portugal - Thursday ALL LIVE | Thu 20th 7:00AM
+#EXTINF:-1 group-title="Other",WRC: 
 http://152.89.62.111:8080/66666/66666/287839
-#EXTINF:-1 group-title="Other",WRC: Vodafone Rally de Portugal - Thursday ALL LIVE | Thu 20th 7:00AM
+#EXTINF:-1 group-title="Other",WRC: 
 http://152.89.62.111:8080/66666/66666/287840
-#EXTINF:-1 group-title="Other",MOT05. Aragon Race 2 11.30am 
+#EXTINF:-1 group-title="Other",MOT05.
 http://152.89.62.111:8080/66666/66666/289694
 #EXTINF:-1 group-title="Other",MotoGP : HeadCam 1
 http://152.89.62.111:8080/66666/66666/284323
@@ -1148,14 +1148,8 @@ http://152.89.62.111:8080/66666/66666/223624
 http://152.89.62.111:8080/66666/66666/223760
 #EXTINF:-1 group-title="Other",USA CBS Baton Rouge | 9 WAFB
 http://152.89.62.111:8080/66666/66666/223761
-#EXTINF:-1 group-title="Other",USA TXA21 (KTXA) Dallas
-http://152.89.62.111:8080/66666/66666/223762
 #EXTINF:-1 group-title="Other",USA Peachtree (WPCH) Atlanta
 http://152.89.62.111:8080/66666/66666/223763
-#EXTINF:-1 group-title="Other",USA PBS 13 New York
-http://152.89.62.111:8080/66666/66666/223764
-#EXTINF:-1 group-title="Other",USA KTVK 3TV Arizona's Family Phoenix
-http://152.89.62.111:8080/66666/66666/223765
 #EXTINF:-1 group-title="Other",DIRTVision : $5http://152.89.62.111:8080/66666/66666/284351
 #EXTINF:-1 group-title="Other",DIRTVision : 25th Anniversary | Ohsweken Speedway ( Mondayhttp://152.89.62.111:8080/66666/66666/284352
 #EXTINF:-1 group-title="Other",DIRTVision : 37th annual Kings Royal | Eldora Speedway ( Saturdayhttp://152.89.62.111:8080/66666/66666/284353
@@ -1419,19 +1413,19 @@ http://152.89.62.111:8080/66666/66666/285554
 http://152.89.62.111:8080/66666/66666/285555
 #EXTINF:-1 group-title="Other",LFG4. 
 http://152.89.62.111:8080/66666/66666/285556
-#EXTINF:-1 group-title="Other",INT01. Torquay United vs Notts County
+#EXTINF:-1 group-title="OSN",INT01. Stockport vs Hartlepool 12pm
 http://152.89.62.111:8080/66666/66666/248671
-#EXTINF:-1 group-title="Other",INT02. 
+#EXTINF:-1 group-title="Other",INT02. Rayo Vallecano vs Girona 8pm
 http://152.89.62.111:8080/66666/66666/248739
-#EXTINF:-1 group-title="Other",INT03. 
+#EXTINF:-1 group-title="Other",INT03. Grêmio vs Athletico-PR 8pm
 http://152.89.62.111:8080/66666/66666/249048
-#EXTINF:-1 group-title="Other",INT04. 
+#EXTINF:-1 group-title="Other",INT04. Atlético Mineiro vs São Paulo 8pm
 http://152.89.62.111:8080/66666/66666/249059
-#EXTINF:-1 group-title="Other",INT05. 
+#EXTINF:-1 group-title="Other",INT05. Flamengo vs América Mineiro 8pm
 http://152.89.62.111:8080/66666/66666/249070
-#EXTINF:-1 group-title="Other",INT06. 
+#EXTINF:-1 group-title="Other",INT06. Brazil vs Venezuela 10pm 
 http://152.89.62.111:8080/66666/66666/249097
-#EXTINF:-1 group-title="Other",INT07. 
+#EXTINF:-1 group-title="Other",INT07. Colombia vs Ecuador 1am 
 http://152.89.62.111:8080/66666/66666/249122
 #EXTINF:-1 group-title="Other",INT08.
 http://152.89.62.111:8080/66666/66666/249168
@@ -1599,35 +1593,35 @@ http://152.89.62.111:8080/66666/66666/291880
 http://152.89.62.111:8080/66666/66666/291881
 #EXTINF:-1 group-title="Other",IRE: GAA14:
 http://152.89.62.111:8080/66666/66666/291882
-#EXTINF:-1 group-title="Other",IRE: GAA13: Sligo Rovers vs Drogheda United 7:45
+#EXTINF:-1 group-title="Other",IRE: GAA13:
 http://152.89.62.111:8080/66666/66666/291883
-#EXTINF:-1 group-title="Other",IRE: GAA12: Longford Town vs St Patrick's 7:30
+#EXTINF:-1 group-title="Other",IRE: GAA12: 
 http://152.89.62.111:8080/66666/66666/291884
-#EXTINF:-1 group-title="Other",IRE: GAA11: Donegal V Dublin Semi-Final 18:45
+#EXTINF:-1 group-title="Other",IRE: GAA11: 
 http://152.89.62.111:8080/66666/66666/291885
-#EXTINF:-1 group-title="Other",IRE: GAA10: Down V Laois Relegation 18:00
+#EXTINF:-1 group-title="Other",IRE: GAA10: 
 http://152.89.62.111:8080/66666/66666/291886
-#EXTINF:-1 group-title="Other",IRE: GAA09: Offaly V Fermanagh Semi-Final 17:45
+#EXTINF:-1 group-title="Other",IRE: GAA09: Monaghan V Galway Relegation 15:15 Sunday 13th Jun
 http://152.89.62.111:8080/66666/66666/291887
-#EXTINF:-1 group-title="Other",IRE: GAA08: Kerry V Tyrone Semi-Final 16:20
+#EXTINF:-1 group-title="Other",IRE: GAA08: Armagh V Roscommon Relegation 14:45 Sunday 13th Jun
 http://152.89.62.111:8080/66666/66666/291888
-#EXTINF:-1 group-title="Other",IRE: GAA07: Carlow V Louth Semi-Final 15:45
+#EXTINF:-1 group-title="Other",IRE: GAA07: Sligo V Wexford 14:45 Sunday 13th Jun
 http://152.89.62.111:8080/66666/66666/291889
-#EXTINF:-1 group-title="Other",IRE: GAA06: Derry V Limerick Semi-Final 15:40
+#EXTINF:-1 group-title="Other",IRE: GAA06: Kildare V Meath Semi-Final 13:45 Sunday 13th Jun
 http://152.89.62.111:8080/66666/66666/291890
-#EXTINF:-1 group-title="Other",IRE: GAA05: Clare V Kilkenny 14:15
+#EXTINF:-1 group-title="Other",IRE: GAA05: Westmeath V Limerick 13:30 Sunday 13th Jun
 http://152.89.62.111:8080/66666/66666/291891
-#EXTINF:-1 group-title="Other",IRE: GAA04: Wexford V Dublin 14:45
+#EXTINF:-1 group-title="Other",IRE: GAA04: Waterford V Tipperary 13:30 Sunday 13th Jun
 http://152.89.62.111:8080/66666/66666/291892
-#EXTINF:-1 group-title="Other",IRE: GAA03: Antrim V Laois 14:45
+#EXTINF:-1 group-title="Other",IRE: GAA03: Cork V Galway 13:30 Sunday 13th Jun
 http://152.89.62.111:8080/66666/66666/291893
-#EXTINF:-1 group-title="Other",IRE: GAA02: Cavan V Wicklow Relegation 13:45
+#EXTINF:-1 group-title="Other",IRE: GAA02: Clare V Mayo Semi-Final 13:00 Sunday 13th Jun
 http://152.89.62.111:8080/66666/66666/291894
-#EXTINF:-1 group-title="Other",IRE: GAA01: Cork V Westmeath  Relegation 13:45
+#EXTINF:-1 group-title="Other",IRE: GAA01: Waterford V Antrim Semi-Final 12:00 Sunday 13th Jun
 http://152.89.62.111:8080/66666/66666/291895
-#EXTINF:-1 group-title="Other",1: 
+#EXTINF:-1 group-title="Other",1: NXT Takeover In Your House (Mon 1am)
 http://152.89.62.111:8080/66666/66666/286722
-#EXTINF:-1 group-title="Other",2: 
+#EXTINF:-1 group-title="Other",2: NXT Takeover In Your House (Mon 1am)
 http://152.89.62.111:8080/66666/66666/286723
 #EXTINF:-1 group-title="Other",TEN1. French Open Tennis 10.00am
 http://152.89.62.111:8080/66666/66666/280136
@@ -1921,14 +1915,12 @@ http://152.89.62.111:8080/66666/66666/289023
 http://152.89.62.111:8080/66666/66666/304923
 #EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",TEN3. WTA Nottingham Open 12.00pm
 http://152.89.62.111:8080/66666/66666/287209
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real NHL 01: Colorado Avalanche VS Vegas Golden Knights (NBCSN Feed ) @ 21:00
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA NHL 01: New York Islanders VS Tampa Bay Lightning (NBC Feed ) @ 15:00
 http://152.89.62.111:8080/66666/66666/305430
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real NHL 02: Colorado Avalanche VS Vegas Golden Knights (TVAS Feed ) @ 21:00
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA NHL 02: New York Islanders VS Tampa Bay Lightning (TVAS Feed ) @ 15:00
 http://152.89.62.111:8080/66666/66666/305431
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real NHL 03: Colorado Avalanche VS Vegas Golden Knights (SN Feed ) @ 21:00
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA NHL 03: New York Islanders VS Tampa Bay Lightning (SN Feed ) @ 15:00
 http://152.89.62.111:8080/66666/66666/305432
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real NBA 01: Utah Jazz VS LA Clippers ( ABC Feed ) @ 8:30 PM
-http://152.89.62.111:8080/66666/66666/305717
 #EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",EC9: England v Croatia (SUN 14:00)
 http://152.89.62.111:8080/66666/66666/305898
 #EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",EC10: England v Croatia (SUN 14:00)
@@ -1941,198 +1933,136 @@ http://152.89.62.111:8080/66666/66666/305901
 http://152.89.62.111:8080/66666/66666/305902
 #EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",EC14: Netherlands v Ukraine (SUN 20:00)
 http://152.89.62.111:8080/66666/66666/305903
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 01: 7PM EARLY PRELIMS UFC 263
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 01: 8PM NXT Take Over In Your House
 http://152.89.62.111:8080/66666/66666/306237
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 02: 8PM UFC 263 Adesanya v Vettori
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 02: 8PM NXT Take Over In Your House
 http://152.89.62.111:8080/66666/66666/306238
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 03: 8PM UFC 263 Adesanya v Vettori
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 03: PWA Black Label 
 http://152.89.62.111:8080/66666/66666/306239
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 04: 8PM UFC 263 Adesanya v Vettori SD SD SD
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 04: 4PM DiscGolf Resistance Discs Open 
 http://152.89.62.111:8080/66666/66666/306240
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 05: 2PM Ritson v Ponce
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 05: 8PM Shine 67
 http://152.89.62.111:8080/66666/66666/306241
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 06: 2PM Ritson v Ponce
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 06: 10PM The Tradition Continues
 http://152.89.62.111:8080/66666/66666/306242
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 07: 6:25/10PM Stevenson v Nakathila
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 07: 3:45PM Bill Picket Rodeo Showdown Vegas
 http://152.89.62.111:8080/66666/66666/306243
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 08: 6:25/10PM Stevenson v Nakathila SD SD SD
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 08:
 http://152.89.62.111:8080/66666/66666/306244
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 09: 6PM YouTubers v TikTokers Battle of the Platforms
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 09: 
 http://152.89.62.111:8080/66666/66666/306245
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 10: 6PM URLtv Nome XI
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 10: 
 http://152.89.62.111:8080/66666/66666/306246
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 11: 8PM Toughman
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 11: 
 http://152.89.62.111:8080/66666/66666/306247
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 12: 5AM MCW Ballroom Brawl
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 12: 
 http://152.89.62.111:8080/66666/66666/306248
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 13: 12PM Texas HS Finals Rodeo Final Perf 
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 13: 
 http://152.89.62.111:8080/66666/66666/306249
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 14: 5PM Triumphant 11 Ross v Ten Pow
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 14: 
 http://152.89.62.111:8080/66666/66666/306250
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 15: 8PM Impact Wrestling Against All Odds
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 15: 
 http://152.89.62.111:8080/66666/66666/306251
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 16: 8PM Fusion Fight League DeJesus v Phillips
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 16: 
 http://152.89.62.111:8080/66666/66666/306252
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 17: 45PM Las Vegas UTB Championship Rnd 
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 17: 
 http://152.89.62.111:8080/66666/66666/306253
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 18: 7PM IWC Reloaded 
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",Events 18: 
 http://152.89.62.111:8080/66666/66666/306254
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV01: EARLY PRELIMS UFC 263 @ 06:00 PM
-http://152.89.62.111:8080/66666/66666/306307
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV02: PRELIMS UFC 263 @ 08:00 PM
-http://152.89.62.111:8080/66666/66666/306308
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV03: UFC Main Card (1080p) 263 Adesanya v Vettori   @ 10:00 PM
-http://152.89.62.111:8080/66666/66666/306309
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV04: UFC Main Card (720p) 10PM 263 Adesanya v Vettori  @ 10:00 PM
-http://152.89.62.111:8080/66666/66666/306310
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV05: EARLY PRELIMS UFC 263 @ 06:00 PM
-http://152.89.62.111:8080/66666/66666/306311
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV06: PRELIMS UFC 263 @ 08:00 PM
-http://152.89.62.111:8080/66666/66666/306312
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV07: UFC 263 Adesanya v Vettori  @ 10:00 PM
-http://152.89.62.111:8080/66666/66666/306313
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV08: UFC 263 Adesanya v Vettori ( Main Local Feed )  @ 10:00 PM
-http://152.89.62.111:8080/66666/66666/306314
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV09: UFC 263 Adesanya v Vettori   (ESP) @ 10:00 PM
-http://152.89.62.111:8080/66666/66666/306315
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV10: EFC 86 Kabesa v Ekson   @ 12:00 PM
-http://152.89.62.111:8080/66666/66666/306316
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV11: Boxing: Ritson v Ponce @ 02:00 PM
-http://152.89.62.111:8080/66666/66666/306317
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV12: Boxing:  Stevenson v Nakathila @ 06:25/10 PM
-http://152.89.62.111:8080/66666/66666/306318
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV13: Boxing: YouTubers v TikTokers Battle of the Platforms @ 06:00 PM
-http://152.89.62.111:8080/66666/66666/306319
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV14: URLtv Nome XI @ 06:00 PM
-http://152.89.62.111:8080/66666/66666/306320
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV15: Toughman @ 08:00 PM
-http://152.89.62.111:8080/66666/66666/306321
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV16:  MCW Ballroom Brawl  @ 05:00 AM
-http://152.89.62.111:8080/66666/66666/306322
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV17: Loretta Lynn Regional MW  12:00 PM
-http://152.89.62.111:8080/66666/66666/306323
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV18: NMRA Ford Performance Nationals @ 12:00 PM
-http://152.89.62.111:8080/66666/66666/306324
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV19: Weekly Racing Oswego   @ 02:00 PM
-http://152.89.62.111:8080/66666/66666/306325
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV20: Midwest Mayhem @ 06:00 PM
-http://152.89.62.111:8080/66666/66666/306326
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV21: Dirt Late Model Dream Eldora     @ 06:00 PM
-http://152.89.62.111:8080/66666/66666/306327
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV22: Triumphant 11 Ross v Ten Pow  @ 05:00 PM
-http://152.89.62.111:8080/66666/66666/306328
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV23: ADRL Gateway Drags  @ 05:00 PM
-http://152.89.62.111:8080/66666/66666/306329
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV24: Boss Series Non Wing Sprints  @ 05:45 PM
-http://152.89.62.111:8080/66666/66666/306330
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV25: JC Flash Memorial Night DIRTcar Big Block @ 06:00 PM
-http://152.89.62.111:8080/66666/66666/306331
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV26: Clyde Martin Micro Sprints @ 06:00 PM
-http://152.89.62.111:8080/66666/66666/306332
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV27: Weekly Racing Fonda  @ 06:00 PM
-http://152.89.62.111:8080/66666/66666/306333
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV28: Weekly Racing Bridgeport @ 06:00 PM
-http://152.89.62.111:8080/66666/66666/306334
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV29: USAC Midgets @ 06:00 PM
-http://152.89.62.111:8080/66666/66666/306335
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV30: IRA Sprints @ 06:30 PM
-http://152.89.62.111:8080/66666/66666/306336
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV31: IWC Reloaded  @ 07:00 PM
-http://152.89.62.111:8080/66666/66666/306337
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV32: Powri Lucas Oil War Sprints @ 07:00 PM
-http://152.89.62.111:8080/66666/66666/306338
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV33: Funny Car Chaos @ 07:00 PM
-http://152.89.62.111:8080/66666/66666/306339
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV34: Weekly Racing Port Royal  @ 07:00 PM
-http://152.89.62.111:8080/66666/66666/306340
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV35: All Star Circuit of Champions  @ 07:00 PM
-http://152.89.62.111:8080/66666/66666/306341
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV36: Saturday Night Series Boone Late Model   @ 07:00 PM
-http://152.89.62.111:8080/66666/66666/306342
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV37: Mid Season Championships Late Model @ 07:30 PM
-http://152.89.62.111:8080/66666/66666/306343
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV38: World Of Outlaws Sprint Cars  @ 07:30 PM
-http://152.89.62.111:8080/66666/66666/306344
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV39: Twisted Tea Open  @ 07:30 PM
-http://152.89.62.111:8080/66666/66666/306345
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV40: Fallen Firefighters Night Lincoln   @ 07:30 PM
-http://152.89.62.111:8080/66666/66666/306346
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV41: NOW600 Speedweek    @ 07:30 PM
-http://152.89.62.111:8080/66666/66666/306347
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV42: 300 Farley Raceway Nationals   @ 08:00 PM
-http://152.89.62.111:8080/66666/66666/306348
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA ppv43: Irwindale Modified Series  @ 08:00 PM
-http://152.89.62.111:8080/66666/66666/306349
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV44: Impact Wrestling Against All Odds  @ 08:00 PM
-http://152.89.62.111:8080/66666/66666/306350
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV45: Fusion Fight League DeJesus v Phillips  @ 08:00 PM
-http://152.89.62.111:8080/66666/66666/306351
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV46: Las Vegas UTB Championship Rnd  @ 08:45 PM
-http://152.89.62.111:8080/66666/66666/306352
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV47: Dave Bradway Jr Memorial Placerville   @ 09:00 PM
-http://152.89.62.111:8080/66666/66666/306353
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV48: IMCA Modifieds @ 09:45 PM
-http://152.89.62.111:8080/66666/66666/306354
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV49: MCW Ballroom Brawl  @ 07:30 PM
-http://152.89.62.111:8080/66666/66666/306355
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV50: Texas HS Finals Rodeo Final Perf @ 12:00 PM
-http://152.89.62.111:8080/66666/66666/306356
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 01: Giants VS Nationals (Giants Feed ) @ 14:05
-http://152.89.62.111:8080/66666/66666/306357
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 02: Giants VS Nationals (Nationals Feed ) @ 14:05
-http://152.89.62.111:8080/66666/66666/306358
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 03: Giants VS Nationals (MLBN Feed ) @ 14:05
-http://152.89.62.111:8080/66666/66666/306359
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 04: Giants VS Nationals (FOX Feed ) @ 19:15
-http://152.89.62.111:8080/66666/66666/306360
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 05: Yankees VS Phillies (Phillies Feed ) @ 16:05
-http://152.89.62.111:8080/66666/66666/306361
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 06: Yankees VS Phillies (MLBN Feed ) @ 16:05
-http://152.89.62.111:8080/66666/66666/306362
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 07: Royals VS Athletics (Royals Feed ) @ 16:07
-http://152.89.62.111:8080/66666/66666/306363
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 08: Royals VS Athletics (Athletics Feed ) @ 16:07
-http://152.89.62.111:8080/66666/66666/306364
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 09: Angels VS D-backs (Angels Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/306365
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 10: Angels VS D-backs (D-backs Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/306366
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 11: Rockies VS Reds (Rockies Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/306367
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 12: Rockies VS Reds (Reds Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/306368
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 13: Padres VS Mets (Padres Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/306369
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 14: Padres VS Mets (Mets Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/306370
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 15: Mariners VS Indians (Mariners Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/306371
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 16: Orioles VS Rays (Rays Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/306372
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 17: Orioles VS Rays (Orioles Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/306373
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 18: Blue Jays VS Red Sox (Red Sox Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/306374
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 19: White Sox VS Tigers (White Sox Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/306375
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 20: White Sox VS Tigers (Tigers Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/306376
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 21: Braves VS Marlins (Braves Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/306377
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 22: Braves VS Marlins (Marlins Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/306378
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 23: Pirates VS Brewers (Pirates Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/306379
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 24: Pirates VS Brewers (Brewers Feed ) @ 16:10
-http://152.89.62.111:8080/66666/66666/306380
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 25: Cardinals VS Cubs (FOX Feed ) @ 19:15
-http://152.89.62.111:8080/66666/66666/306381
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 26: Astros VS Twins (FOX Feed ) @ 19:15
-http://152.89.62.111:8080/66666/66666/306382
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 28: Rangers VS Dodgers (Rangers Feed ) @ 22:10
-http://152.89.62.111:8080/66666/66666/306383
-#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 29: Rangers VS Dodgers (MLBN Feed ) @ 22:10
-http://152.89.62.111:8080/66666/66666/306384
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV01: NXT Take Over In Your House @ 08:00 PM
+http://152.89.62.111:8080/66666/66666/306872
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV02: PWA Black Label @ 06:00 AM
+http://152.89.62.111:8080/66666/66666/306873
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV03: NMRA Ford Performance Nationals @ 12:00 PM
+http://152.89.62.111:8080/66666/66666/306874
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV04: Bill Picket Rodeo Showdown Vegas @ 03:45 PM
+http://152.89.62.111:8080/66666/66666/306875
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV05: Midwest Mayhem  @ 04:00 PM
+http://152.89.62.111:8080/66666/66666/306876
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV06: DiscGolf Resistance Discs Open  @ 04:00 PM
+http://152.89.62.111:8080/66666/66666/306877
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV07: Glen Ridge Motorsports Modifieds  @ 05:30 PM
+http://152.89.62.111:8080/66666/66666/306878
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV08: Nascar Cup Series Texas Motor Speedway  4K @ 06:00 PM
+http://152.89.62.111:8080/66666/66666/306879
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV09: NOSA Sprint Cars @ 07:30 PM
+http://152.89.62.111:8080/66666/66666/306880
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV10: Shine 67 @ 08:00 PM
+http://152.89.62.111:8080/66666/66666/306881
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA PPV11: The Tradition Continues @ 10:00 PM
+http://152.89.62.111:8080/66666/66666/306882
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 01: Giants VS Nationals (Nationals Feed ) @ 13:05
+http://152.89.62.111:8080/66666/66666/306883
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 02: Giants VS Nationals (Giants Feed ) @ 13:05
+http://152.89.62.111:8080/66666/66666/306884
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 03: Yankees VS Phillies (Phillies Feed ) @ 13:05
+http://152.89.62.111:8080/66666/66666/306885
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 04: Yankees VS Phillies (Yankees Feed ) @ 13:05
+http://152.89.62.111:8080/66666/66666/306886
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 05: Yankees VS Phillies (MLBN Feed ) @ 13:05
+http://152.89.62.111:8080/66666/66666/306887
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 06: Rockies VS Reds (Rockies Feed ) @ 13:10
+http://152.89.62.111:8080/66666/66666/306888
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 07: Rockies VS Reds (Reds Feed ) @ 13:10
+http://152.89.62.111:8080/66666/66666/306889
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 08: Padres VS Mets (Padres Feed ) @ 13:10
+http://152.89.62.111:8080/66666/66666/306890
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 09: Mariners VS Indians (Mariners Feed ) @ 13:10
+http://152.89.62.111:8080/66666/66666/306891
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 10: Orioles VS Rays (Rays Feed ) @ 13:10
+http://152.89.62.111:8080/66666/66666/306892
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 11: Orioles VS Rays (Orioles Feed ) @ 13:10
+http://152.89.62.111:8080/66666/66666/306893
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 12: Blue Jays VS Red Sox (Red Sox Feed ) @ 13:10
+http://152.89.62.111:8080/66666/66666/306894
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 13: Blue Jays VS Red Sox (Blue Jays Feed ) @ 13:10
+http://152.89.62.111:8080/66666/66666/306895
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 14: White Sox VS Tigers (White Sox Feed ) @ 13:10
+http://152.89.62.111:8080/66666/66666/306896
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 15: White Sox VS Tigers (Tigers Feed ) @ 13:10
+http://152.89.62.111:8080/66666/66666/306897
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 16: Braves VS Marlins (Braves Feed ) @ 13:10
+http://152.89.62.111:8080/66666/66666/306898
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 17: Braves VS Marlins (Marlins Feed ) @ 13:10
+http://152.89.62.111:8080/66666/66666/306899
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 18: Astros VS Twins (Astros Feed ) @ 14:10
+http://152.89.62.111:8080/66666/66666/306900
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 19: Astros VS Twins (Twins Feed ) @ 14:10
+http://152.89.62.111:8080/66666/66666/306901
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 20: Pirates VS Brewers (Brewers Feed ) @ 14:10
+http://152.89.62.111:8080/66666/66666/306902
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 21: Pirates VS Brewers (Pirates Feed ) @ 14:10
+http://152.89.62.111:8080/66666/66666/306903
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 22: Royals VS Athletics (Royals Feed ) @ 16:07
+http://152.89.62.111:8080/66666/66666/306904
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 23: Royals VS Athletics (Athletics Feed ) @ 16:07
+http://152.89.62.111:8080/66666/66666/306905
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 24: Angels VS D-backs (Angels Feed ) @ 16:10
+http://152.89.62.111:8080/66666/66666/306906
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 25: Angels VS D-backs (D-backs Feed ) @ 16:10
+http://152.89.62.111:8080/66666/66666/306907
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 26: Rangers VS Dodgers (Rangers Feed ) @ 16:10
+http://152.89.62.111:8080/66666/66666/306908
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 28: Rangers VS Dodgers (MLBN Feed ) @ 16:10
+http://152.89.62.111:8080/66666/66666/306909
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real MLB 29: Cardinals VS Cubs (ESPN Feed ) @ 19:08
+http://152.89.62.111:8080/66666/66666/306910
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real NBA 01: Brooklyn Nets VS Milwaukee Bucks ( ABC Feed ) @ 3:00 PM
+http://152.89.62.111:8080/66666/66666/306911
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",USA Real NBA 02: Phoenix Suns VS Denver Nuggets ( TNT Feed ) @ 8:00 PM
+http://152.89.62.111:8080/66666/66666/306912
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",UK SD : BBC RED BUTTON 6
+http://152.89.62.111:8080/66666/66666/307074
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",UK SD : BBC RED BUTTON 5
+http://152.89.62.111:8080/66666/66666/307075
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",UK SD : BBC RED BUTTON 4
+http://152.89.62.111:8080/66666/66666/307076
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",UK SD : BBC RED BUTTON 3
+http://152.89.62.111:8080/66666/66666/307077
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",UK SD : BBC RED BUTTON 2
+http://152.89.62.111:8080/66666/66666/307078
+#EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",UK SD : BBC RED BUTTON 1
+http://152.89.62.111:8080/66666/66666/307079
 #EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",XXX Adult Barely 18
 http://152.89.62.111:8080/66666/66666/223843
 #EXTINF:-1 group-title="POO01. World Championships 12.00/6.00pm**",XXX Adult Beyond Porn 18+ Girls
@@ -12818,6 +12748,8 @@ http://152.89.62.111:8080/66666/66666/222531
 http://152.89.62.111:8080/66666/66666/222570
 #EXTINF:-1 group-title="***** LATINO *****",ITV Be UHD
 http://152.89.62.111:8080/66666/66666/222532
+#EXTINF:-1 group-title="***** LATINO *****",ITV Be FHD
+http://152.89.62.111:8080/66666/66666/306812
 #EXTINF:-1 group-title="***** LATINO *****",ITV Be HD
 http://152.89.62.111:8080/66666/66666/252731
 #EXTINF:-1 group-title="***** LATINO *****",Channel 4 UHD
@@ -13396,36 +13328,6 @@ http://152.89.62.111:8080/66666/66666/280574
 http://152.89.62.111:8080/66666/66666/288869
 #EXTINF:-1 group-title="***** LATINO *****",Khyber TV
 http://152.89.62.111:8080/66666/66666/288871
-#EXTINF:-1 group-title="***** LATINO *****",BBC Red Button 1
-http://152.89.62.111:8080/66666/66666/277303
-#EXTINF:-1 group-title="***** LATINO *****",BBC Red Button 2
-http://152.89.62.111:8080/66666/66666/277304
-#EXTINF:-1 group-title="***** LATINO *****",BBC Red Button 3
-http://152.89.62.111:8080/66666/66666/277305
-#EXTINF:-1 group-title="***** LATINO *****",BBC Red Button 4
-http://152.89.62.111:8080/66666/66666/277306
-#EXTINF:-1 group-title="***** LATINO *****",BBC Red Button 5
-http://152.89.62.111:8080/66666/66666/277307
-#EXTINF:-1 group-title="***** LATINO *****",BBC Red Button 6
-http://152.89.62.111:8080/66666/66666/277308
-#EXTINF:-1 group-title="***** LATINO *****",BBC Red Button 7
-http://152.89.62.111:8080/66666/66666/277309
-#EXTINF:-1 group-title="***** LATINO *****",BBC Red Button 8
-http://152.89.62.111:8080/66666/66666/277310
-#EXTINF:-1 group-title="***** LATINO *****",BBC Red Button 9
-http://152.89.62.111:8080/66666/66666/277311
-#EXTINF:-1 group-title="***** LATINO *****",BBC Red Button 10
-http://152.89.62.111:8080/66666/66666/277312
-#EXTINF:-1 group-title="***** LATINO *****",BBC Red Button 11
-http://152.89.62.111:8080/66666/66666/277313
-#EXTINF:-1 group-title="***** LATINO *****",BBC Red Button 12
-http://152.89.62.111:8080/66666/66666/277314
-#EXTINF:-1 group-title="***** LATINO *****",BBC Red Button 13
-http://152.89.62.111:8080/66666/66666/277315
-#EXTINF:-1 group-title="***** LATINO *****",BBC Red Button 14
-http://152.89.62.111:8080/66666/66666/277316
-#EXTINF:-1 group-title="***** LATINO *****",BBC Red Button 15
-http://152.89.62.111:8080/66666/66666/277317
 #EXTINF:-1 group-title="***** LATINO *****",Sky Cinema Premiere UHD
 http://152.89.62.111:8080/66666/66666/222580
 #EXTINF:-1 group-title="***** LATINO *****",Sky Cinema Premiere FHD
@@ -13778,8 +13680,12 @@ http://152.89.62.111:8080/66666/66666/223393
 http://152.89.62.111:8080/66666/66666/222556
 #EXTINF:-1 group-title="***** LATINO *****",GB News UHD
 http://152.89.62.111:8080/66666/66666/304896
+#EXTINF:-1 group-title="***** LATINO *****",GB News FHD
+http://152.89.62.111:8080/66666/66666/306810
 #EXTINF:-1 group-title="***** LATINO *****",Sky News UHD
 http://152.89.62.111:8080/66666/66666/223396
+#EXTINF:-1 group-title="***** LATINO *****",Sky News FHD
+http://152.89.62.111:8080/66666/66666/306811
 #EXTINF:-1 group-title="***** LATINO *****",Al Jazeera FHD
 http://152.89.62.111:8080/66666/66666/222553
 #EXTINF:-1 group-title="***** LATINO *****",Arise News UHD
@@ -14584,3 +14490,131 @@ http://152.89.62.111:8080/66666/66666/249709
 http://152.89.62.111:8080/66666/66666/249710
 #EXTINF:-1 group-title="***** LATINO *****",NBC Sports NorthWest
 http://152.89.62.111:8080/66666/66666/249711
+#EXTINF:-1 group-title="***** LATINO *****",NBC Sports Chicago Plus LHD
+http://152.89.62.111:8080/66666/66666/249714
+#EXTINF:-1 group-title="***** LATINO *****", NBC Sports Chicago Plus
+http://152.89.62.111:8080/66666/66666/249715
+#EXTINF:-1 group-title="***** LATINO *****",NBC Sports Chicago
+http://152.89.62.111:8080/66666/66666/249716
+#EXTINF:-1 group-title="***** LATINO *****",NBC Sports California
+http://152.89.62.111:8080/66666/66666/249717
+#EXTINF:-1 group-title="***** LATINO *****",NBC Sports California Plus
+http://152.89.62.111:8080/66666/66666/249718
+#EXTINF:-1 group-title="***** LATINO *****",NBC Sports Bay Area
+http://152.89.62.111:8080/66666/66666/249719
+#EXTINF:-1 group-title="***** LATINO *****",NBC Sports Bay Area Plus
+http://152.89.62.111:8080/66666/66666/249720
+#EXTINF:-1 group-title="***** LATINO *****",NBC Sports Boston
+http://152.89.62.111:8080/66666/66666/249721
+#EXTINF:-1 group-title="***** LATINO *****",NBC Sports Boston LHD
+http://152.89.62.111:8080/66666/66666/249722
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 1
+http://152.89.62.111:8080/66666/66666/287318
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 2
+http://152.89.62.111:8080/66666/66666/287319
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 3
+http://152.89.62.111:8080/66666/66666/287320
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 4
+http://152.89.62.111:8080/66666/66666/287321
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 5
+http://152.89.62.111:8080/66666/66666/287322
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 6
+http://152.89.62.111:8080/66666/66666/287323
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 7
+http://152.89.62.111:8080/66666/66666/287324
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 8
+http://152.89.62.111:8080/66666/66666/287325
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 9
+http://152.89.62.111:8080/66666/66666/287326
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 10
+http://152.89.62.111:8080/66666/66666/287327
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 11
+http://152.89.62.111:8080/66666/66666/287328
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 12
+http://152.89.62.111:8080/66666/66666/287329
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 13
+http://152.89.62.111:8080/66666/66666/287330
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 14
+http://152.89.62.111:8080/66666/66666/287331
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 15
+http://152.89.62.111:8080/66666/66666/287332
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 16
+http://152.89.62.111:8080/66666/66666/287333
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 17
+http://152.89.62.111:8080/66666/66666/287334
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 18
+http://152.89.62.111:8080/66666/66666/287335
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 19
+http://152.89.62.111:8080/66666/66666/287336
+#EXTINF:-1 group-title="***** LATINO *****",Peacock TV 20
+http://152.89.62.111:8080/66666/66666/287337
+#EXTINF:-1 group-title="***** LATINO *****",USA NHL Network UHD
+http://152.89.62.111:8080/66666/66666/249699
+#EXTINF:-1 group-title="***** LATINO *****",USA MLB Network LHD
+http://152.89.62.111:8080/66666/66666/249660
+#EXTINF:-1 group-title="***** LATINO *****",USA MLB Network SD
+http://152.89.62.111:8080/66666/66666/249661
+#EXTINF:-1 group-title="***** LATINO *****",USA MLB Network UHD
+http://152.89.62.111:8080/66666/66666/249662
+#EXTINF:-1 group-title="***** LATINO *****",USA MLB Strike Zone
+http://152.89.62.111:8080/66666/66666/249663
+#EXTINF:-1 group-title="***** LATINO *****",USA ACC Network
+http://152.89.62.111:8080/66666/66666/249797
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Arizona
+http://152.89.62.111:8080/66666/66666/249766
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Cincinnati
+http://152.89.62.111:8080/66666/66666/249765
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Detroit LHD
+http://152.89.62.111:8080/66666/66666/249761
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Detroit
+http://152.89.62.111:8080/66666/66666/249762
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Florida (North)
+http://152.89.62.111:8080/66666/66666/249759
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Florida (South)
+http://152.89.62.111:8080/66666/66666/249760
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Great Lakes LHD
+http://152.89.62.111:8080/66666/66666/249731
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Great Lakes Ohio
+http://152.89.62.111:8080/66666/66666/249732
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Indiana
+http://152.89.62.111:8080/66666/66666/249758
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Midwest
+http://152.89.62.111:8080/66666/66666/249757
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports North LHD
+http://152.89.62.111:8080/66666/66666/249753
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports North
+http://152.89.62.111:8080/66666/66666/249754
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports New Orleans
+http://152.89.62.111:8080/66666/66666/249755
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Oklahoma
+http://152.89.62.111:8080/66666/66666/249750
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Oklahoma LHD
+http://152.89.62.111:8080/66666/66666/249749
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Ohio LHD
+http://152.89.62.111:8080/66666/66666/249751
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Ohio
+http://152.89.62.111:8080/66666/66666/249752
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports SanDiego LHD
+http://152.89.62.111:8080/66666/66666/249745
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports San Diego
+http://152.89.62.111:8080/66666/66666/249746
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports SoCal LHD
+http://152.89.62.111:8080/66666/66666/249747
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports SoCal
+http://152.89.62.111:8080/66666/66666/249748
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports South LHD
+http://152.89.62.111:8080/66666/66666/249743
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports South
+http://152.89.62.111:8080/66666/66666/249744
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Southeast (Georgia)
+http://152.89.62.111:8080/66666/66666/249741
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Southeast (Tennesse)
+http://152.89.62.111:8080/66666/66666/249742
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Southwest LHD
+http://152.89.62.111:8080/66666/66666/249739
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Southwest
+http://152.89.62.111:8080/66666/66666/249740
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Sun (North)
+http://152.89.62.111:8080/66666/66666/249737
+#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Sun (South)
+http://152.89.62.111:8080/66666/66666/249738
