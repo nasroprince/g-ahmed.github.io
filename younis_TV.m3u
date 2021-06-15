@@ -402,6 +402,10 @@ http://ztvuk.com:8080/younis/younis123/25269
 http://ztvuk.com:8080/younis/younis123/12031
 #EXTINF:-1 group-title="UK",BBC Parliament
 http://ztvuk.com:8080/younis/younis123/89369
+#EXTINF:-1 group-title="Other",GB News FHD
+http://ztvuk.com:8080/younis/younis123/99425
+#EXTINF:-1 group-title="Other",GB News HD
+http://ztvuk.com:8080/younis/younis123/99426
 #EXTINF:-1 group-title="Other",AL Jazeera FHD
 http://ztvuk.com:8080/younis/younis123/12204
 #EXTINF:-1 group-title="Other",AL Jazeera HD
@@ -659,15 +663,13 @@ http://ztvuk.com:8080/younis/younis123/89371
 #EXTINF:-1 group-title="Other",Film 4 HD
 http://ztvuk.com:8080/younis/younis123/89343
 #EXTINF:-1 group-title="Sky",Sky Sports Main Event FHD
-http://ztvuk.com:8080/younis/younis123/92261
-#EXTINF:-1 group-title="Sky",Sky Sports Main Event FHD.
 http://ztvuk.com:8080/younis/younis123/20244
 #EXTINF:-1 group-title="Sky",Sky Sports Main Event HD
 http://ztvuk.com:8080/younis/younis123/92078
+#EXTINF:-1 group-title="Sky",Sky Sports Main Event SD
+http://ztvuk.com:8080/younis/younis123/92261
 #EXTINF:-1 group-title="Sky",Sky Sports Premier League FHD
 http://ztvuk.com:8080/younis/younis123/12138
-#EXTINF:-1 group-title="Sky",Sky Sports Premier League FHD.
-http://ztvuk.com:8080/younis/younis123/20245
 #EXTINF:-1 group-title="Sky",Sky Sports Premier League HD
 http://ztvuk.com:8080/younis/younis123/40826
 #EXTINF:-1 group-title="Sky",Sky Sports Cricket FHD
