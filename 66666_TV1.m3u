@@ -1,18 +1,4 @@
-#EXTM3U#EXTM3U#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Wisconsin LHD
-http://152.89.62.111:8080/66666/66666/249733
-#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports Wisconsin
-http://152.89.62.111:8080/66666/66666/249734
-#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports West LHD
-http://152.89.62.111:8080/66666/66666/249735
-#EXTINF:-1 group-title="***** LATINO *****",USA Bally Sports West
-http://152.89.62.111:8080/66666/66666/249736
-#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports UHD
-http://152.89.62.111:8080/66666/66666/249794
-#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports LHD
-http://152.89.62.111:8080/66666/66666/249792
-#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports SD
-http://152.89.62.111:8080/66666/66666/249795
-#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports Xtra
+#EXTM3U#EXTM3U#EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports Xtra
 http://152.89.62.111:8080/66666/66666/249796
 #EXTINF:-1 group-title="***** LATINO *****",USA beIN Sports La Liga
 http://152.89.62.111:8080/66666/66666/249781
